@@ -251,7 +251,7 @@ https://yt-stream.livednow.com/stream/T3AlisdZ6x8/master.m3u8
 https://yt-stream.livednow.com/stream/ds1NaLIL0v0/master.m3u8
 #EXTINF:-1 group-title="F-台湾生活",天才衝衝衝
 https://yt-stream.livednow.com/stream/U7b-qgOeAs0/master.m3u8
-#EXTINF:-1 group-title="F-生活娱乐",天王豬哥秀
+#EXTINF:-1 group-title="F-台湾生活",天王豬哥秀
 https://yt-stream.livednow.com/stream/IsFtLpSuf_g/master.m3u8
 #EXTINF:-1 group-title="F-台湾生活",萬秀豬王
 https://yt-stream.livednow.com/stream/ADDSmXoPDY8/master.m3u8
@@ -295,18 +295,14 @@ https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603
 
 #EXTINF:-1 group-title="F-电影",HBO
 http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="F-电影",HBO
-http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="F-电影",HBO HD
-http://125.227.210.55:35210/VideoInput/play.ts
 #EXTINF:-1 group-title="F-电影",HBO HD
 http://125.227.210.55:35210/VideoInput/play.ts
 
-#EXTINF:-1 group-title="F-电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC4.png",東森洋片
+#EXTINF:-1 group-title="F-电影",東森洋片
 https://fake-stream.livednow.com/laotv/DongsenForeignMovie?token=056590c13ea374b1e2acd1f9e3ccd723&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1 group-title="F-电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/LStime.png",龍祥時代
+#EXTINF:-1 group-title="F-电影",龍祥時代
 https://fake-stream.livednow.com/laotv/Longxiang?token=7bc9660eadd7ad971ef527e2f1209761&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
-#EXTINF:-1 group-title="F-电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC3.png",東森電影
+#EXTINF:-1 group-title="F-电影",東森電影
 https://fake-stream.livednow.com/laotv/DongsenMovie?token=d4ad937288691d13efd01ab155bc9413&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
 
 #EXTINF:-1 group-title="F-TW新聞財經" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/EBC6.png",東森新聞
@@ -363,5 +359,6 @@ https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 http://125.227.210.55:35238/VideoInput/play.ts
 #EXTINF:-1 group-title="未整理",天映頻道
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+
 
 
