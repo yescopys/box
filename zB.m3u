@@ -1,38 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="生活娱乐",Dali_TV(大立)
+#EXTINF:-1 group-title="大爱生活",Dali_TV(大立)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="生活娱乐",大愛1台
+#EXTINF:-1 group-title="大爱生活" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="生活娱乐",大愛1台
-https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="生活娱乐",大愛2台
+#EXTINF:-1 group-title="大爱生活" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png",大爱2台
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="生活娱乐",大愛2台
-https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-#EXTINF:-1 group-title="生活娱乐",番薯台
+#EXTINF:-1 group-title="大爱生活",番薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-#EXTINF:-1 group-title="生活娱乐",東森美洲
-http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
-#EXTINF:-1 group-title="生活娱乐",TVBS亞洲
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 group-title="生活娱乐",超視34.5
-http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 group-title="生活娱乐",時尚台FTV
+#EXTINF:-1 group-title="大爱生活",時尚台FTV
 http://80.94.54.42/fashiontv/stream/playlist.m3u8
-#EXTINF:-1 group-title="生活娱乐",天映頻道
-http://210.210.155.35:80/dr9445/h/h14/02.m3u8
-
-#EXTINF:-1 group-title="NEWS",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="NEWS",TVBS新聞
-http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-#EXTINF:-1 group-title="NEWS",民視新聞
-http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-#EXTINF:-1 group-title="NEWS",台視新聞
-http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 group-title="NEWS",人間衛視
+#EXTINF:-1 group-title="大爱生活",人間衛視
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-#EXTINF:-1 group-title="NEWS",人間衛視
+#EXTINF:-1 group-title="大爱生活",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
 
@@ -50,23 +29,23 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
 #EXTINF:-1 group-title="YouTube(P)",信大
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
-#EXTINF:-1 group-title="YouTube(P)",DW NEWS
+#EXTINF:-1 group-title="YouTube(P)",(DW NEWS)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 #EXTINF:-1 group-title="YouTube(P)",中视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认10
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认11
+#EXTINF:-1 group-title="YouTube(P)", (Asianet-News)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 #EXTINF:-1 group-title="YouTube(P)",華視戲劇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认13
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认14
+#EXTINF:-1 group-title="YouTube(P)", (外国台)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认15
+#EXTINF:-1 group-title="YouTube(P)", (日本ANN-News)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
-#EXTINF:-1 group-title="YouTube(P)",K-POP
+#EXTINF:-1 group-title="YouTube(P)",(K-POP)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 #EXTINF:-1 group-title="YouTube(P)",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
@@ -76,13 +55,13 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 #EXTINF:-1 group-title="YouTube(P)",CCTV4中文国际
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认21
+#EXTINF:-1 group-title="YouTube(P)", (HUBER-TURK)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 #EXTINF:-1 group-title="YouTube(P)",凤凰资讯
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认23
+#EXTINF:-1 group-title="YouTube(P)", 新唐人亚太台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
-#EXTINF:-1 group-title="YouTube(P)",ABC NEWS
+#EXTINF:-1 group-title="YouTube(P)",(ABC NEWS)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 #EXTINF:-1 group-title="YouTube(P)",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
@@ -98,53 +77,53 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 #EXTINF:-1 group-title="YouTube(P)",TVBS新聞
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-#EXTINF:-1 group-title="YouTube(P)",三立NEWS+
+#EXTINF:-1 group-title="YouTube(P)",三立NEWS+)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
-#EXTINF:-1 group-title="YouTube(P)",CBN NEWS
+#EXTINF:-1 group-title="YouTube(P)",(CBN NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 #EXTINF:-1 group-title="YouTube(P)",萬秀豬王
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认35
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
-#EXTINF:-1 group-title="YouTube(P)",INDIA TODAY
+#EXTINF:-1 group-title="YouTube(P)",(INDIA TODAY)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认37
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
-#EXTINF:-1 group-title="YouTube(P)",FRANCE 24
+#EXTINF:-1 group-title="YouTube(P)",(FRANCE 24)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
-#EXTINF:-1 group-title="YouTube(P)",NBC NEWS
+#EXTINF:-1 group-title="YouTube(P)",(NBC NEWS)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认40
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认41
+#EXTINF:-1 group-title="YouTube(P)", 幸福空间居家
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认42
+#EXTINF:-1 group-title="YouTube(P)", MIT台湾志
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 group-title="YouTube(P)",凤凰中文
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认44
+#EXTINF:-1 group-title="YouTube(P)", (MEDIA-ONE)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
 #EXTINF:-1 group-title="YouTube(P)",TBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认46
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 #EXTINF:-1 group-title="YouTube(P)",大爱2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
-#EXTINF:-1 group-title="YouTube(P)",ANN NEWS
+#EXTINF:-1 group-title="YouTube(P)",(ANN NEWS)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 #EXTINF:-1 group-title="YouTube(P)",中天新闻「循环直播」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认50
+#EXTINF:-1 group-title="YouTube(P)", (TWENTY-FOUR)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认51
+#EXTINF:-1 group-title="YouTube(P)", (RADIO-CLOCK)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 #EXTINF:-1 group-title="YouTube(P)",CNA
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 #EXTINF:-1 group-title="YouTube(P)",HTB NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认54
+#EXTINF:-1 group-title="YouTube(P)", 美好2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认55
+#EXTINF:-1 group-title="YouTube(P)", VIVA2台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 #EXTINF:-1 group-title="YouTube(P)",国会频道1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
@@ -154,47 +133,44 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 #EXTINF:-1 group-title="YouTube(P)",半岛新闻「英语」
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认60
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 #EXTINF:-1 group-title="YouTube(P)",KBS NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 #EXTINF:-1 group-title="YouTube(P)",KANSAI NEWS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认63
+#EXTINF:-1 group-title="YouTube(P)", YOYO台
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认64
+#EXTINF:-1 group-title="YouTube(P)", 儿童台1
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认65
+#EXTINF:-1 group-title="YouTube(P)", 儿童台2
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认66
+#EXTINF:-1 group-title="YouTube(P)", 儿童台3
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认67
+#EXTINF:-1 group-title="YouTube(P)", -儿童台4
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认68
+#EXTINF:-1 group-title="YouTube(P)", 儿童台5
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认69
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 #EXTINF:-1 group-title="YouTube(P)",镜新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 #EXTINF:-1 group-title="YouTube(P)",中視
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认72
+#EXTINF:-1 group-title="YouTube(P)", (故障)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认72
+#EXTINF:-1 group-title="YouTube(P)", 猪哥会社
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认74
+#EXTINF:-1 group-title="YouTube(P)", (TIMES-NOW)
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
-#EXTINF:-1 group-title="YouTube(P)", 确认75
+#EXTINF:-1 group-title="YouTube(P)", 台湾连续剧
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 #EXTINF:-1 group-title="YouTube(P)",民視戲劇
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 #EXTINF:-1 group-title="YouTube(P)",Taiwan+
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 
-#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png",大爱1台
-https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png",大爱2台
-https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
 
 #EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png",东森财经
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -387,4 +363,5 @@ https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 http://125.227.210.55:35238/VideoInput/play.ts
 #EXTINF:-1 group-title="未整理",天映頻道
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+
 
