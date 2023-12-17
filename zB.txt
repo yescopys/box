@@ -225,7 +225,6 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 剧集_武林外传,https://live.metshop.top/huya/21059598
 剧集_地下交通站,https://live.metshop.top/huya/11342433
 剧集_邻里一家亲,https://live.metshop.top/huya/11342426
-搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
 大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
 星爷影院代,http://159.75.85.63:35455/douyu/508118
 6MH周星星,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
@@ -374,6 +373,7 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 综艺频道,#genre#
 神医喜来乐,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382714119
 陈翔六点半,http://43.128.40.42:198/虎牙直播/huya.php?id=11274154
+搞笑_陈翔六点半,https://live.metshop.top/huya/11274154
 辽视欢乐大集锦,http://lxajh.top/tv/douyu.php?id=9403712
 东北二人转,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1356033451
 欢乐集结号,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931582
@@ -410,3 +410,11 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 老广的味道,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735565
 舌尖上的中国1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930952
 舌尖上的中国2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930943
+
+福利频道,#genre#
+🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
+
+
+
