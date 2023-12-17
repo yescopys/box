@@ -14,15 +14,217 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="大爱生活",人間衛視
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 
-#EXTINF:-1 group-title="F-电影",HBO
-http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-#EXTINF:-1 group-title="F-电影",HBO HD
-http://125.227.210.55:35210/VideoInput/play.ts
+#EXTINF:-1 group-title="电影解说",鹿哥电影
+https://live.metshop.top/huya/24396360
+#EXTINF:-1 group-title="电影解说",斌哥漫说
+https://live.metshop.top/huya/18632116
+#EXTINF:-1 group-title="电影解说",续哥说电影
+https://live.metshop.top/huya/24396472
+#EXTINF:-1 group-title="电影解说",小川侃电影
+https://live.metshop.top/huya/15870999
+#EXTINF:-1 group-title="电影解说",阿良说剧
+https://live.metshop.top/huya/20488841
+#EXTINF:-1 group-title="电影解说",鱼丸电影
+https://live.metshop.top/huya/16615910
+#EXTINF:-1 group-title="电影解说",阿斗说电影
+https://live.metshop.top/huya/13303478
+#EXTINF:-1 group-title="电影解说",扁豆看电影
+https://live.metshop.top/huya/16028551
+#EXTINF:-1 group-title="电影解说",乌贼说电影
+https://live.metshop.top/huya/16604522
+#EXTINF:-1 group-title="电影解说",大象放映室
+https://live.metshop.top/huya/21277391
+#EXTINF:-1 group-title="电影解说",科幻梦工场
+https://live.metshop.top/huya/15152155
+#EXTINF:-1 group-title="电影解说",亮哥讲电影
+https://live.metshop.top/huya/16144175
+#EXTINF:-1 group-title="电影解说",越哥说电影
+https://live.metshop.top/huya/15894162
+#EXTINF:-1 group-title="电影解说",小冉看电影
+https://live.metshop.top/huya/17341907
+#EXTINF:-1 group-title="电影解说",阿翔说电影
+https://live.metshop.top/huya/16868935
+#EXTINF:-1 group-title="电影解说",虎妞说电影
+https://live.metshop.top/huya/20343144
+#EXTINF:-1 group-title="电影解说",涵哥评电影
+https://live.metshop.top/huya/16865726
+#EXTINF:-1 group-title="电影解说",老皮讲电影
+https://live.metshop.top/huya/16968572
+#EXTINF:-1 group-title="电影解说",默爷侃电影
+https://live.metshop.top/huya/17204307
+#EXTINF:-1 group-title="电影解说",冷君说电影
+https://live.metshop.top/huya/16739452
+#EXTINF:-1 group-title="电影解说",恐怖电影解说
+https://live.metshop.top/huya/16741179
+
+#EXTINF:-1 group-title="电影",星爷
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 group-title="电影",英叔
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 group-title="电影",发哥
+https://live.metshop.top/huya/11342387
+#EXTINF:-1 group-title="电影",成龙
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 group-title="电影",王晶
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 group-title="电影",沈腾
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 group-title="电影",黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 group-title="电影",强森
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 group-title="电影",漫威
+https://live.metshop.top/huya/11602034
+#EXTINF:-1 group-title="电影",宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 group-title="电影",怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 group-title="电影",武侠
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 group-title="电影",警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 group-title="电影",罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 group-title="电影",枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 group-title="电影",海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 group-title="电影",赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 group-title="电影",推荐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 group-title="电影",救援
+https://live.metshop.top/huya/21059594
+#EXTINF:-1 group-title="电影",热血
+https://live.metshop.top/huya/11352934
+#EXTINF:-1 group-title="电影",盗墓
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 group-title="电影",贺岁
+https://live.metshop.top/huya/11601971
+#EXTINF:-1 group-title="电影",玄幻
+https://live.metshop.top/huya/11342414
+#EXTINF:-1 group-title="电影",谍战
+https://live.metshop.top/huya/21059585
+#EXTINF:-1 group-title="电影",战争
+https://live.metshop.top/huya/21059592
+#EXTINF:-1 group-title="电影",喜剧
+https://live.metshop.top/huya/11352877
+#EXTINF:-1 group-title="电影",港片
+https://live.metshop.top/huya/11602043
+#EXTINF:-1 group-title="电影",国产
+https://live.metshop.top/huya/11352973
+#EXTINF:-1 group-title="电影",周星星
+https://live.metshop.top/huya/11336587
+#EXTINF:-1 group-title="电影",李连杰
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 group-title="电影",洪金宝
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 group-title="电影",梁家辉
+https://live.metshop.top/huya/11342429
+#EXTINF:-1 group-title="电影",刘德华
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 group-title="电影",斯坦森
+https://live.metshop.top/huya/21059588
+#EXTINF:-1 group-title="电影",小鬼头
+https://live.metshop.top/huya/11352963
+#EXTINF:-1 group-title="电影",八点档
+https://live.metshop.top/huya/880261
+#EXTINF:-1 group-title="电影",蜘蛛侠
+https://live.metshop.top/huya/21059599
+#EXTINF:-1 group-title="电影",贺岁片
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 group-title="电影",功夫片
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 group-title="电影",黑帮片
+https://live.metshop.top/huya/11336719
+#EXTINF:-1 group-title="电影",丧尸片
+https://live.metshop.top/huya/21059578
+#EXTINF:-1 group-title="电影",灾难片
+https://live.metshop.top/huya/11602075
+#EXTINF:-1 group-title="电影",谍战片
+https://live.metshop.top/huya/21059587
+#EXTINF:-1 group-title="电影",战争片
+https://live.metshop.top/huya/21059574
+#EXTINF:-1 group-title="电影",犯罪片
+https://live.metshop.top/huya/11352974
+#EXTINF:-1 group-title="电影",古装片
+https://live.metshop.top/huya/11336590
+#EXTINF:-1 group-title="电影",高分动作
+https://live.metshop.top/huya/11352884
+#EXTINF:-1 group-title="电影",动作电影
+https://live.metshop.top/huya/11602077
+#EXTINF:-1 group-title="电影",搞笑喜剧
+https://live.metshop.top/huya/11342423
+#EXTINF:-1 group-title="电影",喜剧专场
+https://live.metshop.top/huya/11602044
+#EXTINF:-1 group-title="电影",欢笑影院
+https://live.metshop.top/huya/11352894
+#EXTINF:-1 group-title="电影",不挤影院
+https://live.metshop.top/huya/11352897
+#EXTINF:-1 group-title="电影",国产悬疑
+https://live.metshop.top/huya/11342395
+#EXTINF:-1 group-title="电影",快意江湖
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 group-title="电影",黑帮斗争
+https://live.metshop.top/huya/11342419
+#EXTINF:-1 group-title="电影",嫣然影厅
+https://live.metshop.top/huya/11601977
+#EXTINF:-1 group-title="电影",许氏三杰
+https://live.metshop.top/huya/11602033
+#EXTINF:-1 group-title="电影",经典港片
+https://live.metshop.top/huya/11352965
+#EXTINF:-1 group-title="电影",镖行天下
+https://live.metshop.top/huya/11352969
+#EXTINF:-1 group-title="电影",高能反转
+https://live.metshop.top/huya/11352887
+#EXTINF:-1 group-title="电影",喜乐影院
+https://live.metshop.top/huya/21059580
+#EXTINF:-1 group-title="电影",蘑菇影厅
+https://live.metshop.top/huya/11601981
+#EXTINF:-1 group-title="电影",搞笑恐怖
+https://live.metshop.top/huya/11601960
+#EXTINF:-1 group-title="电影",死神来了
+https://live.metshop.top/huya/11352903
+#EXTINF:-1 group-title="电影",变形金刚
+https://live.metshop.top/huya/21059596
+#EXTINF:-1 group-title="电影",怪兽系列
+https://live.metshop.top/huya/21059554
+
+#EXTINF:-1,搞笑_陈翔六点半
+https://live.metshop.top/huya/11274154
+
+#EXTINF:-1 group-title="剧集",老三国
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 group-title="剧集",新三国
+https://live.metshop.top/huya/11352944
+#EXTINF:-1 group-title="剧集",新水浒
+https://live.metshop.top/huya/11342384
+#EXTINF:-1 group-title="剧集",纪晓岚
+https://live.metshop.top/huya/11342396
+#EXTINF:-1 group-title="剧集",庆余年
+https://live.metshop.top/huya/11352960
+#EXTINF:-1 group-title="剧集",雍正王朝
+https://live.metshop.top/huya/11342439
+#EXTINF:-1 group-title="剧集",士兵突击
+https://live.metshop.top/huya/11342430
+#EXTINF:-1 group-title="剧集",爱情公寓
+https://live.metshop.top/huya/11336726
+#EXTINF:-1 group-title="剧集",武林外传
+https://live.metshop.top/huya/21059598
+#EXTINF:-1 group-title="剧集",地下交通站
+https://live.metshop.top/huya/11342433
+#EXTINF:-1 group-title="剧集",邻里一家亲
+https://live.metshop.top/huya/11342426
 
 
 
 #EXTINF:-1 group-title="F-體育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Videoland7.png",緯來體育台
 https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
+
+#EXTINF:-1 group-title="F-电影",HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="F-电影",HBO HD
+http://125.227.210.55:35210/VideoInput/play.ts
 
 
 #EXTINF:-1 group-title="YouTube(P)",三立INEWS
@@ -324,6 +526,7 @@ http://125.227.210.55:55643/VideoInput/play.ts
 http://125.227.210.55:57286/VideoInput/play.ts
 #EXTINF:-1 group-title="F-福利",🌭香蕉台
 http://125.227.210.55:22522/VideoInput/play.ts
+
 
 
 
