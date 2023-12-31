@@ -1,0 +1,27 @@
+{ "urls": [{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/饭太硬/api.json", "name": "饭太硬" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/小米/api.json", "name": "小米" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/肥猫/api.json", "name": "肥猫" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/PG/api.json", "name": "PG" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/道长JS/api.json", "name": "道长JS" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/菜妮丝/api.json", "name": "菜妮丝" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/南风/api.json", "name": "南风" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/骚零/api.json", "name": "骚零" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/天天开心/api.json", "name": "天天开心" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/荷城茶秀/api.json", "name": "荷城茶秀" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/短剧频道/api.json", "name": "短剧频道" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/少儿频道/api.json", "name": "少儿频道" },
+
+{ "url": "https://raw.githubusercontentS.com/yescopys/box/main/动漫频道/api.json", "name": "动漫频道" }]}
