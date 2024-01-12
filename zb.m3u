@@ -1,0 +1,873 @@
+#EXTM3U
+#EXTINF:-1 group-title="大爱生活",Dali_TV(大立)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="大爱生活" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="大爱生活" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="大爱生活",番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="大爱生活",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="大爱生活",人間衛視
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="大爱生活",人間衛視
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+
+#EXTINF:-1 group-title="电影解说",鹿哥电影
+https://live.metshop.top/huya/24396360
+#EXTINF:-1 group-title="电影解说",斌哥漫说
+https://live.metshop.top/huya/18632116
+#EXTINF:-1 group-title="电影解说",续哥说电影
+https://live.metshop.top/huya/24396472
+#EXTINF:-1 group-title="电影解说",小川侃电影
+https://live.metshop.top/huya/15870999
+#EXTINF:-1 group-title="电影解说",阿良说剧
+https://live.metshop.top/huya/20488841
+#EXTINF:-1 group-title="电影解说",鱼丸电影
+https://live.metshop.top/huya/16615910
+#EXTINF:-1 group-title="电影解说",阿斗说电影
+https://live.metshop.top/huya/13303478
+#EXTINF:-1 group-title="电影解说",扁豆看电影
+https://live.metshop.top/huya/16028551
+#EXTINF:-1 group-title="电影解说",乌贼说电影
+https://live.metshop.top/huya/16604522
+#EXTINF:-1 group-title="电影解说",大象放映室
+https://live.metshop.top/huya/21277391
+#EXTINF:-1 group-title="电影解说",科幻梦工场
+https://live.metshop.top/huya/15152155
+#EXTINF:-1 group-title="电影解说",亮哥讲电影
+https://live.metshop.top/huya/16144175
+#EXTINF:-1 group-title="电影解说",越哥说电影
+https://live.metshop.top/huya/15894162
+#EXTINF:-1 group-title="电影解说",小冉看电影
+https://live.metshop.top/huya/17341907
+#EXTINF:-1 group-title="电影解说",阿翔说电影
+https://live.metshop.top/huya/16868935
+#EXTINF:-1 group-title="电影解说",虎妞说电影
+https://live.metshop.top/huya/20343144
+#EXTINF:-1 group-title="电影解说",涵哥评电影
+https://live.metshop.top/huya/16865726
+#EXTINF:-1 group-title="电影解说",老皮讲电影
+https://live.metshop.top/huya/16968572
+#EXTINF:-1 group-title="电影解说",默爷侃电影
+https://live.metshop.top/huya/17204307
+#EXTINF:-1 group-title="电影解说",冷君说电影
+https://live.metshop.top/huya/16739452
+#EXTINF:-1 group-title="电影解说",恐怖电影解说
+https://live.metshop.top/huya/16741179
+
+#EXTINF:-1 group-title="电影",星爷
+https://live.metshop.top/huya/11342412
+#EXTINF:-1 group-title="电影",英叔
+https://live.metshop.top/huya/11342421
+#EXTINF:-1 group-title="电影",发哥
+https://live.metshop.top/huya/11342387
+#EXTINF:-1 group-title="电影",成龙
+https://live.metshop.top/huya/11342386
+#EXTINF:-1 group-title="电影",王晶
+https://live.metshop.top/huya/11602058
+#EXTINF:-1 group-title="电影",沈腾
+https://live.metshop.top/huya/11601968
+#EXTINF:-1 group-title="电影",黄渤
+https://live.metshop.top/huya/11352876
+#EXTINF:-1 group-title="电影",强森
+https://live.metshop.top/huya/21059581
+#EXTINF:-1 group-title="电影",漫威
+https://live.metshop.top/huya/11602034
+#EXTINF:-1 group-title="电影",宇宙
+https://live.metshop.top/huya/11342428
+#EXTINF:-1 group-title="电影",怪兽
+https://live.metshop.top/huya/21059577
+#EXTINF:-1 group-title="电影",武侠
+https://live.metshop.top/huya/11342427
+#EXTINF:-1 group-title="电影",警匪
+https://live.metshop.top/huya/11352886
+#EXTINF:-1 group-title="电影",罪犯
+https://live.metshop.top/huya/11352962
+#EXTINF:-1 group-title="电影",枪战
+https://live.metshop.top/huya/21059579
+#EXTINF:-1 group-title="电影",海盗
+https://live.metshop.top/huya/21059595
+#EXTINF:-1 group-title="电影",赛车
+https://live.metshop.top/huya/11279247
+#EXTINF:-1 group-title="电影",推荐
+https://live.metshop.top/huya/11602041
+#EXTINF:-1 group-title="电影",救援
+https://live.metshop.top/huya/21059594
+#EXTINF:-1 group-title="电影",热血
+https://live.metshop.top/huya/11352934
+#EXTINF:-1 group-title="电影",盗墓
+https://live.metshop.top/huya/21059552
+#EXTINF:-1 group-title="电影",贺岁
+https://live.metshop.top/huya/11601971
+#EXTINF:-1 group-title="电影",玄幻
+https://live.metshop.top/huya/11342414
+#EXTINF:-1 group-title="电影",谍战
+https://live.metshop.top/huya/21059585
+#EXTINF:-1 group-title="电影",战争
+https://live.metshop.top/huya/21059592
+#EXTINF:-1 group-title="电影",喜剧
+https://live.metshop.top/huya/11352877
+#EXTINF:-1 group-title="电影",港片
+https://live.metshop.top/huya/11602043
+#EXTINF:-1 group-title="电影",国产
+https://live.metshop.top/huya/11352973
+#EXTINF:-1 group-title="电影",周星星
+https://live.metshop.top/huya/11336587
+#EXTINF:-1 group-title="电影",李连杰
+https://live.metshop.top/huya/11342390
+#EXTINF:-1 group-title="电影",洪金宝
+https://live.metshop.top/huya/11279251
+#EXTINF:-1 group-title="电影",梁家辉
+https://live.metshop.top/huya/11342429
+#EXTINF:-1 group-title="电影",刘德华
+https://live.metshop.top/huya/11342424
+#EXTINF:-1 group-title="电影",斯坦森
+https://live.metshop.top/huya/21059588
+#EXTINF:-1 group-title="电影",小鬼头
+https://live.metshop.top/huya/11352963
+#EXTINF:-1 group-title="电影",八点档
+https://live.metshop.top/huya/880261
+#EXTINF:-1 group-title="电影",蜘蛛侠
+https://live.metshop.top/huya/21059599
+#EXTINF:-1 group-title="电影",贺岁片
+https://live.metshop.top/huya/11601986
+#EXTINF:-1 group-title="电影",功夫片
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 group-title="电影",黑帮片
+https://live.metshop.top/huya/11336719
+#EXTINF:-1 group-title="电影",丧尸片
+https://live.metshop.top/huya/21059578
+#EXTINF:-1 group-title="电影",灾难片
+https://live.metshop.top/huya/11602075
+#EXTINF:-1 group-title="电影",谍战片
+https://live.metshop.top/huya/21059587
+#EXTINF:-1 group-title="电影",战争片
+https://live.metshop.top/huya/21059574
+#EXTINF:-1 group-title="电影",犯罪片
+https://live.metshop.top/huya/11352974
+#EXTINF:-1 group-title="电影",古装片
+https://live.metshop.top/huya/11336590
+#EXTINF:-1 group-title="电影",高分动作
+https://live.metshop.top/huya/11352884
+#EXTINF:-1 group-title="电影",动作电影
+https://live.metshop.top/huya/11602077
+#EXTINF:-1 group-title="电影",搞笑喜剧
+https://live.metshop.top/huya/11342423
+#EXTINF:-1 group-title="电影",喜剧专场
+https://live.metshop.top/huya/11602044
+#EXTINF:-1 group-title="电影",欢笑影院
+https://live.metshop.top/huya/11352894
+#EXTINF:-1 group-title="电影",不挤影院
+https://live.metshop.top/huya/11352897
+#EXTINF:-1 group-title="电影",国产悬疑
+https://live.metshop.top/huya/11342395
+#EXTINF:-1 group-title="电影",快意江湖
+https://live.metshop.top/huya/11342435
+#EXTINF:-1 group-title="电影",黑帮斗争
+https://live.metshop.top/huya/11342419
+#EXTINF:-1 group-title="电影",嫣然影厅
+https://live.metshop.top/huya/11601977
+#EXTINF:-1 group-title="电影",许氏三杰
+https://live.metshop.top/huya/11602033
+#EXTINF:-1 group-title="电影",经典港片
+https://live.metshop.top/huya/11352965
+#EXTINF:-1 group-title="电影",镖行天下
+https://live.metshop.top/huya/11352969
+#EXTINF:-1 group-title="电影",高能反转
+https://live.metshop.top/huya/11352887
+#EXTINF:-1 group-title="电影",喜乐影院
+https://live.metshop.top/huya/21059580
+#EXTINF:-1 group-title="电影",蘑菇影厅
+https://live.metshop.top/huya/11601981
+#EXTINF:-1 group-title="电影",搞笑恐怖
+https://live.metshop.top/huya/11601960
+#EXTINF:-1 group-title="电影",死神来了
+https://live.metshop.top/huya/11352903
+#EXTINF:-1 group-title="电影",变形金刚
+https://live.metshop.top/huya/21059596
+#EXTINF:-1 group-title="电影",怪兽系列
+https://live.metshop.top/huya/21059554
+
+
+#EXTINF:-1 group-title="虎牙",周星星
+http://43.138.170.29:35455/huya/24470631
+#EXTINF:-1 group-title="虎牙",林正英
+http://43.138.170.29:35455/huya/11342421
+#EXTINF:-1 group-title="虎牙",沈腾
+http://43.138.170.29:35455/huya/11601968
+#EXTINF:-1 group-title="虎牙",猫和老鼠
+http://43.138.170.29:35455/huya/11352879
+#EXTINF:-1 group-title="虎牙",成龙
+http://43.138.170.29:35455/huya/11342386
+#EXTINF:-1 group-title="虎牙",李连杰
+http://43.138.170.29:35455/huya/11342390
+#EXTINF:-1 group-title="虎牙",刘德华
+http://43.138.170.29:35455/huya/11342424
+#EXTINF:-1 group-title="虎牙",王晶
+http://43.138.170.29:35455/huya/11602058
+#EXTINF:-1 group-title="虎牙",中华小当家
+http://43.138.170.29:35455/huya/11342413
+#EXTINF:-1 group-title="虎牙",杰森·斯坦森
+http://43.138.170.29:35455/huya/21059588
+#EXTINF:-1 group-title="虎牙",喜剧专场
+http://43.138.170.29:35455/huya/11602044
+#EXTINF:-1 group-title="虎牙",甄子丹
+http://43.138.170.29:35455/huya/11352935
+#EXTINF:-1 group-title="虎牙",巨石强森
+http://43.138.170.29:35455/huya/21059581
+#EXTINF:-1 group-title="虎牙",洪金宝
+http://43.138.170.29:35455/huya/11279251
+#EXTINF:-1 group-title="虎牙",詹姆斯邦德
+http://43.138.170.29:35455/huya/21059585
+#EXTINF:-1 group-title="虎牙",徐克
+http://43.138.170.29:35455/huya/11352909
+#EXTINF:-1 group-title="虎牙",周润发
+http://43.138.170.29:35455/huya/11342387
+#EXTINF:-1 group-title="虎牙",徐峥
+http://43.138.170.29:35455/huya/11602043
+#EXTINF:-1 group-title="虎牙",许氏三杰
+http://43.138.170.29:35455/huya/11602033
+#EXTINF:-1 group-title="虎牙",黄渤
+http://43.138.170.29:35455/huya/11352876
+#EXTINF:-1 group-title="虎牙",张卫健
+http://43.138.170.29:35455/huya/11342423
+#EXTINF:-1 group-title="虎牙",冯小刚
+http://43.138.170.29:35455/huya/11352906
+#EXTINF:-1 group-title="虎牙",百鸟朝凤
+http://43.138.170.29:35455/huya/15894162
+#EXTINF:-1 group-title="虎牙",陈翔六点半
+http://43.138.170.29:35455/huya/11274154
+#EXTINF:-1 group-title="虎牙",电锯惊魂系列
+http://43.138.170.29:35455/huya/11352903
+#EXTINF:-1 group-title="虎牙",港台电影
+http://43.138.170.29:35455/huya/880261
+#EXTINF:-1 group-title="虎牙",高分电影
+http://43.138.170.29:35455/huya/16615910
+#EXTINF:-1 group-title="虎牙",搞笑僵尸片
+http://43.138.170.29:35455/huya/11352963
+#EXTINF:-1 group-title="虎牙",国产青春
+http://43.138.170.29:35455/huya/11602075
+#EXTINF:-1 group-title="虎牙",好莱坞
+http://43.138.170.29:35455/huya/21059587
+#EXTINF:-1 group-title="虎牙",黑帮斗争
+http://43.138.170.29:35455/huya/11342419
+#EXTINF:-1 group-title="虎牙",红海行动
+http://43.138.170.29:35455/huya/11601986
+#EXTINF:-1 group-title="虎牙",极限挑战]
+http://43.138.170.29:35455/huya/11352914
+#EXTINF:-1 group-title="虎牙",金庸的武侠世界
+http://43.138.170.29:35455/huya/11342435
+#EXTINF:-1 group-title="虎牙",金庸电影
+http://43.138.170.29:35455/huya/11352897
+#EXTINF:-1 group-title="虎牙",经典高智商
+http://43.138.170.29:35455/huya/11352962
+#EXTINF:-1 group-title="虎牙",经典好片
+http://43.138.170.29:35455/huya/11342427
+#EXTINF:-1 group-title="虎牙",经典喜剧片
+http://43.138.170.29:35455/huya/11352894
+#EXTINF:-1 group-title="虎牙",精彩不断
+http://43.138.170.29:35455/huya/24396428
+#EXTINF:-1 group-title="虎牙",精忠岳飞南征北战
+http://43.138.170.29:35455/huya/11336578
+#EXTINF:-1 group-title="虎牙",警匪
+http://43.138.170.29:35455/huya/11352886
+#EXTINF:-1 group-title="虎牙",看救援电影
+http://43.138.170.29:35455/huya/21059586
+#EXTINF:-1 group-title="虎牙",科幻电影
+http://43.138.170.29:35455/huya/11602034
+#EXTINF:-1 group-title="虎牙",路飞
+http://43.138.170.29:35455/huya/16913382
+#EXTINF:-1 group-title="虎牙",麻雀
+http://43.138.170.29:35455/huya/11352881
+#EXTINF:-1 group-title="虎牙",命案十三宗
+http://43.138.170.29:35455/huya/11601981
+#EXTINF:-1 group-title="虎牙",魔法世界
+http://43.138.170.29:35455/huya/21059580
+#EXTINF:-1 group-title="虎牙",欧美电影
+http://43.138.170.29:35455/huya/11352880
+#EXTINF:-1 group-title="虎牙",欧美电影
+http://43.138.170.29:35455/huya/21059581
+#EXTINF:-1 group-title="虎牙",欧美娱乐
+http://43.138.170.29:35455/huya/21059574
+#EXTINF:-1 group-title="虎牙",倩女幽魂
+http://43.138.170.29:35455/huya/11601970
+#EXTINF:-1 group-title="虎牙",港台电影
+http://43.138.170.29:35455/huya/880261
+#EXTINF:-1 group-title="虎牙",黑帮斗争
+http://43.138.170.29:35455/huya/11342419
+#EXTINF:-1 group-title="虎牙",未知
+http://43.138.170.29:35455/huya/11601986
+#EXTINF:-1 group-title="虎牙",极限挑战
+http://43.138.170.29:35455/huya/11352914
+#EXTINF:-1 group-title="虎牙",金庸电影
+http://43.138.170.29:35455/huya/11352897
+#EXTINF:-1 group-title="虎牙",经典电影
+http://43.138.170.29:35455/huya/11352962
+#EXTINF:-1 group-title="虎牙",经典好片
+http://43.138.170.29:35455/huya/11342427
+#EXTINF:-1 group-title="虎牙",经典喜剧片
+http://43.138.170.29:35455/huya/11352894
+#EXTINF:-1 group-title="虎牙",警匪
+http://43.138.170.29:35455/huya/11352886
+#EXTINF:-1 group-title="虎牙",救援电影
+http://43.138.170.29:35455/huya/21059586
+#EXTINF:-1 group-title="虎牙",科幻电影
+http://43.138.170.29:35455/huya/11602034
+#EXTINF:-1 group-title="虎牙",电影22
+http://43.138.170.29:35455/huya/11601981
+#EXTINF:-1 group-title="虎牙",欧美电影
+http://43.138.170.29:35455/huya/11352880
+#EXTINF:-1 group-title="虎牙",欧美电影
+http://43.138.170.29:35455/huya/21059581
+#EXTINF:-1 group-title="虎牙",电影23
+http://43.138.170.29:35455/huya/11601970
+#EXTINF:-1 group-title="虎牙",电影33
+http://43.138.170.29:35455/huya/11602077
+#EXTINF:-1 group-title="虎牙",史诗级战争电影
+http://43.138.170.29:35455/huya/21059556
+#EXTINF:-1 group-title="虎牙",电影24
+http://43.138.170.29:35455/huya/21059579
+#EXTINF:-1 group-title="虎牙",电影55
+http://43.138.170.29:35455/huya/23652317
+#EXTINF:-1 group-title="虎牙",喜剧专场
+http://43.138.170.29:35455/huya/11602044
+#EXTINF:-1 group-title="虎牙",电影26
+http://43.138.170.29:35455/huya/21059577
+#EXTINF:-1 group-title="虎牙",电影77
+http://43.138.170.29:35455/huya/11601971
+#EXTINF:-1 group-title="虎牙",电影78
+http://43.138.170.29:35455/huya/11342414
+#EXTINF:-1 group-title="虎牙",庆余年
+http://43.138.170.29:35455/huya/11352960
+#EXTINF:-1 group-title="虎牙",三国演义
+http://43.138.170.29:35455/huya/11602077
+#EXTINF:-1 group-title="虎牙",神话
+http://43.138.170.29:35455/huya/11352913
+#EXTINF:-1 group-title="虎牙",生活大爆炸
+http://43.138.170.29:35455/huya/11342417
+#EXTINF:-1 group-title="虎牙",史诗级战争电影
+http://43.138.170.29:35455/huya/21059556
+#EXTINF:-1 group-title="虎牙",孙悟空
+http://43.138.170.29:35455/huya/11342395
+#EXTINF:-1 group-title="虎牙",太空混战
+http://43.138.170.29:35455/huya/21059579
+#EXTINF:-1 group-title="虎牙",天雷滚滚
+http://43.138.170.29:35455/huya/11352945
+#EXTINF:-1 group-title="虎牙",天龙八部
+http://43.138.170.29:35455/huya/11602041
+#EXTINF:-1 group-title="虎牙",歪果仁动作
+http://43.138.170.29:35455/huya/21059552
+#EXTINF:-1 group-title="虎牙",文成公主
+http://43.138.170.29:35455/huya/11352974
+#EXTINF:-1 group-title="虎牙",我是大哥大
+http://43.138.170.29:35455/huya/23652317
+#EXTINF:-1 group-title="虎牙",喜剧合家欢
+http://43.138.170.29:35455/huya/11352877
+#EXTINF:-1 group-title="虎牙",喜剧专场
+http://43.138.170.29:35455/huya/11602044
+#EXTINF:-1 group-title="虎牙",小鲤鱼
+http://43.138.170.29:35455/huya/11601961
+#EXTINF:-1 group-title="虎牙",英叔
+https://ygbh--xingkongbujian.repl.co/huya/11342421
+#EXTINF:-1 group-title="虎牙",王晶
+https://ygbh--xingkongbujian.repl.co/huya/11602058
+#EXTINF:-1 group-title="虎牙",沈腾
+https://ygbh--xingkongbujian.repl.co/huya/11601968
+#EXTINF:-1 group-title="虎牙",怪兽
+https://ygbh--xingkongbujian.repl.co/huya/21059577
+#EXTINF:-1 group-title="虎牙",武侠
+https://ygbh--xingkongbujian.repl.co/huya/11342427
+#EXTINF:-1 group-title="虎牙",枪战
+https://ygbh--xingkongbujian.repl.co/huya/21059579
+#EXTINF:-1 group-title="虎牙",推荐
+https://ygbh--xingkongbujian.repl.co/huya/11602041
+#EXTINF:-1 group-title="虎牙",盗墓
+https://ygbh--xingkongbujian.repl.co/huya/21059552
+#EXTINF:-1 group-title="虎牙",玄幻
+https://ygbh--xingkongbujian.repl.co/huya/11342414
+#EXTINF:-1 group-title="虎牙",谍战
+https://ygbh--xingkongbujian.repl.co/huya/21059585
+#EXTINF:-1 group-title="虎牙",战争
+https://ygbh--xingkongbujian.repl.co/huya/21059592
+#EXTINF:-1 group-title="虎牙",喜剧
+https://ygbh--xingkongbujian.repl.co/huya/11352877
+#EXTINF:-1 group-title="虎牙",国产
+https://ygbh--xingkongbujian.repl.co/huya/11352973
+#EXTINF:-1 group-title="虎牙",李连杰
+https://ygbh--xingkongbujian.repl.co/huya/11342390
+#EXTINF:-1 group-title="虎牙",洪金宝
+https://ygbh--xingkongbujian.repl.co/huya/11279251
+#EXTINF:-1 group-title="虎牙",小鬼头
+https://ygbh--xingkongbujian.repl.co/huya/11352963
+#EXTINF:-1 group-title="虎牙",蜘蛛侠
+https://ygbh--xingkongbujian.repl.co/huya/21059599
+#EXTINF:-1 group-title="虎牙",贺岁片
+https://ygbh--xingkongbujian.repl.co/huya/11601986
+#EXTINF:-1 group-title="虎牙",功夫片
+https://ygbh--xingkongbujian.repl.co/huya/11352941
+#EXTINF:-1 group-title="虎牙",丧尸片
+https://ygbh--xingkongbujian.repl.co/huya/21059578
+#EXTINF:-1 group-title="虎牙",灾难片
+https://ygbh--xingkongbujian.repl.co/huya/11602075
+#EXTINF:-1 group-title="虎牙",谍战片
+https://ygbh--xingkongbujian.repl.co/huya/21059587
+#EXTINF:-1 group-title="虎牙",动作电影
+https://ygbh--xingkongbujian.repl.co/huya/11602077
+#EXTINF:-1 group-title="虎牙",喜剧专场
+https://ygbh--xingkongbujian.repl.co/huya/11602044
+#EXTINF:-1 group-title="虎牙",不挤影院
+https://ygbh--xingkongbujian.repl.co/huya/11352897
+#EXTINF:-1 group-title="虎牙",国产悬疑
+https://ygbh--xingkongbujian.repl.co/huya/11342395
+#EXTINF:-1 group-title="虎牙",古墓系列
+https://ygbh--xingkongbujian.repl.co/huya/11352913
+#EXTINF:-1 group-title="虎牙",高能反转
+https://ygbh--xingkongbujian.repl.co/huya/11352887
+#EXTINF:-1 group-title="虎牙",喜乐影院
+https://ygbh--xingkongbujian.repl.co/huya/21059580
+#EXTINF:-1 group-title="虎牙",死神来了
+https://ygbh--xingkongbujian.repl.co/huya/11352903
+#EXTINF:-1 group-title="虎牙",怪兽系列
+https://ygbh--xingkongbujian.repl.co/huya/21059554
+#EXTINF:-1 group-title="虎牙",新三国
+https://ygbh--xingkongbujian.repl.co/huya/11352944
+#EXTINF:-1 group-title="虎牙",纪晓岚
+https://ygbh--xingkongbujian.repl.co/huya/11342396
+#EXTINF:-1 group-title="虎牙",庆余年
+https://ygbh--xingkongbujian.repl.co/huya/11352960
+#EXTINF:-1 group-title="虎牙",士兵突击
+https://ygbh--xingkongbujian.repl.co/huya/11342430
+#EXTINF:-1 group-title="虎牙",爱情公寓
+https://ygbh--xingkongbujian.repl.co/huya/11336726
+#EXTINF:-1 group-title="虎牙",武林外传
+https://ygbh--xingkongbujian.repl.co/huya/21059598
+#EXTINF:-1 group-title="虎牙",邻里一家亲
+https://ygbh--xingkongbujian.repl.co/huya/11342426
+
+
+#EXTINF:-1 group-title="剧集",老三国
+https://live.metshop.top/huya/11602081
+#EXTINF:-1 group-title="剧集",新三国
+https://live.metshop.top/huya/11352944
+#EXTINF:-1 group-title="剧集",新水浒
+https://live.metshop.top/huya/11342384
+#EXTINF:-1 group-title="剧集",纪晓岚
+https://live.metshop.top/huya/11342396
+#EXTINF:-1 group-title="剧集",庆余年
+https://live.metshop.top/huya/11352960
+#EXTINF:-1 group-title="剧集",雍正王朝
+https://live.metshop.top/huya/11342439
+#EXTINF:-1 group-title="剧集",士兵突击
+https://live.metshop.top/huya/11342430
+#EXTINF:-1 group-title="剧集",爱情公寓
+https://live.metshop.top/huya/11336726
+#EXTINF:-1 group-title="剧集",武林外传
+https://live.metshop.top/huya/21059598
+#EXTINF:-1 group-title="剧集",地下交通站
+https://live.metshop.top/huya/11342433
+#EXTINF:-1 group-title="剧集",邻里一家亲
+https://live.metshop.top/huya/11342426
+
+
+
+#EXTINF:-1 group-title="F-體育" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Videoland7.png",緯來體育台
+https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=6603028310&user_token=b9c4323649499cce4aa68507d5d1d7a4
+
+#EXTINF:-1 group-title="综艺频道",神医喜来乐
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382714119
+#EXTINF:-1 group-title="综艺频道",陈翔六点半
+http://43.128.40.42:198/虎牙直播/huya.php?id=11274154
+#EXTINF:-1 group-title="综艺频道",搞笑_陈翔六点半
+https://live.metshop.top/huya/11274154
+#EXTINF:-1 group-title="综艺频道",辽视欢乐大集锦
+http://lxajh.top/tv/douyu.php?id=9403712
+#EXTINF:-1 group-title="综艺频道",东北二人转
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1356033451
+#EXTINF:-1 group-title="综艺频道",欢乐集结号
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931582
+#EXTINF:-1 group-title="综艺频道",小品合集
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354931503
+
+#EXTINF:-1 group-title="美食频道",李子柒
+http://lxajh.top/tv/douyu.php?id=2901080
+#EXTINF:-1 group-title="美食频道",秦玖儿
+http://lxajh.top/tv/douyu.php?id=1242514
+#EXTINF:-1 group-title="美食频道",山药视频
+http://lxajh.top/tv/douyu.php?id=4262598
+#EXTINF:-1 group-title="美食频道",滇西小哥
+http://lxajh.top/tv/douyu.php?id=3243427
+#EXTINF:-1 group-title="美食频道",九仙人儿
+http://lxajh.top/tv/douyu.php?id=8669085
+#EXTINF:-1 group-title="美食频道",陕北霞姐
+http://lxajh.top/tv/douyu.php?id=9356728
+#EXTINF:-1 group-title="美食频道",胖妹
+http://lxajh.top/tv/douyu.php?id=8540583
+#EXTINF:-1 group-title="美食频道",二米炊烟
+http://lxajh.top/tv/douyu.php?id=9409190
+#EXTINF:-1 group-title="美食频道",二蛋的传说
+http://lxajh.top/tv/douyu.php?id=9622309
+#EXTINF:-1 group-title="美食频道",山药村二牛
+http://lxajh.top/tv/douyu.php?id=8913271
+#EXTINF:-1 group-title="美食频道",野食小哥
+http://lxajh.top/tv/douyu.php?id=1443964
+#EXTINF:-1 group-title="美食频道",乡村瑶哥
+http://lxajh.top/tv/douyu.php?id=9124456
+#EXTINF:-1 group-title="美食频道",胖龙的小生活
+http://lxajh.top/tv/douyu.php?id=9116745
+#EXTINF:-1 group-title="美食频道",兴哥赶海
+http://lxajh.top/tv/douyu.php?id=9785762
+#EXTINF:-1 group-title="美食频道",兄弟赶海
+http://lxajh.top/tv/huya.php?id=24475696
+#EXTINF:-1 group-title="美食频道",大傻瓜
+http://lxajh.top/tv/huya.php?id=23431315
+#EXTINF:-1 group-title="美食频道",大蒙乡味
+http://lxajh.top/tv/huya.php?id=21288462
+#EXTINF:-1 group-title="美食频道",乡村鹅霸
+http://lxajh.top/tv/huya.php?id=21786398
+#EXTINF:-1 group-title="美食频道",炊烟大壮
+http://lxajh.top/tv/huya.php?id=24430930
+#EXTINF:-1 group-title="美食频道",华农兄弟
+http://lxajh.top/tv/huya.php?id=20523588
+#EXTINF:-1 group-title="美食频道",美食作家王刚
+http://lxajh.top/tv/huya.php?id=22306784
+#EXTINF:-1 group-title="美食频道",小船儿荡起双桨
+http://lxajh.top/tv/huya.php?id=23411397
+#EXTINF:-1 group-title="美食频道",原始美食与生活
+http://lxajh.top/tv/huya.php?id=21356214
+#EXTINF:-1 group-title="美食频道",乡村美食炊二锅
+http://lxajh.top/tv/huya.php?id=24309217
+#EXTINF:-1 group-title="美食频道",五阿哥美食记
+http://lxajh.top/tv/huya.php?id=15690118
+#EXTINF:-1 group-title="美食频道",川味
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736913
+#EXTINF:-1 group-title="美食频道",寻味顺德
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382736844
+#EXTINF:-1 group-title="美食频道",老广的味道
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1382735565
+#EXTINF:-1 group-title="美食频道",舌尖上的中国1
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930952
+#EXTINF:-1 group-title="美食频道",舌尖上的中国2
+http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930943
+
+#EXTINF:-1 group-title="F-电影",HBO
+http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
+#EXTINF:-1 group-title="F-电影",HBO HD
+http://125.227.210.55:35210/VideoInput/play.ts
+
+
+#EXTINF:-1 group-title="YouTube(P)",三立INEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="YouTube(P)",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="YouTube(P)",东森财经新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="YouTube(P)",MOMO1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="YouTube(P)",MOMO2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="YouTube(P)",运通财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="YouTube(P)",信大
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(DW NEWS)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="YouTube(P)",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (Asianet-News)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+#EXTINF:-1 group-title="YouTube(P)",華視戲劇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (外国台)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (日本ANN-News)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(K-POP)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 group-title="YouTube(P)",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="YouTube(P)",東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="YouTube(P)",東森購物
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="YouTube(P)",CCTV4中文国际
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (HUBER-TURK)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+#EXTINF:-1 group-title="YouTube(P)",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(ABC NEWS)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 group-title="YouTube(P)",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="YouTube(P)",天才冲冲冲「综艺」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="YouTube(P)",ASTRO AWANI
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
+#EXTINF:-1 group-title="YouTube(P)",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="YouTube(P)",Tokyo Shibuya「东京涩谷」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
+#EXTINF:-1 group-title="YouTube(P)",大爱
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="YouTube(P)",TVBS新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="YouTube(P)",三立NEWS+)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(CBN NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
+#EXTINF:-1 group-title="YouTube(P)",萬秀豬王
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(INDIA TODAY)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(FRANCE 24)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(NBC NEWS)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 幸福空间居家
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="YouTube(P)", MIT台湾志
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="YouTube(P)",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (MEDIA-ONE)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="YouTube(P)",TBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="YouTube(P)",大爱2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(ANN NEWS)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="YouTube(P)",中天新闻「循环直播」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (TWENTY-FOUR)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (RADIO-CLOCK)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+#EXTINF:-1 group-title="YouTube(P)",CNA
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="YouTube(P)",HTB NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 美好2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="YouTube(P)", VIVA2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="YouTube(P)",国会频道1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
+#EXTINF:-1 group-title="YouTube(P)",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 group-title="YouTube(P)",123 GO LIVE
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="YouTube(P)",半岛新闻「英语」
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1 group-title="YouTube(P)",KBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
+#EXTINF:-1 group-title="YouTube(P)",KANSAI NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 group-title="YouTube(P)", YOYO台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 儿童台1
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 儿童台2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 儿童台3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+#EXTINF:-1 group-title="YouTube(P)", -儿童台4
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 儿童台5
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+#EXTINF:-1 group-title="YouTube(P)",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="YouTube(P)",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (故障)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 猪哥会社
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+#EXTINF:-1 group-title="YouTube(P)", (TIMES-NOW)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+#EXTINF:-1 group-title="YouTube(P)", 台湾连续剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+#EXTINF:-1 group-title="YouTube(P)",民視戲劇
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1 group-title="YouTube(P)",Taiwan+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认79)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认80)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认81)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认82)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认83)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认909)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认910)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
+#EXTINF:-1 group-title="YouTube(P)",(待确认911)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
+
+
+
+#EXTINF:-1 group-title="台湾戏剧",我愛冰冰Show
+https://yt-stream.livednow.com/stream/RsiJlzZPxjQ/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",新兵日記
+https://yt-stream.livednow.com/stream/hbm8Uov-YOE/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",新玫瑰瞳鈴眼
+https://yt-stream.livednow.com/stream/dZNl1pqkPuA/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",新唐人亞太電視台
+https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",藍色水玲瓏
+https://yt-stream.livednow.com/stream/298QROP4xe0/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",廉政英雄
+https://yt-stream.livednow.com/stream/wJ5i4x9_kEY/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",終極系列
+https://yt-stream.livednow.com/stream/T3AlisdZ6x8/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",台灣靈異事件
+https://yt-stream.livednow.com/stream/ds1NaLIL0v0/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",天才衝衝衝
+https://yt-stream.livednow.com/stream/U7b-qgOeAs0/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",天王豬哥秀
+https://yt-stream.livednow.com/stream/IsFtLpSuf_g/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",萬秀豬王
+https://yt-stream.livednow.com/stream/ADDSmXoPDY8/master.m3u8
+#EXTINF:-1 group-title="台湾戏剧"",豬哥會社
+https://yt-stream.livednow.com/stream/htGDPsz2BYI/master.m3u8
+
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png",大爱1台
+https://yt-stream.livednow.com/stream/MIqUplvSRWA/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/大爱2台.png",大爱2台
+https://yt-stream.livednow.com/stream/DTNkEm6jaqQ/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/东森新闻台.png",东森新闻
+https://yt-stream.livednow.com/stream/S5WOGu2HSes/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png",东森财经
+https://yt-stream.livednow.com/stream/LbS-xQ67fos/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png",东森财经新闻
+https://yt-stream.livednow.com/stream/WHEPzbFA3hw/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",東森財經股市
+https://yt-stream.livednow.com/stream/6gXbFIaRJt0/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",寰宇新聞台
+https://yt-stream.livednow.com/stream/6IquAgfvYmc/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",TVBS新聞
+https://yt-stream.livednow.com/stream/m_dhMSvUCIc/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png",TVBS新闻
+https://yt-stream.livednow.com/stream/2mCSYvcfhtc/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png",中天新闻
+https://yt-stream.livednow.com/stream/oIgbl7t0S_w/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png",中天新聞2
+https://yt-stream.livednow.com/stream/WPfPjbOLNfE/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png",三立新聞
+https://yt-stream.livednow.com/stream/FoBfXvlOR6I/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png",三立新聞+
+https://yt-stream.livednow.com/stream/oZdzzvxTfUY/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",三立iNEWS
+https://yt-stream.livednow.com/stream/CKjSm5ZeehE/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",鏡新聞
+https://yt-stream.livednow.com/stream/5n0y6b0Q25o/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/公视.png",公视新闻台
+https://yt-stream.livednow.com/stream/quwqlazU-c8/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TTV2.png",台視新聞台
+https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png",中视新闻
+https://yt-stream.livednow.com/stream/TCnaIE_SAtM/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png",民视新闻
+https://yt-stream.livednow.com/stream/ylYJSBUgaMA/master.m3u8
+#EXTINF:-1 group-title="stream-livednow" tvg-logo="https://epg.112114.xyz/logo/民视.png",民视戏剧
+https://yt-stream.livednow.com/stream/xL0ch83RAK8/master.m3u8
+#EXTINF:-1 group-title="stream-livednow",中天亞洲台
+https://yt-stream.livednow.com/stream/s2waUruqze4/master.m3u8
+
+
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png",东森财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/MOMO亲子台.png",MOMO
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/MOMO亲子台.png",MOMO
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/华视.png",华视戏剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png",中天亚洲台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png",民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/华视.png",华视综艺
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/大爱1台.png",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png",TVBS新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/幸福空间居家台.png",幸福空间居家台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/凤凰卫视中文台.png",凤凰中文
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/中天新闻台.png",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/东森幼幼.png",東森幼幼
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/中视.png",中视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
+#EXTINF:-1 group-title="港澳台youtube" tvg-logo="https://epg.112114.xyz/logo/民视.png",民视戏剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+
+
+
+#EXTINF:-1 group-title="未整理" tvg-logo="https://epg.112114.xyz/logo/民视.png",民视戏剧
+https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+#EXTINF:-1 group-title="未整理" tvg-logo="https://epg.112114.xyz/logo/东森财经新闻台.png",东森财经
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1 group-title="未整理" tvg-logo="https://epg.112114.xyz/logo/华视.png",华视综艺
+https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+#EXTINF:-1 group-title="未整理" tvg-logo="https://epg.112114.xyz/logo/华视.png",华视戏剧
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1 group-title="未整理",八大電視
+https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+#EXTINF:-1 group-title="未整理",華視戲劇
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1 group-title="未整理",東森財經
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1 group-title="未整理",寰宇國際新聞
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 group-title="未整理",非凡新聞
+http://125.227.210.55:28993/VideoInput/play.ts
+#EXTINF:-1 group-title="未整理",民視戲劇
+https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
+#EXTINF:-1 group-title="未整理",三立新聞
+http://125.227.210.55:35238/VideoInput/play.ts
+#EXTINF:-1 group-title="未整理",天映頻道
+http://210.210.155.35:80/dr9445/h/h14/02.m3u8
+
+#EXTINF:-1 group-title="F-福利",🔮奥視2
+http://125.227.210.55:55643/VideoInput/play.ts
+#EXTINF:-1 group-title="F-福利",🍑驚艷台
+http://125.227.210.55:57286/VideoInput/play.ts
+#EXTINF:-1 group-title="F-福利",🌭香蕉台
+http://125.227.210.55:22522/VideoInput/play.ts
