@@ -208,6 +208,15 @@ KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
  台湾连续剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
+(待确认79),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
+(待确认80),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
+(待确认81),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+(待确认82),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
+(待确认83),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+(待确认909),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
+(待确认910),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
+(待确认911),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
+
 我愛冰冰Show,https://yt-stream.livednow.com/stream/RsiJlzZPxjQ/master.m3u8
 新兵日記,https://yt-stream.livednow.com/stream/hbm8Uov-YOE/master.m3u8
 新玫瑰瞳鈴眼,https://yt-stream.livednow.com/stream/dZNl1pqkPuA/master.m3u8
