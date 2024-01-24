@@ -197,7 +197,7 @@ KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
  儿童台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
  儿童台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
  儿童台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
- -儿童台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+ 儿童台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
  儿童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
  (故障),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
@@ -517,7 +517,10 @@ Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 舌尖上的中国1,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930952
 舌尖上的中国2,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354930943
 
-
+福利频道,#genre#
+🔮奥視2,http://125.227.210.55:55643/VideoInput/play.ts
+🍑驚艷台,http://125.227.210.55:57286/VideoInput/play.ts
+🌭香蕉台,http://125.227.210.55:22522/VideoInput/play.ts
 
 
 
