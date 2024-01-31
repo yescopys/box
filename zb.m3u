@@ -865,9 +865,3 @@ http://125.227.210.55:35238/VideoInput/play.ts
 #EXTINF:-1 group-title="未整理",天映頻道
 http://210.210.155.35:80/dr9445/h/h14/02.m3u8
 
-#EXTINF:-1 group-title="F-福利",🔮奥視2
-http://125.227.210.55:55643/VideoInput/play.ts
-#EXTINF:-1 group-title="F-福利",🍑驚艷台
-http://125.227.210.55:57286/VideoInput/play.ts
-#EXTINF:-1 group-title="F-福利",🌭香蕉台
-http://125.227.210.55:22522/VideoInput/play.ts
