@@ -317,8 +317,8 @@ async function detail(ids) {
             const playUrl = j + '$' + aid + '+' + cid + '+' + qualitylist.join(':') + '+' + descriptionList.join(':');
             playList.push(playUrl);
         }
-        treeMap['dash'] = playList.join('#');
         treeMap['mp4'] = playList.join('#');
+        treeMap['dash'] = playList.join('#');
 
         const relatedUrl = 'https://api.bilibili.com/x/web-interface/archive/related?bvid=' + bvid;
         const relatedData = JSON.parse(await request(relatedUrl, getHeaders())).data;
@@ -352,20 +352,7 @@ async function play(flag, id, flags) {
         const qualityIds = ids[2].split(':');
         const qualityName = ids[3].split(':');
         const dan = 'https://api.bilibili.com/x/v1/dm/list.so?oid=' + cid;
-        if (flag == 'dash' || flag == '相关') {
-            // dash mpd 代理
-            const js2Base = await js2Proxy(true, siteType, siteKey, 'dash/', {});
-            let urls = [];
-            for (let i = 0; i < qualityIds.length; i++) {
-                urls.push(base64Decode(qualityName[i]), js2Base + base64Encode(aid + '+' + cid + '+' + qualityIds[i]));
-            }
-            return JSON.stringify({
-                parse: 0,
-                url: urls,
-                danmaku: dan,
-                header: playHeaders,
-            });
-        } else if (flag == 'mp4') {
+       if (flag == 'mp4') {
             // 直链
             let urls = [];
             for (let i = 0; i < qualityIds.length; i++) {
@@ -383,7 +370,21 @@ async function play(flag, id, flags) {
                 danmaku: dan,
                 header: playHeaders,
             });
-        } else {
+        } else
+        if (flag == 'dash' || flag == '相关') {
+            // dash mpd 代理
+            const js2Base = await js2Proxy(true, siteType, siteKey, 'dash/', {});
+            let urls = [];
+            for (let i = 0; i < qualityIds.length; i++) {
+                urls.push(base64Decode(qualityName[i]), js2Base + base64Encode(aid + '+' + cid + '+' + qualityIds[i]));
+            }
+            return JSON.stringify({
+                parse: 0,
+                url: urls,
+                danmaku: dan,
+                header: playHeaders,
+            });
+        } else  {
             // 音频外挂
             let urls = [];
             let audios = [];
