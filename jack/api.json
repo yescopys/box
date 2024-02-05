@@ -1407,20 +1407,8 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "bili_open6",
-            "name": "哔哩貓[影视专用]",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
             "key": "bili_open",
-            "name": "哔哩综合┃[js]",
+            "name": "哔哩综合[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1432,7 +1420,7 @@
         },
         {
             "key": "bili_open1",
-            "name": "漫画解说┃[js]",
+            "name": "漫画解说[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1444,7 +1432,7 @@
         },
         {
             "key": "bili_open2",
-            "name": "沙雕┃[js]",
+            "name": "沙雕[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1456,7 +1444,7 @@
         },
         {
             "key": "bili_open3",
-            "name": "电影解说┃[js]",
+            "name": "电影解说[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1468,7 +1456,7 @@
         },
         {
             "key": "bili_open4",
-            "name": "连续剧解说┃[js]",
+            "name": "连续剧解说[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1480,7 +1468,7 @@
         },
         {
             "key": "bili_open5",
-            "name": "短剧┃[js]",
+            "name": "短剧[影视专用]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
