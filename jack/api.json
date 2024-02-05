@@ -1407,32 +1407,8 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "bili_open8",
-            "name": "哔哩貓[影视专用]",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open9",
-            "name": "哔哩貓9[影视专用]",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/yescopys/box/main/jack/js/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
             "key": "bili_open",
-            "name": "哔哩综合[bilibili]",
+            "name": "哔哩综合┃[js]",
             "type": 3,
             "api": "https://raw.githubusercontent.com/yescopys/box/main/jack/js/bili_open.js",
             "searchable": 1,
@@ -1444,7 +1420,7 @@
         },
         {
             "key": "bili_open1",
-            "name": "漫画解说[bilibili]",
+            "name": "漫画解说┃[js]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1456,19 +1432,19 @@
         },
         {
             "key": "bili_open2",
-            "name": "沙雕[bilibili]",
+            "name": "沙雕┃[js]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "categories": "沙雕重生#沙雕穿越#沙雕修仙#沙雕系统#沙雕恐怖#沙雕古代#沙雕都市",
+                "categories": "沙雕#沙雕重生#沙雕穿越#沙雕修仙#沙雕系统#沙雕恐怖#沙雕古代#沙雕都市",
                 "cookie": ""
             }
         },
         {
             "key": "bili_open3",
-            "name": "电影解说[bilibili]",
+            "name": "电影解说┃[js]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1480,7 +1456,7 @@
         },
         {
             "key": "bili_open4",
-            "name": "连续剧解说[bilibili]",
+            "name": "连续剧解说┃[js]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -1492,7 +1468,7 @@
         },
         {
             "key": "bili_open5",
-            "name": "短剧[bilibili]",
+            "name": "短剧┃[js]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
