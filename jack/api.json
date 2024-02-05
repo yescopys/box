@@ -1407,10 +1407,22 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
+            "key": "bili_open6",
+            "name": "哔哩貓[影视专用]",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+        {
             "key": "bili_open",
             "name": "哔哩综合┃[js]",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/yescopys/box/main/jack/js/bili_open.js",
+            "api": "./js/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {
