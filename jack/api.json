@@ -25,50 +25,6 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "低端",
-            "name": "🛣┃低端┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ddys.js"
-        },
-        {
-            "key": "nangua",
-            "name": "🎃┃南瓜┃影视",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/南瓜.js"
-        },
-        {
-            "key": "纽约影院",
-            "name": "🍰┃纽约┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/NY影院.js"
-        },
-        {
-            "key": "咕噜[V2]",
-            "name": "🍰┃咕噜┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/咕噜[V2].js"
-        },
-        {
-            "key": "獨播",
-            "name": "🌊┃獨播┃影视",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/duboku.json",
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
             "key": "haiwaikan",
             "name": "🛫┃海外看┃海外",
             "type": 1,
@@ -119,6 +75,75 @@
             "changeable": 1,
             "jar": "./jars/豆瓣.jar"
         },
+        {
+            "key": "低端",
+            "name": "🛣┃低端┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ddys.js"
+        },
+        {
+            "key": "nangua",
+            "name": "🎃┃南瓜1┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/南瓜.js"
+        },
+        {
+            "key": "猫南瓜",
+            "name": "🎃┃南瓜2┃影视",
+            "type": 3,
+            "api": "./js/猫南瓜.js"
+        },
+        {
+            "key": "nangua",
+            "name": "🎃┃南瓜3┃影视",
+            "type": 3,
+            "api": "./js/ng_open.js"
+        },
+        {
+            "key": "yqk",
+            "name": "🍰┃一起看┃影视",
+            "type": 3,
+            "api": "./js/yqktv_open.js"
+        },
+        {
+            "key": "drpy_js_555电影[V2]",
+            "name": "🍰┃555电影┃影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/555电影[V2].js"
+        },
+        {
+            "key": "纽约影院",
+            "name": "🍰┃纽约┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "咕噜[V2]",
+            "name": "🍰┃咕噜┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/咕噜[V2].js"
+        },
+        {
+            "key": "獨播",
+            "name": "🌊┃獨播┃影视",
+            "type": 3,
+            "api": "csp_XPathMacFilter",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./json/duboku.json",
+            "jar": "./jars/豆瓣.jar"
+        },
       {
       "key": "索尼资源",
       "name": "索尼┃采集",
@@ -155,6 +180,14 @@
       "searchable": 1,
       "quickSearch": 1
     },
+        {
+            "key": "索尼",
+            "name": "🥰┃索尼(直连)",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
      {
       "key": "zy_新浪",
       "name": "新浪┃采集",
@@ -183,11 +216,25 @@
         "日剧",
         "泰剧",
         "体育"
-      ]
-    },
-{"key":"暴风采集","name":"暴风┃采集","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/","playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
+         ]
+       },
+   {
+       "key":"暴风采集",
+       "name":"暴风┃采集",
+       "type":1,
+       "api":"https://app.bfzyapi.com/api.php/provide/vod/",
+       "playUrl":"","categories":["国产剧","国产动漫","动作片","科幻片","剧情片","喜剧片","爱情片","恐怖片","战争片","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","综艺频道","大陆综艺","港台综艺","日本综艺","新马泰综艺","纪录片"]},
+       
+       {
+            "key": "暴風",
+            "name": "🥰┃暴風(直连)",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
 
-{
+     {
       "key": "红牛资源",
       "name": "红牛┃采集",
       "type": 1,
@@ -450,15 +497,6 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/LIBVIO.js"
         },
-        {
-            "key": "Lib",
-            "name": "🍰┃LIBVIO┃影视",
-            "type": 3,
-            "api": "csp_Libvio",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.libvio.pro/"
-        },
          {
             "key": "saohuo",
             "name": " 👗┃骚火┃影视",
@@ -573,22 +611,7 @@
             "changeable": 1,
             "ext": "./js/TVB云播.js"
         },
-        {
-            "key": "暴風",
-            "name": "🥰┃暴風(直连)",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "索尼",
-            "name": "🥰┃索尼(直连)",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
             "key": "量子",
             "name": "🥰┃量子(直连)",
@@ -598,12 +621,95 @@
             "changeable": 1
         },
         {
+            "key": "量子",
+            "name": "量子[fm]",
+            "type": 0,
+            "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫",
+                "体育",
+                "足球",
+                "篮球",
+                "网球",
+                "斯诺克"
+            ]
+        },
+        {
             "key": "非凡",
             "name": "🥰┃非凡(直连)",
             "type": 1,
             "api": "http://cj.ffzyapi.com/api.php/provide/vod",
             "searchable": 1,
             "changeable": 1
+        },
+        {
+            "key": "非凡",
+            "name": "非凡[fm]",
+            "type": 0,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产动漫",
+                "日韩动漫",
+                "国产剧",
+                "韩国剧",
+                "日本剧",
+                "电影片",
+                "连续剧",
+                "综艺片",
+                "动漫片",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "香港剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "欧美动漫",
+                "港台动漫",
+                "海外动漫"
+            ]
         },
         {
             "key": "厂长资源",
@@ -615,19 +721,25 @@
             "ext": "./js/厂长资源.js"
         },
         {
-            "key": "短剧1",
-            "name": "💮┃短剧┃1",
+            "key": "drpy_js_ikanbot1",
+            "name": "聚搜 | 爱看机器人1[js]",
             "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/爱看机器人.js"
         },
         {
-            "key": "短剧2",
-            "name": "💮┃短剧┃2",
-            "type": 1,
-            "api": "http://zzdj.cc/api.php/provide/vod"
+            "key": "drpy_js_ikanbot2",
+            "name": "聚搜 | 爱看机器人2[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ikanbot2.js"
+        },
+        {
+            "key": "drpy_js_ikanbot3",
+            "name": "聚搜 | 爱看机器人3[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/ikanbot3.js"
         },
         {
             "key": "樱花动漫1",
@@ -690,6 +802,52 @@
             "api": "./api/drpy2.min.js",
             "playerType": 1,
             "ext": "./js/B站.js"
+        },
+        {
+            "key": "bili_open",
+            "name": "哔哩貓[影视专用]",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open2",
+            "name": "沙雕[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "drpy_js_短剧网",
+            "name": "💮┃短剧┃短剧网[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/短剧网.js"
+        },
+        {
+            "key": "短剧1",
+            "name": "💮┃短剧┃1",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "短剧2",
+            "name": "💮┃短剧┃2",
+            "type": 1,
+            "api": "http://zzdj.cc/api.php/provide/vod"
         },
         {
             "key": "荐片1",
