@@ -1416,28 +1416,77 @@
         },
         {
             "key": "bili_open",
-            "name": "哔哩[影视专用]",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/FongMi/CatVodOpen/main/open/bili_open.js",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open2",
-            "name": "沙雕[影视专用]",
+            "name": "哔哩综合[bilibili]",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
             "changeable": 0,
             "ext": {
-                "categories": "沙雕动画#沙雕穿越#沙雕",
+                "categories": "电影解说#连续剧解说#沙雕漫画#漫画解说#短剧#穿越剧#重生#赘婿#逆袭#都市#战神",
                 "cookie": ""
             }
         },
+        {
+            "key": "bili_open1",
+            "name": "漫画解说[bilibili]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说系统#漫画解说重生#漫画解说古代#漫画解说降临#漫画解说逆袭#漫画解说末日",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open2",
+            "name": "沙雕[bilibili]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕重生#沙雕穿越#沙雕修仙#沙雕系统#沙雕恐怖#沙雕古代#沙雕都市",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open3",
+            "name": "电影解说[bilibili]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open4",
+            "name": "连续剧解说[bilibili]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open5",
+            "name": "短剧[bilibili]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": {
+                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+                "cookie": ""
+            }
+        },
+
         {
             "key": "drpy_js_短剧网",
             "name": "短剧┃短剧网[js]",
