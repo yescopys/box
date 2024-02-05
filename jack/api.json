@@ -1407,14 +1407,6 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
-            "key": "drpy_哔哩",
-            "name": "哔哩┃合集",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "playerType": 1,
-            "ext": "./js/B站.js"
-        },
-        {
             "key": "bili_open",
             "name": "哔哩综合[bilibili]",
             "type": 3,
