@@ -1406,6 +1406,28 @@
             "changeable": 1,
             "jar": "./jars/豆瓣.jar"
         },
+   {
+        "key": "mybili",
+        "name": "我哔【📺】",
+        "type": 3,
+        "api": "./js/mybili_open.js"
+   }, 
+   {
+        "key": "bililive_open",
+        "name": "哔哩【📺】",
+        "type": 3,
+        "api": "./js/bililive_open.js"
+   },   
+   {
+        "key": "bili",
+        "name": "哔哩2【📺】",
+        "type": 3,
+        "api": "./js/bili_open.js",
+        "ext": { 
+        "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",
+        "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
+                   }
+   }, 
         {
             "key": "bili_open",
             "name": "哔哩综合[影视专用]",
