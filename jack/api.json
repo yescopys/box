@@ -5,6 +5,13 @@
     "​\"spider\"": "./dj0.jar",
     "wallpaper": "",
     "sites": [
+    {
+            "key": "zb2",
+            "name": "台湾第四台(Github直连)",
+            "type": 3,
+            "api": "caiji.js",
+            "ext": "https://catbox.n13.club/?ext=https://raw.githubusercontent.com/yescopys/box/main/zb.txt"
+        },        
         {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣推荐",
