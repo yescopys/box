@@ -1535,10 +1535,6 @@
             "name": "🈚短剧┃2",
             "type": 1,
             "api": "http://zzdj.cc/api.php/provide/vod"
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "filterable": 1, 
-             "categories": [ "短剧"] 
         },
 
         {
