@@ -33,8 +33,30 @@
             "jar": "./jars/豆瓣.jar"
         },
         {
+            "key": "csp_XBPQ_vstv",
+            "name": "VS影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./jars/csp_XBPQ_vstv.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
+        },
+       {
+            "key": "csp_Nbys",
+            "name": "泥巴┃[海外专用]",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
             "key": "haiwaikan",
-            "name": "海外看┃采集",
+            "name": "海外看┃[海外专用]",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
@@ -74,15 +96,7 @@
                 "经典片"
             ]
         },
-       {
-            "key": "csp_Nbys",
-            "name": "泥巴┃[影视专用]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
-        },
+
         {
             "key": "低端",
             "name": "低端┃js",
@@ -246,6 +260,15 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/短剧网.js"
+        },
+        {
+            "key": "短剧1",
+            "name": "短剧1┃js",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
         },
         {
             "key": "drpy_js_ikanbot1",
@@ -1582,34 +1605,14 @@
                 "cookie": ""
             }
         },
-        {
-            "key": "短剧1",
-            "name": "短剧1[影视专用]",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
-        },
+
         {
             "key": "短剧2",
             "name": "短剧2[影视专用]",
             "type": 1,
             "api": "http://zzdj.cc/api.php/provide/vod"
         },
-        {
-            "key": "csp_XBPQ_vstv",
-            "name": "短剧3[影视专用]",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/csp_XBPQ_vstv.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
-        },
+
         {
             "key": "荐片2",
             "name": "荐片┃P2P",
