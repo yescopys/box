@@ -1,4 +1,4 @@
-🎞️台湾台(Youtube),#genre#
+台湾台(Youtube),#genre#
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -105,7 +105,7 @@ Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 豬哥會社,https://yt-stream.livednow.com/stream/htGDPsz2BYI/master.m3u8
 
 
-🐼丨港澳台　,#genre#
+港澳台,#genre#
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -127,7 +127,7 @@ Dali_TV(大立),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 
 
-🐼丨央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
@@ -266,7 +266,7 @@ CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/i
 CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 
-🐼丨Korea,#genre#
+Korea,#genre#
 KBC_광주방송(SBS_光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 NBS_Korea Agricultural Broadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 TJB_대전방송(SBS_大田),http://1.245.74.5:1935/live/tv/.m3u8
@@ -294,7 +294,7 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 朝鲜News,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 
 
-🐼丨IPV6专区,#genre#
+IPV6专区,#genre#
 CCTV-1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV-2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3589111099_-1793408755/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8?icpid=3&RTS=1668594088&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV-3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-1754088424/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8?icpid=3&RTS=1668594245&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
@@ -397,7 +397,7 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 
-🐼丨MTV流行,#genre#
+MTV流行,#genre#
 怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
 经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
 经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
@@ -618,7 +618,7 @@ Beyond_海阔天空,https://vd2.bdstatic.com/mda-jccg84gp61a7n0ms/sc/mda-jccg84g
 我和我的祖国,https://ks-xpc4.xpccdn.com/5d8c248a2a2b4.mp4
 
 
-🐼丨MTV现场,#genre#
+MTV现场,#genre#
 BEYOND-血染的风采,https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201217/5623330UVqF1sc8YPbod665sH.mp4
 许巍-蓝莲花(演唱会),http://em.21dtv.com/songs/60026063.mkv
 许巍-漫步(演唱会),http://em.21dtv.com/songs/60028561.mkv
@@ -701,7 +701,7 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 刀郎-冲动的惩罚西海情歌驼铃等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
 闽南语经典老歌,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 
-🐼丨DJ音乐　,#genre#
+DJ音乐　,#genre#
 斗鱼音乐一FHD,http://epg.112114.xyz/douyu/9588891
 热火斯卡拉,https://vd4.bdstatic.com/mda-nk3qfbxhf5dqpywt/sc/cae_h264/1667582665910576925/mda-nk3qfbxhf5dqpywt.mp4
 怒击摇,https://vd2.bdstatic.com/mda-mkibx9zvknj8d2fu/sc/cae_h264_nowatermark/1637355659217322910/mda-mkibx9zvknj8d2fu.mp4

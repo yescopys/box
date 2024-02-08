@@ -1,4 +1,4 @@
-🎞️台湾台(Youtube),#genre#
+台湾台(Youtube),#genre#
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
@@ -105,7 +105,7 @@ Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 豬哥會社,https://yt-stream.livednow.com/stream/htGDPsz2BYI/master.m3u8
 
 
-🐼丨港澳台　,#genre#
+港澳台,#genre#
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -127,7 +127,7 @@ Dali_TV(大立),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 
 
-🐼丨央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
