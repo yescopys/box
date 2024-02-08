@@ -5,6 +5,13 @@
     "​\"spider\"": "./dj0.jar",
     "wallpaper": "",
     "sites": [
+    {
+      "key": "转点",
+      "name": "第四台",
+      "type": 3,
+      "api": "./lib/apiv2542直转点.js",
+      "ext": "./lib/直转点.txt"
+    },
         {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣推荐",
@@ -401,7 +408,7 @@
         "api": "./mybili_open.js"
    }, 
    {
-        "key": "bililive_open",
+        "key": "bililive_open6",
         "name": "哔哩【📺】",
         "type": 3,
         "api": "./bililive_open.js"
