@@ -5,7 +5,13 @@
     "​\"spider\"": "./dj0.jar",
     "wallpaper": "",
     "sites": [
-
+    {
+      "key": "转点",
+      "name": "第四台",
+      "type": 3,
+      "api": "./lib/apiv2542直转点.js",
+      "ext": "./lib/直转点.txt"
+    },
         {
             "key": "drpy_js_豆瓣",
             "name": "豆瓣推荐",
@@ -1629,20 +1635,6 @@
             "ext": "./json/jianpian.json",
             "jar": "./jars/豆瓣.jar"
         },
-    {
-      "key": "转点",
-      "name": "第四台",
-      "type": 3,
-      "api": "./lib/apiv2542直转点.js",
-      "ext": "./lib/直转点.txt"
-    },
-    {
-            "key": "zb2",
-            "name": "第四台(Github直连)",
-            "type": 3,
-            "api": "caiji.js",
-            "ext": "https://catbox.n13.club/?ext=https://raw.githubusercontent.com/yescopys/box/main/zb.txt"
-        },        
         {
             "key": "csp_Panda_玩偶哥哥",
             "name": "玩偶┃影视",
