@@ -6,6 +6,8 @@
 
 { "url": "https://raw.githubusercontent.com/yescopys/box/main/饭太硬/api.json", "name": "饭太硬(Github)" },
 
+{ "url": "https://raw.githubusercontent.com/yescopys/box/main/xiaobailong/api.json", "name": "小白龙(Github)" },
+
 { "url": "https://raw.githubusercontent.com/yescopys/box/main/小米/api.json", "name": "小米(Github)" },
 
 { "url": "https://raw.githubusercontent.com/yescopys/box/main/肥猫/api.json", "name": "肥猫(Github)" },
