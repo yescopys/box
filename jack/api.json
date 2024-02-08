@@ -11,8 +11,26 @@
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lib/直转点.txt"
     },
+     {
+      "key": "豆豆",
+      "name": "豆瓣小白龙",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+     {
+      "key": "搜索┃豆瓣js",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": " ./js/douban.js"
+    },
+
+
         {
-            "key": "drpy_js_豆瓣",
+            "key": "drpy_js_豆瓣[影视专用]",
             "name": "豆瓣推荐",
             "type": 3,
             "api": "./api/drpy2.min.js",
@@ -23,7 +41,7 @@
         },
         {
             "key": "豆瓣",
-            "name": "豆瓣┃影视",
+            "name": "豆瓣[影视专用]",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -75,7 +93,7 @@
         },
        {
             "key": "csp_Nbys",
-            "name": "泥巴┃海外",
+            "name": "泥巴[影视专用]",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -100,25 +118,25 @@
         },
         {
             "key": "nangua2",
-            "name": "南瓜2┃影视",
+            "name": "南瓜2[影视专用]",
             "type": 3,
             "api": "./js/猫南瓜.js"
         },
         {
             "key": "nangua3",
-            "name": "南瓜3┃影视",
+            "name": "南瓜3[影视专用]",
             "type": 3,
             "api": "./js/ng_open.js"
         },
         {
             "key": "yqk",
-            "name": "一起┃影视",
+            "name": "一起[影视专用]",
             "type": 3,
             "api": "./js/yqktv_open.js"
         },
         {
             "key": "drpy_js_555电影[V2]",
-            "name": "555┃影视",
+            "name": "555[影视专用]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/555电影[V2].js"
@@ -162,7 +180,7 @@
         },
         {
             "key": "忍者",
-            "name": "忍者┃影视",
+            "name": "忍者[影视专用]",
             "api": "csp_AppRZ",
             "type": 3,
             "playerType": "2",
@@ -170,7 +188,7 @@
         },
         {
             "key": "csp_Cs1369",
-            "name": "九六┃影视",
+            "name": "九六[影视专用]",
             "type": 3,
             "api": "csp_Cs1369",
             "searchable": 1,
@@ -179,7 +197,7 @@
         },
         {
             "key": "csp_Auete",
-            "name": "Aue┃影视",
+            "name": "Aue[影视专用]",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -188,7 +206,7 @@
         },
         {
             "key": "Libvio",
-            "name": "Lib┃影视",
+            "name": "Lib[影视专用]",
             "type": 3,
             "playerType": "1",
             "api": "./api/drpy2.min.js",
@@ -220,7 +238,7 @@
         },
         {
             "key": "新视觉",
-            "name": "视觉┃影视",
+            "name": "视觉[影视专用]",
             "type": 3,
             "api": "csp_Xinsj",
             "searchable": 1,
@@ -230,7 +248,7 @@
         },
         {
             "key": "奇优",
-            "name": " 奇优┃影视",
+            "name": " 奇优[影视专用]",
             "type": 3,
             "playerType": "2",
             "api": "./api/drpy2.min.js",
@@ -238,7 +256,7 @@
         },
         {
             "key": "VOFLIX",
-            "name": "VOFLIX┃影视",
+            "name": "VOFLIX[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -247,7 +265,7 @@
         },
         {
             "key": "348电影网",
-            "name": "348┃影视",
+            "name": "348[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -265,7 +283,7 @@
         },
         {
             "key": "B站影视",
-            "name": "B站┃影视",
+            "name": "B站[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -274,7 +292,7 @@
         },
         {
             "key": "乐鱼影视",
-            "name": "乐鱼┃影视",
+            "name": "乐鱼[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -283,7 +301,7 @@
         },
         {
             "key": "北川影视",
-            "name": "北川┃影视",
+            "name": "北川[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -292,7 +310,7 @@
         },
         {
             "key": "六度TV",
-            "name": "六度┃影视",
+            "name": "六度[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -301,16 +319,13 @@
         },
         {
             "key": "TVB云播",
-            "name": "TVB┃影视",
+            "name": "TVB[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "changeable": 1,
             "ext": "./js/TVB云播.js"
         },
-
-
-
         {
             "key": "最大资源",
             "name": "💯最大",
@@ -1329,31 +1344,22 @@
             ]
         },
         {
-            "key": "厂长资源",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/厂长资源.js"
-        },
-        {
             "key": "drpy_js_ikanbot1",
-            "name": "聚搜 | 爱看机器人1[js]",
+            "name": "聚搜 | 爱看机器人1[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/爱看机器人.js"
         },
         {
             "key": "drpy_js_ikanbot2",
-            "name": "聚搜 | 爱看机器人2[js]",
+            "name": "聚搜 | 爱看机器人2[影视专用]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/ikanbot2.js"
         },
         {
             "key": "drpy_js_ikanbot3",
-            "name": "聚搜 | 爱看机器人3[js]",
+            "name": "聚搜 | 爱看机器人3[影视专用]",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./js/ikanbot3.js"
