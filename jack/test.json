@@ -1539,9 +1539,8 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-            },
-
+                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
+        },
         {
             "key": "荐片2",
             "name": "荐片┃P2P",
