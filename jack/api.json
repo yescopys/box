@@ -2,11 +2,12 @@
 
 {
     "spider": "./spider.jar",
+    "​\"spider\"": "./dj0.jar",
     "wallpaper": "",
     "sites": [
     {
       "key": "转点",
-      "name": "📺第四台",
+      "name": "第四台",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lib/直转点.txt"
@@ -23,7 +24,7 @@
         },
         {
             "key": "豆瓣",
-            "name": "豆瓣[影视专用]",
+            "name": "豆瓣┃影视",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -75,7 +76,7 @@
         },
        {
             "key": "csp_Nbys",
-            "name": "泥巴[影视专用]",
+            "name": "泥巴┃海外",
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
@@ -97,6 +98,31 @@
             "playerType": "2",
             "api": "./api/drpy2.min.js",
             "ext": "./js/南瓜.js"
+        },
+        {
+            "key": "nangua2",
+            "name": "南瓜2┃影视",
+            "type": 3,
+            "api": "./js/猫南瓜.js"
+        },
+        {
+            "key": "nangua3",
+            "name": "南瓜3┃影视",
+            "type": 3,
+            "api": "./js/ng_open.js"
+        },
+        {
+            "key": "yqk",
+            "name": "一起┃影视",
+            "type": 3,
+            "api": "./js/yqktv_open.js"
+        },
+        {
+            "key": "drpy_js_555电影[V2]",
+            "name": "555┃影视",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/555电影[V2].js"
         },
         {
             "key": "纽约影院",
@@ -135,7 +161,40 @@
             "changeable": 1,
             "ext": "./js/两个BT.js"
         },
-
+        {
+            "key": "忍者",
+            "name": "忍者┃影视",
+            "api": "csp_AppRZ",
+            "type": 3,
+            "playerType": "2",
+            "ext": "http://rzys.xyz/"
+        },
+        {
+            "key": "csp_Cs1369",
+            "name": "九六┃影视",
+            "type": 3,
+            "api": "csp_Cs1369",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Auete",
+            "name": "Aue┃影视",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Libvio",
+            "name": "Lib┃影视",
+            "type": 3,
+            "playerType": "1",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/LIBVIO.js"
+        },
          {
             "key": "saohuo",
             "name": " 骚火┃影视",
@@ -160,7 +219,42 @@
             "api": "./api/drpy2.min.js",
             "ext": "./js/TVB云播.js"
         },
-
+        {
+            "key": "新视觉",
+            "name": "视觉┃影视",
+            "type": 3,
+            "api": "csp_Xinsj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.80yy3.com/"
+        },
+        {
+            "key": "奇优",
+            "name": " 奇优┃影视",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/奇优.js"
+        },
+        {
+            "key": "VOFLIX",
+            "name": "VOFLIX┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/voflix.js"
+        },
+        {
+            "key": "348电影网",
+            "name": "348┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/348电影网.js"
+        },
         {
             "key": "4K电影网",
             "name": "4K┃影视",
@@ -170,6 +264,53 @@
             "changeable": 1,
             "ext": "./js/4K电影网.js"
         },
+        {
+            "key": "B站影视",
+            "name": "B站┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/B站影视.js"
+        },
+        {
+            "key": "乐鱼影视",
+            "name": "乐鱼┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/乐鱼影视.js"
+        },
+        {
+            "key": "北川影视",
+            "name": "北川┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/北川影视.js"
+        },
+        {
+            "key": "六度TV",
+            "name": "六度┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/六度TV.js"
+        },
+        {
+            "key": "TVB云播",
+            "name": "TVB┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/TVB云播.js"
+        },
+
+
 
         {
             "key": "最大资源",
@@ -363,13 +504,11 @@
                 "欧美综艺",
                 "欧美动漫",
                 "港台动漫",
-                "海外动漫",
-                "伦理片",
-                "短剧"
+                "海外动漫"
             ]
         },
         {
-            "key": "量子1",
+            "key": "量子",
             "name": "量子(直连)",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -377,7 +516,7 @@
             "changeable": 1
         },
         {
-            "key": "量子2",
+            "key": "量子",
             "name": "量子[fm]",
             "type": 0,
             "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
@@ -417,9 +556,7 @@
                 "足球",
                 "篮球",
                 "网球",
-                "斯诺克",
-                "伦理片",
-                "短剧"
+                "斯诺克"
             ]
         },
         {
@@ -1049,6 +1186,7 @@
             ]
         },
 
+
         {
             "key": "八戒资源",
             "name": "🐷八戒",
@@ -1069,16 +1207,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-     {
-             "key": "横版影院", 
-             "name": "🈚横版┃3", 
-             "type": 1,
-             "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-             "categories": [ "电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说","体育","足球","篮球","网球","斯诺克","短剧"] 
-       }, 
+
         {
             "key": "csp_xml_ikun",
             "name": "🍆爱坤",
@@ -1200,7 +1329,36 @@
                 "其他片"
             ]
         },
-
+        {
+            "key": "厂长资源",
+            "name": "厂长┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/厂长资源.js"
+        },
+        {
+            "key": "drpy_js_ikanbot1",
+            "name": "聚搜 | 爱看机器人1[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/爱看机器人.js"
+        },
+        {
+            "key": "drpy_js_ikanbot2",
+            "name": "聚搜 | 爱看机器人2[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ikanbot2.js"
+        },
+        {
+            "key": "drpy_js_ikanbot3",
+            "name": "聚搜 | 爱看机器人3[js]",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./js/ikanbot3.js"
+        },
         {
             "key": "樱花动漫1",
             "name": "樱花1┃动漫",
@@ -1278,146 +1436,6 @@
                    }
    }, 
         {
-            "key": "nangua2",
-            "name": "南瓜2[影视专用]",
-            "type": 3,
-            "api": "./js/猫南瓜.js"
-        },
-        {
-            "key": "nangua3",
-            "name": "南瓜3[影视专用]",
-            "type": 3,
-            "api": "./js/ng_open.js"
-        },
-        {
-            "key": "yqk",
-            "name": "一起[影视专用]",
-            "type": 3,
-            "api": "./js/yqktv_open.js"
-        },
-        {
-            "key": "drpy_js_555电影[V2]",
-            "name": "555[影视专用]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/555电影[V2].js"
-        },
-        {
-            "key": "忍者",
-            "name": "忍者[影视专用]",
-            "api": "csp_AppRZ",
-            "type": 3,
-            "playerType": "2",
-            "ext": "http://rzys.xyz/"
-        },
-        {
-            "key": "csp_Cs1369",
-            "name": "九六[影视专用]",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Auete",
-            "name": "Aue[影视专用]",
-            "type": 3,
-            "api": "csp_Auete",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Libvio",
-            "name": "Lib[影视专用]",
-            "type": 3,
-            "playerType": "1",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/LIBVIO.js"
-        },
-        {
-            "key": "新视觉",
-            "name": "视觉[影视专用]",
-            "type": 3,
-            "api": "csp_Xinsj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.80yy3.com/"
-        },
-        {
-            "key": "奇优",
-            "name": " 奇优[影视专用]",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/奇优.js"
-        },
-        {
-            "key": "VOFLIX",
-            "name": "VOFLIX[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/voflix.js"
-        },
-        {
-            "key": "348电影网",
-            "name": "348[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/348电影网.js"
-        },
-        {
-            "key": "B站影视",
-            "name": "B站[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/B站影视.js"
-        },
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/乐鱼影视.js"
-        },
-        {
-            "key": "北川影视",
-            "name": "北川[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/北川影视.js"
-        },
-        {
-            "key": "六度TV",
-            "name": "六度[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/六度TV.js"
-        },
-        {
-            "key": "TVB云播",
-            "name": "TVB[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/TVB云播.js"
-        },
-        {
             "key": "bili_open",
             "name": "哔哩综合[影视专用]",
             "type": 3,
@@ -1478,27 +1496,6 @@
             }
         },
         {
-            "key": "drpy_js_ikanbot1",
-            "name": "聚搜 | 爱看机器人1[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/爱看机器人.js"
-        },
-        {
-            "key": "drpy_js_ikanbot2",
-            "name": "聚搜 | 爱看机器人2[影视专用]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ikanbot2.js"
-        },
-        {
-            "key": "drpy_js_ikanbot3",
-            "name": "聚搜 | 爱看机器人3[影视专用]",
-            "type": 3,
-            "api": "./lib/drpy2.min.js",
-            "ext": "./js/ikanbot3.js"
-        },
-        {
             "key": "bili_open5",
             "name": "短剧[影视专用]",
             "type": 3,
@@ -1513,7 +1510,7 @@
 
         {
             "key": "drpy_js_短剧网",
-            "name": "短剧┃短剧网",
+            "name": "短剧┃短剧网[js]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/短剧网.js"
@@ -1529,17 +1526,13 @@
         },
         {
             "key": "短剧2",
-            "name": "🈚短剧┃2",
+            "name": "短剧┃2",
             "type": 1,
             "api": "http://zzdj.cc/api.php/provide/vod"
-             "searchable": 1, 
-             "quickSearch": 1, 
-             "filterable": 1, "categories": [ "短剧","KS","DY","都市","古装","重生","逆袭","虐恋","萌宝","言情","穿越","战神","神医","赘婿","甜宠","其他"] 
         },
-
         {
             "key": "csp_短剧网香",
-            "name": "🈚短剧五",
+            "name": "🧡短剧五",
             "type": 3,
             "api": "csp_XYQHiker",
             "jar": "./jars/csp_短剧网香.jar",
@@ -1610,7 +1603,7 @@
         },
         {
             "key": "csp_XBPQ_vstv",
-            "name": "🈚短剧八",
+            "name": "💚短剧八",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jars/csp_XBPQ_vstv.jar",
@@ -1623,7 +1616,17 @@
             }
         },
         {
-            "key": "🈚荐片2",
+            "key": "荐片1",
+            "name": "荐片┃影视",
+            "api": "csp_Jianpian",
+            "type": 3,
+            "searchable": 0,
+            "changeable": 0,
+            "playerType": "2",
+            "ext": "http://api2.rinhome.com"
+        },
+        {
+            "key": "荐片2",
             "name": "荐片┃P2P",
             "type": 3,
             "api": "csp_Jianpian",
@@ -1631,6 +1634,17 @@
             "changeable": 0,
             "ext": "./json/jianpian.json",
             "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "csp_Panda_玩偶哥哥",
+            "name": "玩偶┃影视",
+            "api": "csp_Wogg",
+            "type": 3,
+            "searchable": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": "file://fatcat/token.txt"
         }
     ],
     "parses": [
