@@ -678,6 +678,8 @@
       "name": "索尼2┃采集",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+      "searchable": 1,
+      "quickSearch": 1,
       "categories": [      
         "国产剧",
         "欧美剧",
@@ -705,10 +707,9 @@
         "预告片",
         "斯诺克",
         "影视解说"
-      ],
-      "searchable": 1,
-      "quickSearch": 1
+      ]
     },
+
         {
             "key": "索尼",
             "name": "索尼┃直连",
@@ -1539,7 +1540,7 @@
             "ext": {
                 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
-            }
+            },
         {
             "key": "csp_短剧网香",
             "name": "短剧网香[影视专用]",
@@ -1612,7 +1613,6 @@
             }
         },
 
-        },
         {
             "key": "荐片2",
             "name": "荐片┃P2P",
