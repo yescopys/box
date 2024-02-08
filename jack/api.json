@@ -24,11 +24,9 @@
       "key": "搜索┃豆瓣js",
       "name": "豆瓣",
       "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": " ./js/douban.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/douban.js"
     },
-
-
         {
             "key": "drpy_js_豆瓣[影视专用]",
             "name": "豆瓣推荐",
