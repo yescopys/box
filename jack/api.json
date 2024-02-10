@@ -13,18 +13,8 @@
       "ext": "./lib/直转点.txt"
     },
         {
-            "key": "drpy_js_豆瓣",
-            "name": "豆瓣推荐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./js/豆瓣推荐.js"
-        },
-        {
             "key": "豆瓣",
-            "name": "豆瓣┃[影视专用]",
+            "name": "豆瓣1",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
@@ -32,6 +22,17 @@
             "ext": "./json/douban.json",
             "jar": "./jars/豆瓣.jar"
         },
+        {
+            "key": "drpy_js_豆瓣",
+            "name": "豆瓣2",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": "./js/豆瓣推荐.js"
+        },
+
         {
             "key": "csp_XBPQ_vstv",
             "name": "VS影院",
@@ -43,7 +44,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3" }
+                "分类": "电影$1#电视剧$2#动漫$4#短剧$5#综艺$3" }
         },
        {
             "key": "csp_Nbys",
@@ -97,193 +98,7 @@
             ]
         },
 
-        {
-            "key": "低端",
-            "name": "低端┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ddys.js"
-        },
-        {
-            "key": "nangua1",
-            "name": "南瓜1┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/南瓜.js"
-        },
 
-        {
-            "key": "纽约影院",
-            "name": "纽约┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/NY影院.js"
-        },
-        {
-            "key": "咕噜[V2]",
-            "name": "咕噜┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/咕噜[V2].js"
-        },
-        {
-            "key": "两个BT",
-            "name": "2BT┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/两个BT.js"
-        },
-         {
-            "key": "saohuo",
-            "name": " 骚火┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/骚火.js"
-        },
-        {
-            "key": "圣城影视",
-            "name": "圣城┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/SC1080.js"
-        },
-        {
-            "key": "云播影视",
-            "name": "云播┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/TVB云播.js"
-        },
-        {
-            "key": "奇优",
-            "name": " 奇优┃js",
-            "type": 3,
-            "playerType": "2",
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/奇优.js"
-        },
-        {
-            "key": "VOFLIX",
-            "name": "VOFLIX┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/voflix.js"
-        },
-        {
-            "key": "348电影网",
-            "name": "348┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/348电影网.js"
-        },
-        {
-            "key": "4K电影网",
-            "name": "4K┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/4K电影网.js"
-        },
-        {
-            "key": "B站影视",
-            "name": "B站┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/B站影视.js"
-        },
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/乐鱼影视.js"
-        },
-        {
-            "key": "北川影视",
-            "name": "北川┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/北川影视.js"
-        },
-        {
-            "key": "六度TV",
-            "name": "六度┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/六度TV.js"
-        },
-        {
-            "key": "TVB云播",
-            "name": "TVB┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/TVB云播.js"
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/厂长资源.js"
-        },
-        {
-            "key": "drpy_js_短剧网",
-            "name": "短剧网┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/短剧网.js"
-        },
-        {
-            "key": "短剧1",
-            "name": "短剧1┃js",
-            "type": 3,
-            "api": "csp_Duanju",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
-            "key": "drpy_js_ikanbot1",
-            "name": "聚搜1┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/爱看机器人.js"
-        },
-        {
-            "key": "drpy_js_ikanbot2",
-            "name": "聚搜2┃js",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "ext": "./js/ikanbot2.js"
-        },
         {
             "key": "魔都资源",
             "name": "魔都(動漫)┃直连",
@@ -1370,7 +1185,193 @@
                 "手动嗅探视频链接过滤词": ".html#?url=http"
             }
         },
+        {
+            "key": "低端",
+            "name": "低端┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ddys.js"
+        },
+        {
+            "key": "nangua1",
+            "name": "南瓜1┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/南瓜.js"
+        },
 
+        {
+            "key": "纽约影院",
+            "name": "纽约┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "咕噜[V2]",
+            "name": "咕噜┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/咕噜[V2].js"
+        },
+        {
+            "key": "两个BT",
+            "name": "2BT┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/两个BT.js"
+        },
+         {
+            "key": "saohuo",
+            "name": " 骚火┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/骚火.js"
+        },
+        {
+            "key": "圣城影视",
+            "name": "圣城┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/SC1080.js"
+        },
+        {
+            "key": "云播影视",
+            "name": "云播┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/TVB云播.js"
+        },
+        {
+            "key": "奇优",
+            "name": " 奇优┃js",
+            "type": 3,
+            "playerType": "2",
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/奇优.js"
+        },
+        {
+            "key": "VOFLIX",
+            "name": "VOFLIX┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/voflix.js"
+        },
+        {
+            "key": "348电影网",
+            "name": "348┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/348电影网.js"
+        },
+        {
+            "key": "4K电影网",
+            "name": "4K┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/4K电影网.js"
+        },
+        {
+            "key": "B站影视",
+            "name": "B站┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/B站影视.js"
+        },
+        {
+            "key": "乐鱼影视",
+            "name": "乐鱼┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/乐鱼影视.js"
+        },
+        {
+            "key": "北川影视",
+            "name": "北川┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/北川影视.js"
+        },
+        {
+            "key": "六度TV",
+            "name": "六度┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/六度TV.js"
+        },
+        {
+            "key": "TVB云播",
+            "name": "TVB┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/TVB云播.js"
+        },
+        {
+            "key": "厂长资源",
+            "name": "厂长┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/厂长资源.js"
+        },
+        {
+            "key": "drpy_js_短剧网",
+            "name": "短剧网┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/短剧网.js"
+        },
+        {
+            "key": "短剧1",
+            "name": "短剧1┃js",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "drpy_js_ikanbot1",
+            "name": "聚搜1┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/爱看机器人.js"
+        },
+        {
+            "key": "drpy_js_ikanbot2",
+            "name": "聚搜2┃js",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/ikanbot2.js"
+        },
         {
             "key": "nangua2",
             "name": "南瓜2┃[影视专用]",
