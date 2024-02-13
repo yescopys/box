@@ -2,3 +2,5 @@
 #第四台
 https://raw.githubusercontent.com/yescopys/box/main/jack/lives/live.txt
 
+#歌手MV
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/歌手MV直播.txt
