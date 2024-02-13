@@ -1,4 +1,18 @@
 ﻿
+#第四台
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/live.txt
+
+#日本點播源Adult
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/日本點播源Adult.m3u
+
+#日本VCD1
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/日本VCD1.m3u
+
+#日本VCD2
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/日本VCD2.m3u
+
+#日本VCD3
+https://raw.githubusercontent.com/yescopys/box/main/jack/lives/日本VCD3.m3u
 
 #18+直播3
 https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
