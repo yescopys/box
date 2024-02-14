@@ -10,20 +10,20 @@ MOMO2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
 信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
 (DW NEWS),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
- (故障10),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
- (Asianet-News),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
+(故障10),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV10.m3u8
+(Asianet-News),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV11.m3u8
 華視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
- (故障13),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
- (外国台),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
- (日本ANN-News),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
+(故障13),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+(外国台),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV14.m3u8
+(日本ANN-News),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV15.m3u8
 (K-POP),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
 東森購物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
 CCTV4中文国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
- (HUBER-TURK),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
+(HUBER-TURK),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV21.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
- 新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 (ABC NEWS),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 天才冲冲冲「综艺」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
@@ -32,50 +32,50 @@ ASTRO AWANI,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV27.m3u8
 Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8
 大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
-三立NEWS+),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+三立LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 (CBN NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV33.m3u8
 萬秀豬王,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
- (故障35),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+(故障35),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
 (INDIA TODAY),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
- (故障37),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+(故障37),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
 (FRANCE 24),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
 (NBC NEWS),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
- (故障40),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
- 幸福空间居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
- MIT台湾志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+(故障40),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV40.m3u8
+幸福空间居家,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+MIT台湾志,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
- (MEDIA-ONE),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+(MEDIA-ONE),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
 TBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
- (故障46),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+(故障46),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
 大爱2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
 (ANN NEWS),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
 中天新闻「循环直播」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV49.m3u8
- (TWENTY-FOUR),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
- (RADIO-CLOCK),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
+(TWENTY-FOUR),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV50.m3u8
+(RADIO-CLOCK),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV51.m3u8
 CNA,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
 HTB NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
- 美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
- VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+美好2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+VIVA2台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
 国会频道1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV56.m3u8
 国会频道2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
 123 GO LIVE,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
 半岛新闻「英语」,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
- (故障60),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+(故障60),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
 KBS NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV61.m3u8
 KANSAI NEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
- YOYO台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
- 儿童台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
- 儿童台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
- 儿童台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
- 儿童台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
- 儿童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
- (故障),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
+YOYO台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV63.m3u8
+儿童台1,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV64.m3u8
+儿童台2,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV65.m3u8
+儿童台3,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV66.m3u8
+儿童台4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV67.m3u8
+儿童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
+(故障),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV69.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 中視,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV71.m3u8
- (故障72),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
- 猪哥会社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
- (TIMES-NOW),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
- 台湾连续剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
+(故障72),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV72.m3u8
+猪哥会社,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV73.m3u8
+(TIMES-NOW),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV74.m3u8
+台湾连续剧,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV75.m3u8
 民視戲劇,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
 Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 (待确认79),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV79.m3u8
@@ -86,182 +86,3 @@ Taiwan+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 (待确认909),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV909.m3u8
 (待确认910),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV910.m3u8
 (待确认911),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV911.m3u8
-大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-我愛冰冰Show,https://yt-stream.livednow.com/stream/RsiJlzZPxjQ/master.m3u8
-新兵日記,https://yt-stream.livednow.com/stream/hbm8Uov-YOE/master.m3u8
-新玫瑰瞳鈴眼,https://yt-stream.livednow.com/stream/dZNl1pqkPuA/master.m3u8
-新唐人亞太電視台,https://yt-stream.livednow.com/stream/WIhgU_mc05A/master.m3u8
-藍色水玲瓏,https://yt-stream.livednow.com/stream/298QROP4xe0/master.m3u8
-廉政英雄,https://yt-stream.livednow.com/stream/wJ5i4x9_kEY/master.m3u8
-終極系列,https://yt-stream.livednow.com/stream/T3AlisdZ6x8/master.m3u8
-台灣靈異事件,https://yt-stream.livednow.com/stream/ds1NaLIL0v0/master.m3u8
-天才衝衝衝,https://yt-stream.livednow.com/stream/U7b-qgOeAs0/master.m3u8
-天王豬哥秀,https://yt-stream.livednow.com/stream/IsFtLpSuf_g/master.m3u8
-萬秀豬王,https://yt-stream.livednow.com/stream/ADDSmXoPDY8/master.m3u8
-豬哥會社,https://yt-stream.livednow.com/stream/htGDPsz2BYI/master.m3u8
-
-
-港澳台,#genre#
-大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-Dali_TV(大立),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-中國環球,http://live.cgtn.com/500/prog_index.m3u8
-华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-
-
-央视频道,#genre#
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV1,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
-CCTV2,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
-CCTV3,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
-CCTV3,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
-CCTV4,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
-CCTV5,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
-CCTV5,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
-CCTV5+,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
-CCTV6,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
-CCTV6,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
-CCTV7,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
-CCTV8,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel8/index.m3u8
-CCTV8,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
-CCTV9,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
-CCTV10,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
-CCTV11,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
-CCTV12,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
-CCTV13,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
-CCTV14,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
-CCTV15,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
-CCTV16,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
-CCTV17,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
-书画频道,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
-央广购物,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11011/index.m3u8
-中国天气,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11006/index.m3u8
-CGTN,http://180.97.247.27/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel15/index.m3u8
-CGTN纪录,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel14/index.m3u8
-CCTV1,http://121.24.98.39:8090/hls/9/index.m3u8
-CCTV2,http://121.24.98.39:8090/hls/10/index.m3u8
-CCTV3,http://121.24.98.39:8090/hls/11/index.m3u8
-CCTV4,http://121.24.98.39:8090/hls/12/index.m3u8
-CCTV5,http://121.24.98.39:8090/hls/13/index.m3u8
-CCTV5+,http://121.24.98.39:8090/hls/5/index.m3u8
-CCTV6,http://121.24.98.39:8090/hls/14/index.m3u8
-CCTV7,http://121.24.98.39:8090/hls/15/index.m3u8
-CCTV8,http://121.24.98.39:8090/hls/16/index.m3u8
-CCTV9,http://121.24.98.39:8090/hls/17/index.m3u8
-CCTV10,http://121.24.98.39:8090/hls/18/index.m3u8
-CCTV11,http://121.24.98.39:8090/hls/19/index.m3u8
-CCTV12,http://121.24.98.39:8090/hls/20/index.m3u8
-CCTV13,http://121.24.98.39:8090/hls/21/index.m3u8
-CCTV14,http://121.24.98.39:8090/hls/22/index.m3u8
-CCTV15,http://121.24.98.39:8090/hls/23/index.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV17,http://121.24.98.39:8090/hls/24/index.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
-CCTV10,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://223.95.111.98:5555/newlive/live/hls/13/live.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8
-CCTV电视指南,http://121.24.98.39:8090/hls/103/index.m3u8
-CCTV第一剧场,http://121.24.98.39:8090/hls/104/index.m3u8
-CCTV怀旧剧场,http://121.24.98.39:8090/hls/105/index.m3u8
-CCTV风云剧场,http://121.24.98.39:8090/hls/106/index.m3u8
-CCTV世界地理,http://121.24.98.39:8090/hls/107/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
-CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
-CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
-CCTV电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-CCTV风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-CCTV风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-CCTV央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-CCTV第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-CCTV女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-CCTV高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-CCTV央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
