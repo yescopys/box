@@ -2,17 +2,8 @@
 #第四台
 https://raw.githubusercontent.com/yescopys/box/main/jack/lives/live.txt
 
-#台灣.txt
-https://epg.pw/test_channels_taiwan.m3u
-
-#台灣.m3u
-https://epg.pw/test_channels_taiwan.m3u
-
 #歌手MV
 https://raw.githubusercontent.com/yescopys/box/main/jack/lives/歌手MV直播.txt
-
-#虎牙一起看
-https://live.freetv.top/huyayqk.m3u
 
 #斗鱼一起看
 https://live.freetv.top/douyuyqk.m3u
@@ -22,13 +13,4 @@ https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top
 
 #BiliBili直播
 https://www.goodiptv.club/bililive.m3u
-
-#epg.pw 海外地区可观看
-https://epg.pw/test_channels_banned_cn.m3u
-
-#epg.pw 中国地区可观看
-https://epg.pw/test_channels.m3u
-
-
-
 
