@@ -12,8 +12,8 @@
       "ext": "./lib/直转点.txt"
     },
         {
-            "key": "豆瓣",
-            "name": "豆瓣┃推荐",
+            "key": "豆瓣1",
+            "name": "豆瓣1",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -23,8 +23,8 @@
             "ext": "./js/drpy.js"
         },
         {
-            "key": "豆瓣",
-            "name": "豆瓣1",
+            "key": "豆瓣2",
+            "name": "豆瓣2",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 1,
