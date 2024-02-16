@@ -23,16 +23,6 @@
             "ext": "./js/drpy.js"
         },
         {
-            "key": "豆瓣2",
-            "name": "豆瓣2",
-            "type": 3,
-            "api": "csp_Douban",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "./json/douban.json",
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
             "key": "csp_XBPQ_vstv",
             "name": "VS影院",
             "type": 3,
