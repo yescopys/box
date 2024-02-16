@@ -13,7 +13,7 @@
     },
         {
             "key": "豆瓣",
-            "name": "豆瓣┃推荐",
+            "name": "豆瓣1",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 0,
@@ -26,7 +26,7 @@
             "key": "豆瓣2",
             "name": "豆瓣2",
             "type": 3,
-            "api": "csp_Douban",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "changeable": 0,
             "ext": "./json/douban.json",
@@ -291,17 +291,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/AnFuns.js"
-        },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/厂长资源.js"
         },
 
         {
