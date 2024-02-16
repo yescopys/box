@@ -12,10 +12,10 @@
       "ext": "./lib/直转点.txt"
     },
         {
-            "key": "豆瓣1",
-            "name": "豆瓣1",
+            "key": "豆瓣",
+            "name": "豆瓣┃推荐",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 1,
@@ -200,7 +200,7 @@
             "key": "两个BT",
             "name": "两个BT┃影视",
             "type": 3,
-            "api": "./api/drpy2.min.js",
+            "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
