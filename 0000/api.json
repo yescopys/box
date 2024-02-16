@@ -55,6 +55,50 @@
             "changeable": 1
         },
         {
+            "key": "APP影院",
+            "name": "APP┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./json/APP影院.json"
+        },
+        {
+            "key": "两个BT",
+            "name": "两个BT┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "./js/两个BT.js"
+        },
+        {
+            "key": "LIBVIO影视",
+            "name": "LIBVIO┃影视",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/LIBVIO.js"
+        },
+        {
+            "key": "魔都资源",
+            "name": "魔都(動漫)┃直连",
+            "type": 1,
+            "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
+            "playUrl": "https://www.moduzy.com/jiexi/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "haiwaikan",
             "name": "海外看┃[海外专用]",
             "type": 1,
@@ -98,16 +142,6 @@
         },
 
         {
-            "key": "魔都资源",
-            "name": "魔都(動漫)┃直连",
-            "type": 1,
-            "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://www.moduzy.com/jiexi/?url=",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "voflix",
             "name": "voflix┃采集",
             "type": 1,
@@ -118,18 +152,6 @@
             "playerType": 2,
             "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
 },
-        {
-            "key": "素白白影视",
-            "name": "素白白┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/素白白影视.json"
-        },
-
         {
             "key": "奇优影院",
             "name": "奇优┃影视",
@@ -152,17 +174,7 @@
             "changeable": 1,
             "ext": "./json/冷曦影视.json"
         },
-        {
-            "key": "APP影院",
-            "name": "APP┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./json/APP影院.json"
-        },
+
         {
             "key": "52看剧",
             "name": "52┃影视",
@@ -186,29 +198,7 @@
             "changeable": 1,
             "ext": "https://api-aws.11ty.top"
         },
-        {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "ext": "./js/两个BT.js"
-        },
-        {
-            "key": "LIBVIO影视",
-            "name": "LIBVIO┃影视",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/LIBVIO.js"
-        },
+
         {
             "key": "Dm84",
             "name": "巴士┃动漫",
