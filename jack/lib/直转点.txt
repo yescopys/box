@@ -2,9 +2,6 @@
 #第四台(Jack整理)
 https://raw.githubusercontent.com/yescopys/box/main/jack/lives/live.txt
 
-#第四台(epg.pw)
-https://epg.pw/test_channels_taiwan.txt
-
 #斗鱼一起看
 https://live.freetv.top/douyuyqk.m3u
 
