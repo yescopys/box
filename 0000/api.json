@@ -23,6 +23,15 @@
             "ext": "./js/drpy.js"
         },
         {
+            "key": "豆瓣推荐",
+            "name": "豆瓣推荐",
+            "type": 3,
+            "api": "csp_DouDou",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
             "key": "csp_XBPQ_vstv",
             "name": "VS影院",
             "type": 3,
