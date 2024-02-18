@@ -1,9 +1,12 @@
 ﻿
 #第四台(Jack整理)
-https://raw.githubusercontent.com/yescopys/box/main/jack/lives/live.txt
+./live.txt
 
 #斗鱼一起看
 https://live.freetv.top/douyuyqk.m3u
+
+#儿童动画
+./儿童动画.txt
 
 #YY轮播
 https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top
@@ -13,4 +16,5 @@ https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top
 
 #BiliBili直播
 https://www.goodiptv.club/bililive.m3u
+
 
