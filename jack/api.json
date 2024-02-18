@@ -7,7 +7,7 @@
       "name": "第四台",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
-      "ext": "./lib/直转点.txt"
+      "ext": "./lives/直转点.txt"
     },
 
         {
