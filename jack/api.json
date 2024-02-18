@@ -1402,15 +1402,6 @@
             "ext": "http://rzys.xyz/"
         },
         {
-            "key": "csp_Cs1369",
-            "name": "九六┃[影视专用]",
-            "type": 3,
-            "api": "csp_Cs1369",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "csp_Auete",
             "name": "Aue┃[影视专用]",
             "type": 3,
