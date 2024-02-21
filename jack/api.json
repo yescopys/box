@@ -61,6 +61,17 @@
                 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#短剧$5#综艺$3" }
         },
+        {
+            "key": "VS影院2",
+            "name": "VS影院2┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/VS影院.js"
+        },
        {
             "key": "csp_Nbys1",
             "name": "泥巴1┃[海外专用]",
@@ -1545,12 +1556,34 @@
         "type": 3,
         "api": "./js/mybili_open.js"
    }, 
+        {
+            "key": "我哔2",
+            "name": "我哩2┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/我的哔哩.js"
+        },
    {
         "key": "bililive_open",
         "name": "哔哩[影视专用]",
         "type": 3,
         "api": "./js/bililive_open.js"
    },   
+        {
+            "key": "哔哩影视2",
+            "name": "哔哩影视2┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/哔哩影视.js"
+        },
    {
         "key": "bili2",
         "name": "哔哩2[影视专用]",
