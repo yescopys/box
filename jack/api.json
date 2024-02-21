@@ -50,7 +50,7 @@
         },
         {
             "key": "csp_XBPQ_vstv",
-            "name": "VS影院",
+            "name": "VS影院┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jars/csp_XBPQ_vstv.jar",
@@ -1552,13 +1552,13 @@
  
    {
         "key": "mybili",
-        "name": "我哔[影视专用]",
+        "name": "我哔1[影视专用]",
         "type": 3,
         "api": "./js/mybili_open.js"
    }, 
         {
             "key": "我哔2",
-            "name": "我哩2┃影视",
+            "name": "我哔2┃[影视专用]",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
@@ -1569,13 +1569,13 @@
         },
    {
         "key": "bililive_open",
-        "name": "哔哩[影视专用]",
+        "name": "哔哩1[影视专用]",
         "type": 3,
         "api": "./js/bililive_open.js"
    },   
         {
-            "key": "哔哩影视2",
-            "name": "哔哩影视2┃影视",
+            "key": "哔哩2",
+            "name": "哔哩2┃[影视专用]",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
@@ -1585,8 +1585,8 @@
             "ext": "./js/哔哩影视.js"
         },
    {
-        "key": "bili2",
-        "name": "哔哩2[影视专用]",
+        "key": "bili3",
+        "name": "哔哩3[影视专用]",
         "type": 3,
         "api": "./js/bili_open.js",
         "ext": { 
