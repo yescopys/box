@@ -1,31 +1,29 @@
 YouTube港台新闻,#genre#
-鳳凰資訊Ⓨ,https://www.youtube.com/watch?v=sUISafvOieY
-中天新聞Ⓨ,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
-中天新闻1台Ⓨ,https://www.youtube.com/watch?v=oIgbl7t0S_w
-中天新闻2台Ⓨ,https://www.youtube.com/watch?v=WPfPjbOLNfE
-中视新闻Ⓨ,https://www.youtube.com/watch?v=TCnaIE_SAtM
-华视新闻Ⓨ,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-TVBS新聞Ⓨ,https://www.youtube.com/watch?v=2mCSYvcfhtc
-TVBS新聞Ⓨ,https://www.youtube.com/watch?v=2mCSYvcfhtcK
-TVBS56Ⓨ,https://www.youtube.com/watch?v=YvdcZ_jpLXE
-TVBS NEWS LIVEⓎ,https://www.youtube.com/watch?v=m_dhMSvUCIc
-三立LiveⓎ,https://www.youtube.com/watch?v=FoBfXvlOR6I
-三立新闻台Ⓨ,https://www.youtube.com/watch?v=uZ9KecuS0RA
-三立新闻台Ⓨ,https://www.youtube.com/watch?v=CKjSm5ZeehE
-東森LiveⓎ,https://www.youtube.com/watch?v=S5WOGu2HSes
-鏡新闻Ⓨ,https://www.youtube.com/live/5n0y6b0Q25o
-台视新闻台Ⓨ,https://www.youtube.com/watch?v=xL0ch83RAK8
-寰宇新闻Ⓨ,https://www.youtube.com/live/6IquAgfvYmc?si=pOtAi2jJyFbMjUNk
-台视新闻台Ⓨ,https://www.youtube.com/live/xL0ch83RAK8?si=6PbDs2DOrlT9Og14
-民视新闻台Ⓨ,https://www.youtube.com/live/ylYJSBUgaMA
-迪士尼Ⓨ,https://www.youtube.com/live/eNfRme6MPK4?si=noJblHwpJA6JOGDS
-迪士尼2Ⓨ,https://www.youtube.com/live/hky3lxHuokY?si=a2R9R2hHqNcgeyQY
-迪士尼最佳歌曲2023Ⓨ,https://youtu.be/dpIbmKroTgA?si=YILikSplg7x284_Y
+鳳凰資訊,https://www.youtube.com/watch?v=sUISafvOieY
+中天新聞,https://www.youtube.com/live/oIgbl7t0S_w?feature=share
+中天新闻1台,https://www.youtube.com/watch?v=oIgbl7t0S_w
+中天新闻2台,https://www.youtube.com/watch?v=WPfPjbOLNfE
+中视新闻,https://www.youtube.com/watch?v=TCnaIE_SAtM
+华视新闻,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtc
+TVBS新聞,https://www.youtube.com/watch?v=2mCSYvcfhtcK
+TVBS56,https://www.youtube.com/watch?v=YvdcZ_jpLXE
+TVBS NEWS LIVE,https://www.youtube.com/watch?v=m_dhMSvUCIc
+三立Live,https://www.youtube.com/watch?v=FoBfXvlOR6I
+三立新闻台,https://www.youtube.com/watch?v=uZ9KecuS0RA
+三立新闻台,https://www.youtube.com/watch?v=CKjSm5ZeehE
+東森Live,https://www.youtube.com/watch?v=S5WOGu2HSes
+鏡新闻,https://www.youtube.com/live/5n0y6b0Q25o
+台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
+寰宇新闻,https://www.youtube.com/live/6IquAgfvYmc?si=pOtAi2jJyFbMjUNk
+台视新闻台,https://www.youtube.com/live/xL0ch83RAK8?si=6PbDs2DOrlT9Og14
+民视新闻台,https://www.youtube.com/live/ylYJSBUgaMA
+迪士尼,https://www.youtube.com/live/eNfRme6MPK4?si=noJblHwpJA6JOGDS
+迪士尼2,https://www.youtube.com/live/hky3lxHuokY?si=a2R9R2hHqNcgeyQY
+迪士尼最佳歌曲2023,https://youtu.be/dpIbmKroTgA?si=YILikSplg7x284_Y
 
 
 台灣嗅探,#genre#
-parse=1
-player=2
 afn,http://everydaytv.top/play-3-1-0.html
 Animax,http://everydaytv.top/play-3-2-0.html
 Animax,https://www.histar.tv/live/animax-cartoon
@@ -164,7 +162,7 @@ UBA直播,https://today.line.me/tw/v2/article/j7J22GY
 
 
 夜視嗅探,#genre#
-parse=1
+
 CATCHPLAY,https://yeslivetv.com/channels/catchplay/
 i-FUN動漫,https://yeslivetv.com/channels/i-fun/
 SBN全球財經,https://yeslivetv.com/channels/sbn/
@@ -207,7 +205,6 @@ TVBS歡樂,https://yeslivetv.com/channels/tvbs42/
 
 
 歐飛嗅探,#genre#
-parse=1
 台視,https://www.ofiii.com/channel/watch/4gtv-4gtv066
 中視,https://www.ofiii.com/channel/watch/4gtv-4gtv040
 華視,https://www.ofiii.com/channel/watch/4gtv-4gtv041
@@ -426,7 +423,7 @@ TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 殺人者的購物中心8,https://32-cdn.livecdn.me/content/dsj-srzdgwzx-20240207-hd-08.mp4/index.m3u8
 巨齒鯊2：海溝深淵（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/486964.m3u8
 藍甲蟲（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/490489.m3u8
-蟻人與黃蜂女：量子狂熱（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226622.m3u8
+蟻人與黃蜂女-量子狂熱（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226622.m3u8
 星際異攻隊3（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/404355.m3u8
 疾速營救（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/492001.m3u8
 玩命關頭X（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/395877.m3u8
@@ -434,21 +431,21 @@ TVBS台劇台,video://https://www.4gtv.tv/channel/4gtv-live088?set=1&ch=22
 坎達哈行動（美片）,https://m3u.haiwaikan.com/xm3u8/efc41ce81c2031f7fe1e65fad5de81f91420c989e97063b3495d898d56c586719921f11e97d0da21.m3u8
 驚天營救2（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/399166.m3u8
 攻心諜戰（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/460698.m3u8
-吸血鬼特助：雷菲爾（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226625.m3u8
+吸血鬼特助-雷菲爾（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226625.m3u8
 珍愛硬起來（美片）,https://m3u.haiwaikan.com/xm3u8/6ec7939511110a7df30e2721926f4688eb59d8d01f078a919622919884e69bfd9921f11e97d0da21.m3u8
 芭比（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/490770.m3u8
 恐怖行星（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226682.m3u8
 梵蒂岡驅魔士（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226626.m3u8
 鬼修女2（美片）,https://m3u.haiwaikan.com/xm3u8/1e9395cb059270b2a27a010ad6c6e8e083652d686f4d672215fc109557e848f39921f11e97d0da21.m3u8
-陰兒房：鬼門陰深處（美片）,https://m3u.haiwaikan.com/xm3u8/da1e2decf28ee4aab095cb8f1ee1ea25af34ed594af29a7a32ed5df1f794fef99921f11e97d0da21.m3u8
-德米特號：噬血航程（美片）,https://vip.lz-cdn3.com/20230831/21468_70ef81e7/index.m3u8
+陰兒房-鬼門陰深處（美片）,https://m3u.haiwaikan.com/xm3u8/da1e2decf28ee4aab095cb8f1ee1ea25af34ed594af29a7a32ed5df1f794fef99921f11e97d0da21.m3u8
+德米特號-噬血航程（美片）,https://vip.lz-cdn3.com/20230831/21468_70ef81e7/index.m3u8
 窒友梅根（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226743.m3u8
-龍與地下城：盜賊榮耀（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226616.m3u8
+龍與地下城-盜賊榮耀（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226616.m3u8
 小美人魚（美片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/408132.m3u8
-鬼病院：靈異直播（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/232053.m3u8
+鬼病院-靈異直播（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/232053.m3u8
 薩滿,https://aws.ulivetv.net/v3/api/dianbo/m3u8/238642.m3u8
 犯罪都市3（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/402211.m3u8
-Dream：夢想代表隊（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/400894.m3u8
+Dream-夢想代表隊（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/400894.m3u8
 關於我和鬼變成家人的那件事（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226853.m3u8
 疫起（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/485691.m3u8
 山中森林（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226727.m3u8
@@ -456,16 +453,18 @@ Dream：夢想代表隊（韓片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/4
 宇宙記憶（國片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226958.m3u8
 暗殺風暴（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/491395.m3u8
 毒舌大狀（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/395332.m3u8
-掃毒3：人在天涯（港片）,https://m3u.haiwaikan.com/xm3u8/89a11c43f8cabad505353b8d8b21714250f9a99936adaea42c5a3b1a003b26359921f11e97d0da21.m3u8
+掃毒3-人在天涯（港片）,https://m3u.haiwaikan.com/xm3u8/89a11c43f8cabad505353b8d8b21714250f9a99936adaea42c5a3b1a003b26359921f11e97d0da21.m3u8
 風再起時（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/399576.m3u8
-別叫我“賭神”（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/406610.m3u8
-哆啦A夢：大雄與天空的理想鄉（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/486422.m3u8
+別叫我-賭神”（港片）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/406610.m3u8
+哆啦A夢-大雄與天空的理想鄉（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/486422.m3u8
 美猴王（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/485784.m3u8
 鏡之孤城（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226635.m3u8
 超級瑪利歐兄弟（動畫）,https://aws.ulivetv.net/v3/api/dianbo/m3u8/226619.m3u8
-名偵探柯南灰原哀物語：黑鐵的神祕列車（動畫）,https://hd.ijycnd.com/play/xe7wzxOe/index.m3u8
-忍者龜：變種大亂鬥（動畫）,https://m3u.haiwaikan.com/xm3u8/cbd0f4b4d79b10d8dce8e9a4ffeec5401004424c63a216e4a05def1b3b2eb69d9921f11e97d0da21.m3u8
-📻國內電臺,#genre#
+名偵探柯南灰原哀物語-黑鐵的神祕列車（動畫）,https://hd.ijycnd.com/play/xe7wzxOe/index.m3u8
+忍者龜-變種大亂鬥（動畫）,https://m3u.haiwaikan.com/xm3u8/cbd0f4b4d79b10d8dce8e9a4ffeec5401004424c63a216e4a05def1b3b2eb69d9921f11e97d0da21.m3u8
+
+
+國內電臺,#genre#
 KissRadio大眾廣播FM99.9,http://live.cooltv.top/tv/kissradio.php
 PopRadio臺北流行廣播電臺FM91.7,http://live.cooltv.top/tv/popradio.php?id=1
 PopRadio好聽廣播電臺FM90.7,http://live.cooltv.top/tv/popradio.php?id=2
