@@ -109,6 +109,19 @@
                 "经典片"
             ]
         },
+
+   {
+      "key": "畅梦",
+      "name": "畅梦┃影视",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/changmeng.js"
+    },
+{"key":"优酷","name":"优酷┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/youku.js"},
+{"key":"芒果","name":"芒果┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"爱奇异","name":"爱奇异┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key":"腾讯","name":"腾讯┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/tengxun.js"},
+
         {
             "key": "csp_XBPQ_vstv",
             "name": "VS影院┃影视",
@@ -2075,7 +2088,11 @@
     "vivovip.mmszxc.top",
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    "cms.qdwght.com"
+    "cms.qdwght.com",
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
 "lives":[{
 "name":"live",
