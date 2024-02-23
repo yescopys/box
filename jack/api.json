@@ -133,6 +133,40 @@
             "changeable": 1,
             "ext": "./js/VS影院.js"
         },
+
+        {
+            "key": "555电影",
+            "name": "555┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/555电影[V2].js"
+        },
+        {
+            "key": "咕噜[V2]",
+            "name": "咕噜┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/咕噜[V2].js"
+        },
+        {
+            "key": "免费看影视",
+            "name": "免费看┃影视",
+            "type": 3,
+            "api": "./drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/免费看.js"
+        },
         {
             "key": "两个BT",
             "name": "两个BT┃影视",
@@ -145,17 +179,7 @@
             "playerType": 1,
             "ext": "./js/两个BT.js"
         },
-        {
-            "key": "LIBVIO影视",
-            "name": "LIBVIO┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/LIBVIO.js"
-        },
+
         {
             "key": "魔都资源",
             "name": "魔都(動漫)┃直连",
@@ -168,45 +192,7 @@
         },
 
 
-        {
-            "key": "voflix",
-            "name": "voflix┃采集",
-            "type": 1,
-            "api": "https://www.voflix.me/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
-       },
 
-   {
-      "key": "csp_Nmys",
-      "name": "nmys┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "ext": "./lib/nmys.json"
-    },
-        {
-            "key": "新6V",
-            "name": "6v┃影视",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
-        },
-
-      {
-            "key": "一起看 ",
-            "name": "一起┃影视",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
 
         {
       "key": "益达影视",
@@ -315,16 +301,17 @@
             "changeable": 1,
             "ext": "./js/新视觉影视.js"
         },
+
         {
-            "key": "555电影",
-            "name": "555┃影视",
+            "key": "六度TV",
+            "name": "六度┃影视",
             "type": 3,
             "api": "./drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/555电影[V2].js"
+            "ext": "./js/六度TV.js"
         },
         {
             "key": "139影视",
@@ -438,28 +425,7 @@
             "changeable": 1,
             "ext": "./js/光棍影院.js"
         },
-        {
-            "key": "免费看影视",
-            "name": "免费看┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/免费看.js"
-        },
-        {
-            "key": "六度TV",
-            "name": "六度┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/六度TV.js"
-        },
+
         {
             "key": "去看吧",
             "name": "去看吧┃影视",
@@ -471,16 +437,38 @@
             "changeable": 1,
             "ext": "./js/去看吧.js"
         },
+
         {
-            "key": "咕噜[V2]",
-            "name": "咕噜┃影视",
-            "type": 3,
-            "api": "./drpy2.min.js",
+            "key": "voflix",
+            "name": "voflix┃采集",
+            "type": 1,
+            "api": "https://www.voflix.me/api.php/provide/vod",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/咕噜[V2].js"
+            "playerType": 2,
+            "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
+       },
+
+        {
+            "key": "新6V",
+            "name": "6v┃影视",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "http://www.xb6v.com/"
+        },
+
+      {
+            "key": "一起看 ",
+            "name": "一起┃影视",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
             "key": "最大资源",
