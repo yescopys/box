@@ -1982,48 +1982,6 @@
           "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Mobile Safari/537.36"
         }
       }
-    },   
-
-{
-      "name": "TA",
-      "type": 1,
-      "url": "https://110.42.2.98:22222/api/?key=4Rcvl7i2fFP84i0SN9&url="
-    },
-    {
-      "name": "TB",
-      "type": 1,
-      "url": "http://61.147.93.21:8090/index.php?url="
-    },
-    {
-      "name": "TD",
-      "type": 1,
-      "url": "http://61.147.93.21:90/cache.php?url="
-    },
-    {
-      "name": "TC",
-      "type": 1,
-      "url": "https://hd.396pay.cn/api/diy/?key=pFELnzclw6RdhxNlH6&url="
-    },
-    
-    {
-      "name": "TXX",
-      "type": 1,
-      "url": "http://106.53.99.43:84/bf.php?url="
-    },
-    {
-      "name": "解析聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
     }
 
 
