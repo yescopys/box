@@ -1,10 +1,10 @@
 { "urls": [
 
-{ "url": "https://raw.githubusercontent.com/yescopys/box/main/jack/api.json", "name": "jack(Github)" },
+{ "url": "https://raw.githubusercontent.com/yescopys/box/main/jack/api.json", "name": "jack(海外专线)" },
 
-{ "url": "https://raw.githubusercontent.com/yescopys/box/main/0000/api.json", "name": "0000(Github)" },
+{ "url": "https://raw.githubusercontent.com/yescopys/box/main/0000/api.json", "name": "0000(海外专线)" },
 
-{ "url": "https://raw.githubusercontent.com/yescopys/box/main/xiaobailong/api.json", "name": "小白龙(Github)" }
+{ "url": "https://raw.githubusercontent.com/yescopys/box/main/xiaobailong/api.json", "name": "小白龙(海外专线)" }
 
 ]
 }
