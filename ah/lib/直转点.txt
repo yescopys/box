@@ -27,13 +27,13 @@ https://files.catbox.moe/w36yqk.txt
 https://raw.githubusercontent.com/123linyao123/TV/main/MiTV.txt
 
 #宝盒大陆
-https://ghproxy.com/https://raw.githubusercontent.com/123linyao123/TV/main/MiTV.txt
+https://raw.gitmirror.com/123linyao123/TV/main/MiTV.txt
 
 #成人海外
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
 
 #成人大陆
-https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u
+https://raw.gitmirror.com/YanG-1989/m3u/main/Adult.m3u
 
 #密碼9527
 https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt
