@@ -117,12 +117,6 @@
       "api": "./api/drpy2.min.js",
       "ext": "./js/changmeng.js"
     },
-{"key":"优酷","name":"🇹┃优X┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/youku.js"},
-{"key":"芒果","name":"🇹┃芒X┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/mangguo.js"},
-{"key":"爱奇异","name":"🇹┃爱X异┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/aiqiyi.js"},
-{"key":"腾讯","name":"🇹┃腾X┃影视","type":3,"api":"./api/drpy2.min.js","ext":"./js/tengxun.js"},
-{"key": "drpy_js_菜狗","name": "🇹┃搜狗┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/菜狗.js"},
-{"key": "drpy_js_360影视","name": "🇹┃3X0┃影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/360影视.js"},
             {
             "key": "黑狐",
             "name": "🇹┃黑狐官┃秒播",
