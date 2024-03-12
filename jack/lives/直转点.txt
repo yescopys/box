@@ -1,9 +1,6 @@
 ﻿
-#第四台(Jack整理)
+#台湾第四台
 ./live.txt
-
-#電影點播
-./電影點播.txt
 
 #斗鱼一起看
 https://live.freetv.top/douyuyqk.m3u
