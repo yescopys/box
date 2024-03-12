@@ -4,7 +4,7 @@
 "sites": [
       {
       "key": "转点",
-      "name": "第四台",
+      "name": "宝岛米苔目",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lives/直转点.txt"
@@ -12,7 +12,7 @@
 
         {
             "key": "豆瓣",
-            "name": "豆瓣1",
+            "name": "豆瓣1┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -23,14 +23,16 @@
         },
      {
       "key": "搜索┃豆瓣js",
-      "name": "豆瓣2",
+      "name": "豆瓣2┃主页",
       "type": 3,
       "api": "./lib/apiv43drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
       "ext": "./lib/douban.js"
     },
      {
       "key": "豆豆",
-      "name": "豆瓣3",
+      "name": "豆瓣3┃主页",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -110,16 +112,9 @@
             ]
         },
 
-   {
-      "key": "畅梦",
-      "name": "畅梦┃影视",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/changmeng.js"
-    },
             {
             "key": "黑狐",
-            "name": "🇹┃黑狐官┃秒播",
+            "name": "🇹┃黑狐官┃主页",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -163,12 +158,12 @@
 
         {
             "key": "csp_XBPQ_vstv",
-            "name": "VS影院┃影视",
+            "name": "VS影院┃主页",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jars/csp_XBPQ_vstv.jar",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
@@ -176,22 +171,55 @@
         },
         {
             "key": "VS影院2",
-            "name": "VS影院2┃影视",
+            "name": "VS影院2┃主页",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/VS影院.js"
+        },
+        {
+            "key": "555电影",
+            "name": "555┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/VS影院.js"
+            "ext": "./js/555电影[V2].js"
         },
+   {
+      "key": "畅梦",
+      "name": "畅梦┃主页",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+       "searchable": 0,
+       "quickSearch": 0,
+      "ext": "./js/changmeng.js"
+    },
         {
-            "key": "光棍影院",
-            "name": "光棍┃影视",
+            "key": "LIBVIO影视",
+            "name": "LIBVIO┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/LIBVIO.js"
+        },
+
+
+        {
+            "key": "光棍影院",
+            "name": "光棍┃主页",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/光棍影院.js"
@@ -201,96 +229,91 @@
             "name": "咕噜┃影视",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/咕噜[V2].js"
         },
-        {
-      "key": "drpy_js_爱看机器人",
-      "name": "爱看┃秒播",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/ikanbot2.js"
-    },
 
     {
       "key": "drpy_js_秋霞影院",
-      "name": "秋霞┃秒播",
+      "name": "秋霞┃主页",
       "type": 3,
       "api": "./api/drpy2.min.js",
+       "searchable": 0,
+       "quickSearch": 0,
       "ext": "./js/秋霞.js"
     },
         {
             "key": "六度TV",
-            "name": "六度┃影视",
+            "name": "六度┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/六度TV.js"
         },
 
         {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
+            "key": "B站影视",
+            "name": "B站┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "playerType": 1,
-            "ext": "./js/两个BT.js"
+            "ext": "./js/B站影视.js"
         },
         {
-            "key": "LIBVIO影视",
-            "name": "LIBVIO┃影视",
+            "key": "Icio影视",
+            "name": "Icio┃主页",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
-            "ext": "./js/LIBVIO.js"
+            "ext": "./js/Icio影视.js"
         },
-
-
         {
-            "key": "voflix",
-            "name": "voflix┃采集",
-            "type": 1,
-            "api": "https://www.voflix.me/api.php/provide/vod",
+            "key": "免费看影视",
+            "name": "免费看┃主页",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2,
-            "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
-       },
+            "changeable": 1,
+            "ext": "./js/免费看.js"
+        },
 
 
-      {
-            "key": "一起看 ",
-            "name": "一起┃影视",
+        {
+            "key": "乐鱼影视",
+            "name": "乐鱼┃主页",
             "type": 3,
-            "api": "csp_YQKan",
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/乐鱼影视.js"
         },
 
         {
-            "key": "魔都资源",
-            "name": "魔都(動漫)┃直连",
-            "type": 1,
-            "api": "https://www.moduzy.com/api.php/provide/vod/?ac=list",
-            "playUrl": "https://www.moduzy.com/jiexi/?url=",
+            "key": "TVB云播",
+            "name": "TVB┃主页",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/TVB云播.js"
         },
 
         {
@@ -384,6 +407,34 @@
             "changeable": 1,
             "ext": "./js/去看吧.js"
         },
+        {
+            "key": "两个BT",
+            "name": "两个BT┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "./js/两个BT.js"
+        },
+      {
+            "key": "一起看 ",
+            "name": "一起┃影视",
+            "type": 3,
+            "api": "csp_YQKan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看┃秒播",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/ikanbot2.js"
+    },
 
         {
             "key": "新视觉影院",
@@ -396,17 +447,7 @@
             "changeable": 1,
             "ext": "./js/新视觉影视.js"
         },
-        {
-            "key": "555电影",
-            "name": "555┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/555电影[V2].js"
-        },
+
         {
             "key": "9u电影",
             "name": "9u┃影视",
@@ -420,85 +461,6 @@
         },
 
         {
-            "key": "139影视",
-            "name": "139┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/139影视.js"
-        },
-
-        {
-            "key": "B站影视",
-            "name": "B站┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/B站影视.js"
-        },
-        {
-            "key": "Icio影视",
-            "name": "Icio┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/Icio影视.js"
-        },
-        {
-            "key": "OK影院",
-            "name": "OK┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/KOK影院.js"
-        },
-        {
-            "key": "TVB云播",
-            "name": "TVB┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/TVB云播.js"
-        },
-        {
-            "key": "七年影视",
-            "name": "七年┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/七年影视.js"
-        },
-
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/乐鱼影视.js"
-        },
-        {
             "key": "人人影视",
             "name": "人人┃影视",
             "type": 3,
@@ -509,20 +471,6 @@
             "changeable": 1,
             "ext": "./js/人人影视.js"
         },
-
-        {
-            "key": "免费看影视",
-            "name": "免费看┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/免费看.js"
-        },
-
-
 
         {
       "key": "益达影视",
@@ -562,6 +510,18 @@
       "api": "csp_Nmys",
       "ext": "./lib/nmys.json"
     },
+        {
+            "key": "voflix",
+            "name": "voflix┃采集",
+            "type": 1,
+            "api": "https://www.voflix.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
+       },
+
 
         {
             "key": "最大资源",
