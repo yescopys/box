@@ -319,97 +319,6 @@
         },
 
         {
-            "key": "Dm84",
-            "name": "巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ying",
-            "name": "樱花┃动漫",
-            "type": 3,
-            "api": "csp_Ying",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Ysj",
-            "name": "异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-    {
-      "key": "drpy_js_爱弹幕",
-      "name": "🇹┃爱弹幕┃动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱弹幕.js"
-    },
-        {
-            "key": "NT动漫",
-            "name": "NT┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/NT动漫.js"
-        },
-        {
-            "key": "58动漫网",
-            "name": "58┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/58动漫.js"
-        },
-        {
-            "key": "AnFuns动漫",
-            "name": "AnFuns┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/AnFuns.js"
-        },
-        {
-            "key": "去看吧",
-            "name": "去看吧┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/去看吧.js"
-        },
-        {
             "key": "bili_open",
             "name": "哔哩综合[影视专用]",
             "type": 3,
@@ -1650,6 +1559,99 @@
           "categories": [ "短剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧"] 
       },
 
+
+        {
+            "key": "Dm84",
+            "name": "巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ying",
+            "name": "樱花┃动漫",
+            "type": 3,
+            "api": "csp_Ying",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Ysj",
+            "name": "异界┃动漫",
+            "type": 3,
+            "api": "csp_Ysj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "csp_Anime1",
+            "name": "日本┃动漫",
+            "type": 3,
+            "api": "csp_Anime1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+    {
+      "key": "drpy_js_爱弹幕",
+      "name": "🇹┃爱弹幕┃动漫",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./js/爱弹幕.js"
+    },
+        {
+            "key": "NT动漫",
+            "name": "NT┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/NT动漫.js"
+        },
+        {
+            "key": "58动漫网",
+            "name": "58┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/58动漫.js"
+        },
+        {
+            "key": "AnFuns动漫",
+            "name": "AnFuns┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/AnFuns.js"
+        },
+        {
+            "key": "去看吧",
+            "name": "去看吧┃动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/去看吧.js"
+        },
+
     {
             "key": "Bili",
             "name": "Bili",
@@ -1674,6 +1676,8 @@
             "filterable": 0,
             "changeable": 0
    }, 
+
+
         {
             "key": "我哔2",
             "name": "我哔2┃[影视专用]",
@@ -1685,6 +1689,7 @@
             "changeable": 0,
             "ext": "./js/我的哔哩.js"
         },
+
    {
         "key": "bililive_open",
         "name": "哔哩1[影视专用]",
@@ -1695,6 +1700,7 @@
             "filterable": 0,
             "changeable": 0
    },   
+
         {
             "key": "哔哩2",
             "name": "哔哩2┃[影视专用]",
@@ -1706,6 +1712,7 @@
             "changeable": 0,
             "ext": "./js/哔哩影视.js"
         },
+
    {
         "key": "bili3",
         "name": "哔哩3[影视专用]",
