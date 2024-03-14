@@ -12,7 +12,7 @@
 
         {
             "key": "豆瓣",
-            "name": "豆瓣1┃点这换主页接口",
+            "name": "豆瓣1┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -23,7 +23,7 @@
         },
      {
       "key": "搜索┃豆瓣js",
-      "name": "豆瓣2┃点这换主页接口",
+      "name": "豆瓣2┃<=点这或主页换源接口",
       "type": 3,
       "api": "./lib/apiv43drpy2.min.js",
       "searchable": 0,
@@ -32,7 +32,7 @@
     },
      {
       "key": "豆豆",
-      "name": "豆瓣3┃点这换主页接口",
+      "name": "豆瓣3┃<=点这或主页换源接口",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -114,7 +114,7 @@
 
             {
             "key": "黑狐",
-            "name": "🇹┃黑狐官┃点这换主页接口",
+            "name": "🇹┃黑狐官┃<=点这或主页换源接口",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
@@ -158,7 +158,7 @@
 
         {
             "key": "csp_XBPQ_vstv",
-            "name": "VS影院┃点这换主页接口",
+            "name": "VS影院┃<=点这或主页换源接口",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jars/csp_XBPQ_vstv.jar",
@@ -171,7 +171,7 @@
         },
         {
             "key": "VS影院2",
-            "name": "VS影院2┃点这换主页接口",
+            "name": "VS影院2┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -183,7 +183,7 @@
 
     {
       "key": "drpy_js_秋霞影院",
-      "name": "秋霞┃点这换主页接口",
+      "name": "秋霞┃<=点这或主页换源接口",
       "type": 3,
       "api": "./api/drpy2.min.js",
        "searchable": 0,
@@ -192,7 +192,7 @@
     },
         {
             "key": "555电影",
-            "name": "555┃点这换主页接口",
+            "name": "555┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -203,7 +203,7 @@
         },
    {
       "key": "畅梦",
-      "name": "畅梦┃点这换主页接口",
+      "name": "畅梦┃<=点这或主页换源接口",
       "type": 3,
       "api": "./api/drpy2.min.js",
        "searchable": 0,
@@ -212,7 +212,7 @@
     },
         {
             "key": "LIBVIO影视",
-            "name": "LIBVIO┃点这换主页接口",
+            "name": "LIBVIO┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -225,7 +225,7 @@
 
         {
             "key": "光棍影院",
-            "name": "光棍┃点这换主页接口",
+            "name": "光棍┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -249,7 +249,7 @@
 
         {
             "key": "六度TV",
-            "name": "六度┃点这换主页接口",
+            "name": "六度┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -261,7 +261,7 @@
 
         {
             "key": "B站影视",
-            "name": "B站┃点这换主页接口",
+            "name": "B站┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -272,7 +272,7 @@
         },
         {
             "key": "Icio影视",
-            "name": "Icio┃点这换主页接口",
+            "name": "Icio┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -283,7 +283,7 @@
         },
         {
             "key": "免费看影视",
-            "name": "免费看┃点这换主页接口",
+            "name": "免费看┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -296,7 +296,7 @@
 
         {
             "key": "乐鱼影视",
-            "name": "乐鱼┃点这换主页接口",
+            "name": "乐鱼┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -308,7 +308,7 @@
 
         {
             "key": "TVB云播",
-            "name": "TVB┃点这换主页接口",
+            "name": "TVB┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
