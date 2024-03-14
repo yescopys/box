@@ -1,4 +1,4 @@
-台湾台(Youtube),#genre#
+宝岛(Youtube),#genre#
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
@@ -87,7 +87,7 @@ Tokyo Shibuya「东京涩谷」,https://raw.githubusercontent.com/ChiSheng9/iptv
 儿童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 韩国台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
-台湾台(mitv),#genre#
+宝岛(mitv),#genre#
 东森财经新闻台,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
 非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡商业台,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
@@ -324,7 +324,7 @@ TechStorm,mitv://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
 MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 
-台湾台(免翻可看),#genre#
+宝岛(免翻),#genre#
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
