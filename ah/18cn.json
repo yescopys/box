@@ -19,6 +19,55 @@
       "filterable": 0,
       "ext": "./lib/直播转-3.txt"
     },
+{
+"key": "T4-安博",
+"name": "🔐┃安博┃(T4)",
+"type": 4,
+"api": "https://tang.serv00.net/power/ub1818",
+"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 0,
+"ext": true},
+
+{
+"key": "T4-安博2",
+"name": "🔐┃安博2┃(T4)",
+"type": 4,
+"api": ".lib/ub1818.json",
+"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 0,
+"ext": true},
+
+{
+"key": "T4-安博3",
+"name": "🔐┃安博3┃(T4)",
+"type": 4,
+"api": ".lib/ub1818.json",
+"jar": ".lib/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 0,
+"ext": true},
+
+{
+"key": "T4-安博4",
+"name": "🔐┃安博4┃(T4)",
+"type": 4,
+"api": ".lib/ub1818.json",
+"jar": ".lib/fan.txt;md5",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 0,
+"ext": true},
+
+
     {
       "key": "155",
       "name": "❤️155采集",
