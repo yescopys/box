@@ -3,17 +3,6 @@
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
 
-{
-"key": "T4-安博",
-"name": "🔐┃安博┃(T4)",
-"type": 4,
-"api": "https://tang.serv00.net/power/ub1818",
-"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 0,
-"ext": true},
 
          {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/qist/tvbox/5756b93ccf92d63aa8cc392d74ece127193f3ab2/lib/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/qist/tvbox/5756b93ccf92d63aa8cc392d74ece127193f3ab2/js/奇珍异兽.js"},
 
