@@ -1,18 +1,5 @@
 {
   "spider": "./CFlLnSbJ",
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpLzEzODAwMTM4MDAwMC9NSFFUVi9yYXcvYnJhbmNoL21hc3Rlci9UVi8wOTAzemgudHh0"
-          ]
-        }
-      ]
-    }
-  ],
   "sites": [
     {
       "key": "转点",
@@ -21,31 +8,12 @@
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lib/直转点.txt"
     },
-    {
-      "key": "csp_jiujiuzhobo",
-      "name": "❤️精久直播",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./lib/jiujiu.json",
-      "jar": "./lib/xb.jar"
-    },
-    {
-      "key": "sszb",
-      "name": "🔰在线全网直播",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/ss直播.js"
-    },
+
     {
       "key": "直播点阿播",
       "name": "🌈麻豆樱花",
       "type": 3,
-      "api": "https://agit.ai/hu/hcr/raw/branch/master/apiv53zbzdb.js",
+      "api": "./lib/apiv53zbzdb.js",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -1262,10 +1230,19 @@
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
-  ]
+  ],
+
+
+"lives":[{
+"name":"live",
+"type":0,
+"url":"./lib/RTV.txt",
+"playerType":1,
+"ua": "okhttp/3.15",
+"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png"}
+]
 }
-
-
 
 
 
