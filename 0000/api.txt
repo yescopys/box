@@ -1,5 +1,5 @@
 {
-  "spider": "",
+  "spider": "./lib/spider.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
   "sites": [
 
