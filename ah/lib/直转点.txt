@@ -1,6 +1,8 @@
-﻿
+﻿#R频道
+./RTV.txt
+
 #第四台
-./sextv.txt
+./live.txt
 
 #三級倫理
 ./三級倫理.txt
