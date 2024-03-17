@@ -2,22 +2,6 @@
 #台湾第四台
 ./live.txt
 
-#斗鱼一起看
-https://live.freetv.top/douyuyqk.m3u
-
 #儿童动画
 ./儿童动画.txt
-
-#YY轮播
-https://live.freetv.top/yylunbo.m3u?url=https://lunbo.freetv.top
-
-#歌手MV
-./歌手MV直播.txt
-
-#收音機
-./收音機.txt
-
-#BiliBili直播
-https://www.goodiptv.club/bililive.m3u
-
 
