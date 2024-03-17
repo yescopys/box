@@ -1,9 +1,12 @@
 ﻿
 #第四台
-./live.txt
+./sextv.txt
 
 #三級倫理
 ./三級倫理.txt
+
+#麻豆
+https://qu.ax/XstR.txt
 
 #SWAG
 ./0903zh.txt
@@ -13,9 +16,6 @@ https://cyuan.netlify.app/tvbox/lives/18+/18%F0%9F%88%B2%EF%B8%8F.txt
 
 #18+直播1
 https://cyuan.netlify.app/tvbox/lives/18+/18+2023.txt
-
-#麻豆
-https://qu.ax/XstR.txt
 
 #18live
 https://agit.ai/JieLeHui/TV/raw/branch/master/XSGFL.txt
