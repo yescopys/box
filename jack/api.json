@@ -112,49 +112,17 @@
             ]
         },
 
-            {
-            "key": "黑狐",
-            "name": "🇹┃黑狐官┃<=点这或主页换源接口",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext": {
-                "站名": "黑狐影院",
-                "主页url": "http://fagmn.com",
-                "数组": "class=\"stui-vodlist__box\"&&</a",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-                "过滤词": "/hls/#php",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-                "搜索模式": "1",
-                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索后缀": "/view/",
-                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-                "状态": "地区：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "简介：&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "免嗅": "0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-            }
-        },
+{
+"key": "T4-安博",
+"name": "🔐┃安博┃(T4)",
+"type": 4,
+"api": "https://tang.serv00.net/power/ub1818",
+"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
+"searchable": 1,
+"quickSearch": 1,
+"filterable": 1,
+"changeable": 0,
+"ext": true},
 
         {
             "key": "csp_XBPQ_vstv",
@@ -181,15 +149,7 @@
             "ext": "./js/VS影院.js"
         },
 
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "秋霞┃<=点这或主页换源接口",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-       "searchable": 0,
-       "quickSearch": 0,
-      "ext": "./js/秋霞.js"
-    },
+
         {
             "key": "555电影",
             "name": "555┃<=点这或主页换源接口",
@@ -201,6 +161,31 @@
             "changeable": 1,
             "ext": "./js/555电影[V2].js"
         },
+
+        {
+            "key": "免费看影视",
+            "name": "免费看┃<=点这或主页换源接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/免费看.js"
+        },
+
+        {
+            "key": "乐鱼影视",
+            "name": "乐鱼┃<=点这或主页换源接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/乐鱼影视.js"
+        },
+
    {
       "key": "畅梦",
       "name": "畅梦┃<=点这或主页换源接口",
@@ -234,18 +219,6 @@
             "changeable": 1,
             "ext": "./js/光棍影院.js"
         },
-        {
-            "key": "咕噜[V2]",
-            "name": "咕噜┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/咕噜[V2].js"
-        },
-
 
         {
             "key": "六度TV",
@@ -281,42 +254,7 @@
             "changeable": 1,
             "ext": "./js/Icio影视.js"
         },
-        {
-            "key": "免费看影视",
-            "name": "免费看┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/免费看.js"
-        },
 
-
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/乐鱼影视.js"
-        },
-
-        {
-            "key": "TVB云播",
-            "name": "TVB┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/TVB云播.js"
-        },
 
         {
             "key": "bili_open",
@@ -495,6 +433,50 @@
       "api": "csp_Nmys",
       "ext": "./lib/nmys.json"
     },
+
+            {
+            "key": "黑狐",
+            "name": "黑狐官┃<=点这或主页换源接口",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+            "playerType": "2",
+            "api": "csp_XBPQ",
+            "ext": {
+                "站名": "黑狐影院",
+                "主页url": "http://fagmn.com",
+                "数组": "class=\"stui-vodlist__box\"&&</a",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+                "过滤词": "/hls/#php",
+                "副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+                "搜索模式": "1",
+                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "搜索后缀": "/view/",
+                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+                "线路标题": ">&&<",
+                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+                "状态": "地区：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "简介：&&</div>",
+                "播放列表": "<a&&/a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "免嗅": "0",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+            }
+        },
 
         {
             "key": "voflix",
