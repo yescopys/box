@@ -7,6 +7,8 @@
       "name": "宝岛米苔目",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
+            "searchable": 0,
+            "quickSearch": 0,
       "ext": "./lives/直转点.txt"
     },
 
@@ -39,17 +41,7 @@
       "quickSearch": 0,
       "filterable": 0
     },
-        {
-            "key": "兔小贝",
-            "name": "📚儿童┃启蒙",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/兔小贝.js"
-        },
+
        {
             "key": "csp_Nbys1",
             "name": "泥巴1┃[海外专用]",
@@ -112,17 +104,55 @@
             ]
         },
 
-{
-"key": "T4-安博",
-"name": "🔐┃安博┃(T4)",
-"type": 4,
-"api": "https://tang.serv00.net/power/ub1818",
-"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1710238671597/fan.txt;md5;d275081b5b9f999614a1930aa7599cb9",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"changeable": 0,
-"ext": true},
+    {
+      "key": "T4-nongmin",
+      "name": "农民┃<=点这或主页换源接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/nongmin.php"
+    },
+
+    {
+      "key": "T4-mingri",
+      "name": "明日┃<=点这或主页换源接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+
+    {
+      "key": "T4-bpys",
+      "name": "白嫖┃<=点这或主页换源接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/bpys.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+
+    {
+      "key": "T4-nangua",
+      "name": "南瓜┃<=点这或主页换源接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/nangua.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+
+    {
+      "key": "T4-极光",
+      "name": "极光┃<=点这或主页换源接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/jiguang.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
 
         {
             "key": "csp_XBPQ_vstv",
@@ -248,13 +278,24 @@
             "name": "Icio┃<=点这或主页换源接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/Icio影视.js"
         },
 
+        {
+            "key": "兔小贝",
+            "name": "📚儿童┃启蒙",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "./js/兔小贝.js"
+        },
 
         {
             "key": "bili_open",
