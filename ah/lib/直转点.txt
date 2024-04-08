@@ -9,13 +9,22 @@
 ./三級倫理.txt
 
 #滴滴
-https://www.mpimg.cn/down.php/46b4165e125b5e56e7acf292b1b317e9.txt
-
-#麻豆
-https://qu.ax/XstR.txt
+./滴滴.txt
 
 #18live
-https://agit.ai/JieLeHui/TV/raw/branch/master/XSGFL.txt
+./XSGFL.txt
 
 #成人
+./Adult.m3u
+
+#麻豆联网
+https://qu.ax/XstR.txt
+
+#滴滴联网
+https://www.mpimg.cn/down.php/46b4165e125b5e56e7acf292b1b317e9.txt
+
+#成人联网
 https://gh-proxy.com/https://github.com/YanG-1989/m3u/blob/main/Adult.m3u
+
+#18live联网
+https://agit.ai/JieLeHui/TV/raw/branch/master/XSGFL.txt
