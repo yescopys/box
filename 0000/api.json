@@ -107,7 +107,7 @@
       "key": "T4-yugaopian",
       "name": "观影｜预告",
       "type": 4,
-      "api": "https://catbox.n13.club/yugaopian.php"
+      "api": "https://catbox.n13.club/yugaopian.php",
       "searchable": 0,
       "quickSearch": 0
     },
