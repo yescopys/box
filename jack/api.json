@@ -104,55 +104,7 @@
             ]
         },
 
-    {
-      "key": "T4-nongmin",
-      "name": "农民┃<=点这或主页换源接口",
-      "type": 4,
-      "api": "https://catbox.n13.club/nongmin.php"
-    },
 
-    {
-      "key": "T4-mingri",
-      "name": "明日┃<=点这或主页换源接口",
-      "type": 4,
-      "api": "https://catbox.n13.club/mingri.php"
-    },
-
-    {
-      "key": "T4-bpys",
-      "name": "白嫖┃<=点这或主页换源接口",
-      "type": 4,
-      "api": "https://catbox.n13.club/bpys.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": true
-    },
-
-    {
-      "key": "T4-nangua",
-      "name": "南瓜┃<=点这或主页换源接口",
-      "type": 4,
-      "api": "https://catbox.n13.club/nangua.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": true
-    },
-
-    {
-      "key": "T4-极光",
-      "name": "极光┃<=点这或主页换源接口",
-      "type": 4,
-      "api": "https://catbox.n13.club/jiguang.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": true
-    },
 
         {
             "key": "csp_XBPQ_vstv",
