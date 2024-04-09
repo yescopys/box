@@ -513,6 +513,27 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
+公視,http://livetv.skycf.eu.org/live.m3u8?c=8
+台視新聞,http://livetv.skycf.eu.org/live.m3u8?c=4
+TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
+中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
+中天新聞,http://livetv.skycf.eu.org/live.m3u8?c=7
+中天新聞,https://45.152.67.168/cctv-17
+中天亚洲,http://livetv.skycf.eu.org/live.m3u8?c=3
+東森新聞,http://livetv.skycf.eu.org/live.m3u8?c=9
+東森新聞,https://45.152.67.168/cctv-18
+東森财经新聞,http://livetv.skycf.eu.org/live.m3u8?c=14
+鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
+民視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=11
+三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
+華視新聞,http://livetv.skycf.eu.org/live.m3u8?c=13
+
+HOY77,https://45.152.67.168/cctv-9
+HOY78,https://45.152.67.168/cctv-10
+无线财经台,https://45.152.67.168/cctv-11
+功夫台,https://45.152.67.168/cctv-20
+
+
 
 财经频道,#genre#
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
