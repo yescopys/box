@@ -9,6 +9,14 @@
       "api": "./lib/apiv2542直转点.js",
       "ext": "./lives/直转点.txt"
     },
+    {
+	"key": "直播转点播",
+	"name": "IPTV电视┃直播",
+	"type": 3,
+	"searchable": 0,
+	"api": "./lib/live2vod.js",
+	"ext": "./lib/feimaolive.json"
+     },
 
         {
             "key": "豆瓣",
@@ -57,14 +65,18 @@
       "key": "T4-nongmin",
       "name": "农民┃<=这或主页换接口",
       "type": 4,
-      "api": "https://catbox.n13.club/nongmin.php"
+      "api": "https://catbox.n13.club/nongmin.php",
+      "searchable": 0,
+      "quickSearch": 0
     },
 
     {
       "key": "T4-mingri",
       "name": "明日┃<=这或主页换接口",
       "type": 4,
-      "api": "https://catbox.n13.club/mingri.php"
+      "api": "https://catbox.n13.club/mingri.php",
+      "searchable": 0,
+      "quickSearch": 0
     },
 
     {
@@ -72,8 +84,8 @@
       "name": "白嫖┃<=这或主页换接口",
       "type": 4,
       "api": "https://catbox.n13.club/bpys.php",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 1,
       "ext": true
@@ -84,8 +96,8 @@
       "name": "南瓜┃<=这或主页换接口",
       "type": 4,
       "api": "https://catbox.n13.club/nangua.php",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 1,
       "changeable": 1,
       "ext": true
@@ -111,6 +123,26 @@
       "searchable": 0,
       "quickSearch": 0
     },
+
+       {
+            "key": "csp_Nbys1",
+            "name": "泥巴1┃[海外专用]",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "泥巴2┃[海外专用]",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 
         {
             "key": "haiwaikan",
