@@ -4,6 +4,8 @@
 
 { "url": "https://gh.con.sh/https://raw.githubusercontent.com/yescopys/box/main/0000/api.json", "name": "0000(大陆专线)" },
 
+{ "url": "https://gh.con.sh/https://raw.githubusercontent.com/yescopys/box/main/PG/api.json", "name": "PG(大陆专线)" },
+
 { "url": "https://gh.con.sh/https://raw.githubusercontent.com/yescopys/box/main/xiaobailong/api.json", "name": "小白龙(大陆专线)" }
 ]
 }
