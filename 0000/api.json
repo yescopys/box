@@ -130,6 +130,8 @@
             "type": 3,
             "api": "csp_NiNi",
             "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "changeable": 1,
             "jar": "./jars/豆瓣.jar"
         },
@@ -141,7 +143,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
         },
 
         {
