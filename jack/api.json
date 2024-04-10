@@ -2,6 +2,15 @@
  "spider":"./lib/spider.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
+        {
+	"key": "直播转点播",
+	"name": "IPTV┃第四台",
+	"type": 3,
+	"searchable": 0,
+	"api": "./lib/live2vod.js",
+	"ext": "./lib/feimaolive.json"
+        },
+
       {
       "key": "转点",
       "name": "宝岛米苔目",
