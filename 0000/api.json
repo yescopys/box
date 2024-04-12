@@ -141,8 +141,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
+            "changeable": 1
         },
 
         {
@@ -187,17 +186,10 @@
                 "欧美综艺"
             ]
         },
-       {
-            "key": "暴風1",
-            "name": "暴風┃电影",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
+
         {
-            "key": "暴风2",
-            "name": "暴风2┃连续剧",
+            "key": "暴风",
+            "name": "暴风┃连续剧",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -236,6 +228,82 @@
                 "欧美综艺"
             ]
         },
+        {
+            "key": "bili_open5",
+            "name": "短剧[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+                "cookie": ""
+                     }
+        },
+        {
+            "key": "bili_open",
+            "name": "哔哩综合[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "电影解说#连续剧解说#沙雕漫画#动画解说#漫画解说#短剧#穿越剧#重生#赘婿#逆袭#都市#战神",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open1",
+            "name": "漫画解说[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open2",
+            "name": "沙雕[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕#沙雕合集#沙雕开局#沙雕重生#沙雕系统#沙雕末日#沙雕修仙#沙雕逆袭#沙雕神怪#沙雕召唤#沙雕史诗#沙雕魔法#沙雕魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open3",
+            "name": "电影解说[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open4",
+            "name": "连续剧解说[影视专用]",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
+                "cookie": ""
+            }
+        },
+
     {
       "key": "T4-duanju5",
       "name": "短剧屋",
@@ -288,6 +356,33 @@
     },
 
 
+       {
+	"key": "快帆",
+	"name": "快帆┃采集",
+	"type": 1,
+	"api": "https://api.kuaifan.tv/api.php/provide/vod",
+	"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+	"searchable": 1,
+	"changeable": 1
+       },
+       {
+            "key": "暴風1",
+            "name": "暴風┃采集",
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1
+        },
+
+        {
+            "key": "zy_金鹰资源",
+            "name": "金鹰┃采集",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+
         {
             "key": "最大资源",
             "name": "最大┃采集",
@@ -314,7 +409,7 @@
             "searchable": 1,
             "quickSearch": 1
         },
-    {
+      {
       "key": "恒星采集",
       "name": "恒星┃采集",
       "type": 1,
@@ -479,8 +574,6 @@
             "searchable": 1,
             "changeable": 1
         },
-
-
         {
             "key": "voflix",
             "name": "voflix┃采集",
@@ -492,7 +585,6 @@
             "playerType": 2,
             "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
        },
-
         {
             "key": "快云资源",
             "name": "快云┃采集",
@@ -509,7 +601,6 @@
             "searchable": 1,
             "changeable": 1
         }
-
   ],
 
 
