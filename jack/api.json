@@ -344,15 +344,6 @@
             "playerType": 1,
             "ext": "./js/两个BT.js"
         },
-      {
-            "key": "一起看 ",
-            "name": "一起┃影视",
-            "type": 3,
-            "api": "csp_YQKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
         {
       "key": "drpy_js_爱看机器人",
       "name": "爱看┃秒播",
