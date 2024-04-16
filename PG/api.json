@@ -30,6 +30,7 @@
             "quickSearch": 0,
       "ext": "./lives/直转点.txt"
     },
+{"key":"T4-douban","name":"豆瓣推荐","type":4,"api":"https://catbox.n13.club/douban.php"},
         {
 	"key": "豆瓣0",
 	"name": "豆瓣┃<=这或主页换接口",
