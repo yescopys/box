@@ -21,6 +21,8 @@
       "ext": "./lives/直转点.txt"
     },
 
+{"key":"T4-douban","name":"豆瓣推荐┃<=点这或主页换源接口","type":4,"api":"https://catbox.n13.club/douban.php"},
+
         {
             "key": "豆瓣",
             "name": "豆瓣1┃<=点这或主页换源接口",
