@@ -401,44 +401,55 @@
 
 
 
+                                {
+                                              "key": "csp_xml_优质",
+                                               "name": "🟡优质",
+                                               "type": 1,
+                                               "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
+                                               "searchable": 1
+                                },
+                                {
+                                              "key": "voflix",
+                                               "name": "🟡voflix",
+                                               "type": 1,
+                                               "api": "https://www.voflix.me/api.php/provide/vod",
+                                               "searchable": 1
+                                },
 		{
-			"key": "haiwaikan",
+			"key": "haiwaikan0",
 			"name": "🟡海外看",
 			"type": 1,
 			"api": "https://haiwaikan.com/api.php/provide/vod/",
-			"searchable": 1
-		},
-		{
-			"key": "种子",
-			"name": "🟡种子",
-			"type": 1,
-			"api": "https://zzdj.cc/api.php/provide/vod",
-			"searchable": 1
-		},
+                                               "searchable": 1
+                                },
                                 {
                                                "key": "快帆",
                                                "name": "🟡快帆",
                                                "type": 1,
                                                "api": "https://api.kuaifan.tv/api.php/provide/vod",
                                                "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-                                               "searchable": 1,
-                                               "changeable": 1
+                                               "searchable": 1
                                 },
                                 {
                                               "key": "恒星采集",
                                                "name": "🔴恒星",
                                                "type": 1,
                                                "api": "http://ys.540734621.xyz/api.php/provide/vod/",
-                                               "searchable": 1,
-                                               "changeable": 1
+                                               "searchable": 1
                                 },
                                 {
                                                "key": "zy_金鹰资源",
                                                "name": "🔴金鹰",
                                                "type": 1,
                                                "api": "https://jyzyapi.com/provide/vod/",
-                                               "searchable": 1,
-                                               "quickSearch": 1
+                                               "searchable": 1
+                                },
+                                {
+                                               "key": "U酷资源",
+                                               "name": "🔴U酷",
+                                               "type": 1,
+                                               "api": "https://api.ukuapi.com/api.php/provide/vod/",
+                                               "searchable": 1
                                 },
 		{
 			"key": "360",
@@ -447,7 +458,6 @@
 			"api": "https://360zy.com/api.php/provide/vod/",
 			"searchable": 1
 		},
-
 		{
 			"key": "四九",
 			"name": "🔴四九",
@@ -484,7 +494,7 @@
 			"searchable": 1
 		},
 		{
-			"key": "暴风",
+			"key": "暴风0",
 			"name": "🔴暴风",
 			"type": 1,
 			"api": "https://bfzyapi.com/api.php/provide/vod/",
@@ -505,20 +515,6 @@
 			"searchable": 1
 		},
 		{
-			"key": "熊掌",
-			"name": "🔴熊掌",
-			"type": 1,
-			"api": "https://xzcjz.com/api.php/provide/vod/",
-			"searchable": 1
-		},
-		{
-			"key": "39",
-			"name": "🔴三九",
-			"type": 1,
-			"api": "https://www.39kan.com/api.php/provide/vod/",
-			"searchable": 1
-		},
-		{
 			"key": "快车",
 			"name": "🔴快车",
 			"type": 1,
@@ -530,13 +526,6 @@
 			"name": "🔴闪电",
 			"type": 1,
 			"api": "http://sdzyapi.com/api.php/provide/vod/",
-			"searchable": 1
-		},
-		{
-			"key": "樱花",
-			"name": "🔴樱花",
-			"type": 1,
-			"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
 			"searchable": 1
 		},
 		{
@@ -617,13 +606,6 @@
 			"searchable": 1
 		},
 		{
-			"key": "每天",
-			"name": "🔴每天",
-			"type": 1,
-			"api": "http://47.113.126.237:1234/api.php/provide/vod/",
-			"searchable": 1
-		},
-		{
 			"key": "火狐",
 			"name": "🔴火狐",
 			"type": 1,
@@ -644,6 +626,7 @@
 			"api": "https://www.kuaiyunzy.com/api.php/provide/vod/",
 			"searchable": 1
 		}
+
 
 
   ],
