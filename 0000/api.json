@@ -114,6 +114,16 @@
       "ext": true
     },
 
+    {
+      "key": "T4-heihu",
+      "name": "黑狐资源",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+
    {
       "key": "T4-yugaopian",
       "name": "观影｜预告",
@@ -306,6 +316,12 @@
         },
 
     {
+      "key": "T4-juquan",
+      "name": "剧圈圈",
+      "type": 4,
+      "api": "https://catbox.n13.club/juquan.php"
+    },
+    {
       "key": "T4-duanju5",
       "name": "短剧屋",
       "type": 4,
@@ -315,6 +331,33 @@
       "filterable": 1,
       "changeable": 1,
       "ext": true
+    },
+
+    {
+      "key": "T4-auete",
+      "name": "奥特(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/auete.php"
+    },
+
+
+    {
+      "key": "T4-樱花",
+      "name": "动漫-樱花(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/yinghua.php"
+    },
+    {
+      "key": "T4-dongman",
+      "name": "动漫-巴士(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/dm84.php"
+    },
+    {
+      "key": "T4-xifan",
+      "name": "动漫-稀饭(T4)",
+      "type": 4,
+      "api": "https://catbox.n13.club/xifan.php"
     },
 
    {
@@ -357,251 +400,252 @@
     },
 
 
-       {
-	"key": "快帆",
-	"name": "快帆┃采集",
-	"type": 1,
-	"api": "https://api.kuaifan.tv/api.php/provide/vod",
-	"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-	"searchable": 1,
-	"changeable": 1
-       },
-       {
-            "key": "暴風1",
-            "name": "暴風┃采集",
-            "type": 1,
-            "api": "https://bfzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
 
-        {
-            "key": "zy_金鹰资源",
-            "name": "金鹰┃采集",
-            "type": 1,
-            "api": "https://jyzyapi.com/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
+		{
+			"key": "haiwaikan",
+			"name": "🟡海外看",
+			"type": 1,
+			"api": "https://haiwaikan.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "种子",
+			"name": "🟡种子",
+			"type": 1,
+			"api": "https://zzdj.cc/api.php/provide/vod",
+			"searchable": 1
+		},
+                                {
+                                               "key": "快帆",
+                                               "name": "🟡快帆",
+                                               "type": 1,
+                                               "api": "https://api.kuaifan.tv/api.php/provide/vod",
+                                               "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+                                               "searchable": 1,
+                                               "changeable": 1
+                                },
+                                {
+                                              "key": "恒星采集",
+                                               "name": "🔴恒星",
+                                               "type": 1,
+                                               "api": "http://ys.540734621.xyz/api.php/provide/vod/",
+                                               "searchable": 1,
+                                               "changeable": 1
+                                },
+                                {
+                                               "key": "zy_金鹰资源",
+                                               "name": "🔴金鹰",
+                                               "type": 1,
+                                               "api": "https://jyzyapi.com/provide/vod/",
+                                               "searchable": 1,
+                                               "quickSearch": 1
+                                },
+		{
+			"key": "360",
+			"name": "🔴360",
+			"type": 1,
+			"api": "https://360zy.com/api.php/provide/vod/",
+			"searchable": 1
+		},
 
-        {
-            "key": "最大资源",
-            "name": "最大┃采集",
-            "type": 1,
-            "api": "http://zuidazy.me/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "U酷资源",
-            "name": "U酷┃采集",
-            "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "奇虎资源",
-            "name": "奇虎┃采集",
-            "type": 1,
-            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-      {
-      "key": "恒星采集",
-      "name": "恒星┃采集",
-      "type": 1,
-      "api": "http://ys.540734621.xyz/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_优质",
-            "name": "优质┃采集",
-            "type": 1,
-            "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "非凡",
-            "name": "非凡┃采集",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_天空",
-            "name": "天空┃采集",
-            "type": 1,
-            "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
-            "searchable": 1,
-            "changeable": 1
-        },
-     {
-      "key": "zy_新浪",
-      "name": "新浪┃采集",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "百度资源",
-            "name": "百度┃采集",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "索尼资源",
-            "name": "索尼┃采集",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "卧龙资源",
-            "name": "卧龙┃采集",
-            "type": 1,
-            "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-       {
-      "key": "光速资源",
-      "name": "光速┃采集",
-      "type": 1,
-      "api": "http://api.guangsuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_无尽",
-            "name": "无尽┃采集",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_飞速",
-            "name": "飞速┃采集",
-            "type": 1,
-            "api": "https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "jszy",
-            "name": "极速┃采集",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "火狐",
-            "name": "火狐┃采集",
-            "type": 1,
-            "api": "https://hhzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "高清资源网",
-            "name": "️高清┃采集",
-            "type": 1,
-            "api": "https://api.1080zyku.com/inc/apijson.php",
-            "playUrl": "https://vip.zykbf.com/?url=",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_xml_ikun",
-            "name": "爱坤┃采集",
-            "type": 1,
-            "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
-            "searchable": 1,
-            "playUrl": "https://www.ikdmjx.com/?url=",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "虎牙",
-            "name": "虎牙┃采集",
-            "type": 1,
-            "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
-            "searchable": 1,
-            "changeable": 1
-        },
-     { 
-          "key": "横版影院",
-          "name": "横版┃采集", 
-          "type": 1, 
-          "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", 
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "八戒资源",
-            "name": "八戒┃采集",
-            "type": 1,
-            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "量子",
-            "name": "量子┃采集",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快车资源",
-            "name": "快车┃采集",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "voflix",
-            "name": "voflix┃采集",
-            "type": 1,
-            "api": "https://www.voflix.me/api.php/provide/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "playerType": 2,
-            "categories": ["电影","剧集","国产剧","港台剧","日韩剧","欧美剧","动漫","动画","泰国剧","即将上线","综艺","资讯","动作","喜剧","爱情","科幻","恐怖","剧情","战争","纪录片"]
-       },
-        {
-            "key": "快云资源",
-            "name": "快云┃采集",
-            "type": 1,
-            "api": "https://kuaiyun-api.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        },
-     {
-      "key": "红牛资源",
-      "name": "红牛┃采集",
-      "type": 1,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1
-        }
+		{
+			"key": "四九",
+			"name": "🔴四九",
+			"type": 1,
+			"api": "https://49zyw.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "索尼",
+			"name": "🔴索尼",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "ikun",
+			"name": "🔴ikun",
+			"type": 1,
+			"api": "https://ikunzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "非凡",
+			"name": "🔴非凡",
+			"type": 1,
+			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "量子",
+			"name": "🔴量子",
+			"type": 1,
+			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "暴风",
+			"name": "🔴暴风",
+			"type": 1,
+			"api": "https://bfzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "红牛",
+			"name": "🔴红牛",
+			"type": 1,
+			"api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "飞速",
+			"name": "🔴飞速",
+			"type": 1,
+			"api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "熊掌",
+			"name": "🔴熊掌",
+			"type": 1,
+			"api": "https://xzcjz.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "39",
+			"name": "🔴三九",
+			"type": 1,
+			"api": "https://www.39kan.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "快车",
+			"name": "🔴快车",
+			"type": 1,
+			"api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/",
+			"searchable": 1
+		},
+		{
+			"key": "闪电",
+			"name": "🔴闪电",
+			"type": 1,
+			"api": "http://sdzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "樱花",
+			"name": "🔴樱花",
+			"type": 1,
+			"api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "卧龙",
+			"name": "🔴卧龙",
+			"type": 1,
+			"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "飘花",
+			"name": "🔴飘花",
+			"type": 1,
+			"api": "http://www.ahjiuman.com/api.php/provide/vod/at/json",
+			"searchable": 1
+		},
+		{
+			"key": "天翼",
+			"name": "🔴天翼",
+			"type": 1,
+			"api": "https://www.911ysw.top/tianyi.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "虎牙",
+			"name": "🔴虎牙",
+			"type": 1,
+			"api": "https://www.huyaapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "百度",
+			"name": "🔴百度",
+			"type": 1,
+			"api": "https://api.apibdzy.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "飘零",
+			"name": "🔴飘零",
+			"type": 1,
+			"api": "https://p2100.net/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "无尽",
+			"name": "🔴无尽",
+			"type": 1,
+			"api": "https://api.wujinapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "速博",
+			"name": "🔴速博",
+			"type": 1,
+			"api": "https://subocaiji.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "魔都",
+			"name": "🔴魔都",
+			"type": 1,
+			"api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "最大",
+			"name": "🔴最大",
+			"type": 1,
+			"api": "http://zuidazy.me/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "奇虎",
+			"name": "🔴奇虎",
+			"type": 1,
+			"api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "每天",
+			"name": "🔴每天",
+			"type": 1,
+			"api": "http://47.113.126.237:1234/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "火狐",
+			"name": "🔴火狐",
+			"type": 1,
+			"api": "https://hhzyapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "新浪",
+			"name": "🔴新浪",
+			"type": 1,
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "快云",
+			"name": "🔴快云",
+			"type": 1,
+			"api": "https://www.kuaiyunzy.com/api.php/provide/vod/",
+			"searchable": 1
+		}
+
+
   ],
 
 
