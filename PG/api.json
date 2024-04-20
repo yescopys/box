@@ -391,33 +391,8 @@
                 "cookie": "" }
         },
         {
-	"key":"bili0",
-	"name":"B站2┃短剧",
-	"type":3,
-	"api": "csp_Bili",
-	"searchable": 0,
-	"quickSearch": 0,
-	"changeable": 0,
-	"ext":{
-	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-	"cookie":"" }
-	},
-        {
-            "key": "bili_open",
-            "name": "哔哩综合[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "电影解说#连续剧解说#沙雕漫画#动画解说#漫画解说#短剧#穿越剧#重生#赘婿#逆袭#都市#战神",
-                "cookie": ""
-            }
-        },
-        {
             "key": "bili_open1",
-            "name": "漫画解说[影视专用]",
+            "name": "B站1┃漫画解说",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -429,7 +404,7 @@
         },
         {
             "key": "bili_open2",
-            "name": "沙雕[影视专用]",
+            "name": "B站1┃沙雕",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -441,7 +416,7 @@
         },
         {
             "key": "bili_open3",
-            "name": "电影解说[影视专用]",
+            "name": "B站1┃电影解说",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -453,11 +428,78 @@
         },
         {
             "key": "bili_open4",
-            "name": "连续剧解说[影视专用]",
+            "name": "B站1┃连续剧解说",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
             "changeable": 0,
+            "ext": {
+                "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
+                "cookie": ""
+            }
+        },
+
+        {
+	"key":"bili0",
+	"name":"B站2┃短剧",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext":{
+	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+	"cookie":"" }
+	},
+
+        {
+	"key":"bili1",
+	"name":"B站2┃漫画解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "categories": "动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
+                "cookie": ""
+            }
+        },
+
+        {
+            "key": "bili2",
+            "name": "B站2┃沙雕",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "categories": "沙雕#沙雕合集#沙雕开局#沙雕重生#沙雕系统#沙雕末日#沙雕修仙#沙雕逆袭#沙雕神怪#沙雕召唤#沙雕史诗#沙雕魔法#沙雕魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili3",
+            "name": "B站2┃电影解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "categories": "电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili4",
+            "name": "B站2┃连续剧解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
             "ext": {
                 "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
                 "cookie": ""
