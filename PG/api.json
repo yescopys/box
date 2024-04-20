@@ -3,7 +3,7 @@
 	"sites":[
         {
             "key": "bili_open5",
-            "name": "短剧[影视专用]",
+            "name": "短剧┃蜂蜜影视",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -13,6 +13,19 @@
                 "cookie": ""
                      }
         },
+		{
+			"key":"bili0",
+			"name":"B站┃短剧",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+				"cookie":""
+			}
+		},
         {
 	"key": "直播转点播",
 	"name": "IPTV┃第四台",
@@ -587,7 +600,19 @@
       "quickSearch": 1
     },
 
-
+		{
+			"key":"bili1",
+			"name":"B站 |漫画解说",
+			"type":3,
+			"api": "csp_Bili",
+			"searchable": 0,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
+				"cookie":""
+			}
+		},
 		{
 			"key":"bili",
 			"name":"B站 | Bili[jar]",
