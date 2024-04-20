@@ -1,29 +1,6 @@
 {
 	"spider":"./pg.jar",
 	"sites":[
-        {
-            "key": "bili_open5",
-            "name": "短剧┃蜂蜜影视",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-                "cookie": "" }
-        },
-        {
-	"key":"bili0",
-	"name":"B站┃短剧",
-	"type":3,
-	"api": "csp_Bili",
-	"searchable": 0,
-	"quickSearch": 0,
-	"changeable": 0,
-	"ext":{
-	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-	"cookie":"" }
-	},
 
         {
 	"key": "直播转点播",
@@ -404,16 +381,27 @@
 
         {
             "key": "bili_open5",
-            "name": "短剧[影视专用]",
+            "name": "B站1┃短剧",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
             "changeable": 1,
             "ext": {
                 "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-                "cookie": ""
-                     }
+                "cookie": "" }
         },
+        {
+	"key":"bili0",
+	"name":"B站2┃短剧",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext":{
+	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+	"cookie":"" }
+	},
         {
             "key": "bili_open",
             "name": "哔哩综合[影视专用]",
