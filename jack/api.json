@@ -6,7 +6,7 @@
 
         {
 	"key": "直播转点播",
-	"name": "IPTV┃第四台",
+	"name": "IPTV┃<=点这或主页换源接口",
 	"type": 3,
 	"searchable": 0,
 	"api": "./lib/live2vod.js",
@@ -15,7 +15,7 @@
 
       {
       "key": "转点",
-      "name": "宝岛米苔目",
+      "name": "宝岛米苔目┃<=点这或主页换源接口",
       "type": 3,
       "api": "./lib/apiv2542直转点.js",
             "searchable": 0,
