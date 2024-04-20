@@ -381,7 +381,7 @@
 
         {
             "key": "bili_open5",
-            "name": "B站1┃短剧",
+            "name": "B站1┃短剧专区",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 1,
@@ -404,7 +404,7 @@
         },
         {
             "key": "bili_open2",
-            "name": "B站1┃沙雕",
+            "name": "B站1┃沙雕专区",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -428,7 +428,7 @@
         },
         {
             "key": "bili_open4",
-            "name": "B站1┃连续剧解说",
+            "name": "B站1┃影剧解说",
             "type": 3,
             "api": "./js/bili_open.js",
             "searchable": 0,
@@ -441,7 +441,7 @@
 
         {
 	"key":"bili0",
-	"name":"B站2┃短剧",
+	"name":"B站2┃短剧专区",
 	"type":3,
 	"api": "csp_Bili",
 	"searchable": 0,
@@ -468,7 +468,7 @@
 
         {
             "key": "bili2",
-            "name": "B站2┃沙雕",
+            "name": "B站2┃沙雕专区",
 	"type":3,
 	"api": "csp_Bili",
 	"searchable": 0,
@@ -494,7 +494,7 @@
         },
         {
             "key": "bili4",
-            "name": "B站2┃连续剧解说",
+            "name": "B站2┃影剧解说",
 	"type":3,
 	"api": "csp_Bili",
 	"searchable": 0,
