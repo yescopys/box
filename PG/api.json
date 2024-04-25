@@ -139,6 +139,14 @@
       "ext": true
     },
 
+
+    {
+      "key": "T4-hanju",
+      "name": "韩剧TV",
+      "type": 4,
+      "api": "https://catbox.n13.club/hanju.php"
+    },
+
    {
       "key": "T4-yugaopian",
       "name": "观影｜预告",
