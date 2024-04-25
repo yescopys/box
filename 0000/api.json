@@ -115,6 +115,13 @@
     },
 
     {
+      "key": "T4-hanju",
+      "name": "韩剧TV",
+      "type": 4,
+      "api": "https://catbox.n13.club/hanju.php"
+    },
+
+    {
       "key": "T4-heihu",
       "name": "黑狐资源",
       "type": 4,
