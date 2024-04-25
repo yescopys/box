@@ -14,7 +14,7 @@
 
     {
       "key": "155",
-      "name": "🔞155采集",
+      "name": "🔞155采集┃<=这或主页换接口",
       "type": 0,
       "playerType": 2,
       "api": "https://155api.com/api.php/provide/vod/at/xml",
@@ -23,7 +23,7 @@
     },
         {
             "key": "155专场",
-            "name": "🔞155采集2",
+            "name": "🔞155采集2┃<=这或主页换接口",
             "type": 1,
             "api": "https://155api.com/api.php/provide/vod/",
             "playUrl": "",
@@ -59,13 +59,24 @@
         },
     {
       "key": "kxgav",
-      "name": "🔞开心果",
+      "name": "🔞开心果┃<=这或主页换接口",
       "type": 0,
       "api": "https://www.kxgav.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
+
+        {
+            "key": "奥斯卡",
+            "name": "🔞奥斯卡┃<=这或主页换接口",
+            "type": 1,
+            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1
+        },
+
+{"key": "KpgxdyE", "name": "🔞黄AV资源┃<=这或主页换接口", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+
 
 {"key":"*老鸭","name":"🔞老鸭资源","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {
@@ -78,13 +89,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-        {
-            "key": "奥斯卡",
-            "name": "🔞奥斯卡",
-            "type": 1,
-            "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1
-        },
+
         {
             "key": "奶香m",
             "name": "🔞奶香香",
@@ -129,7 +134,6 @@
 {"key":"*淫水机资源","name":"🔞淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*香奶儿资源","name":"🔞香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"*白嫖资源","name":"🔞白嫖资源","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key": "KpgxdyE", "name": "🔞黄AV资源", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
 
  
