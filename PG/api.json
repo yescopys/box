@@ -4,16 +4,7 @@
     "spider": "./pg.jar",
     "sites": [
 
-        {
-	"key": "豆瓣0",
-	"name": "豆瓣0┃<=这或主页换接口",
-	"type": 3,
-	"api": "csp_Douban",
-	"searchable": 0,
-	"changeable": 1,
-	"indexs":1,
-	"ext": "./lib/douban.json"
-       },
+
         {
             "key": "豆瓣",
             "name": "豆瓣1┃<=这或主页换接口",
@@ -34,15 +25,17 @@
       "quickSearch": 0,
       "ext": "./lib/douban.js"
     },
-     {
-      "key": "豆豆",
-      "name": "豆瓣3┃<=这或主页换接口",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+        {
+	"key": "豆瓣3",
+	"name": "豆瓣3┃<=这或主页换接口",
+	"type": 3,
+	"api": "csp_Douban",
+	"searchable": 0,
+	"changeable": 1,
+	"indexs":1,
+	"ext": "./lib/douban.json"
+       },
+
        {
             "key": "csp_Nbys1",
             "name": "泥巴1┃[海外专用]",
@@ -73,17 +66,7 @@
             "changeable": 1,
             "ext": "proxy"
         },
-        {
-            "key": "獨播",
-            "name": "獨播┃[海外专用]",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./lib/duboku.json$$$proxy"
-        },
+
         {
             "key": "haiwaikan",
             "name": "海外看┃[海外专用]",
