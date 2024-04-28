@@ -1,33 +1,21 @@
-﻿{
+﻿﻿{
  "spider":"./lib/spider.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
 
-
         {
-	"key": "直播转点播",
-	"name": "IPTV┃<=点这或主页换源接口",
+	"key": "豆瓣0",
+	"name": "豆瓣0┃<=这或主页换接口",
 	"type": 3,
+	"api": "csp_Douban",
 	"searchable": 0,
-	"api": "./lib/live2vod.js",
-	"ext": "./lib/feimaolive.json"
-        },
-
-      {
-      "key": "转点",
-      "name": "宝岛米苔目┃<=点这或主页换源接口",
-      "type": 3,
-      "api": "./lib/apiv2542直转点.js",
-            "searchable": 0,
-            "quickSearch": 0,
-      "ext": "./lives/直转点.txt"
-    },
-
-{"key":"T4-douban","name":"豆瓣推荐┃<=点这或主页换源接口","type":4,"api":"https://catbox.n13.club/douban.php"},
-
+	"changeable": 1,
+	"indexs":1,
+	"ext": "./lib/douban.json"
+       },
         {
             "key": "豆瓣",
-            "name": "豆瓣1┃<=点这或主页换源接口",
+            "name": "豆瓣1┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -38,7 +26,7 @@
         },
      {
       "key": "搜索┃豆瓣js",
-      "name": "豆瓣2┃<=点这或主页换源接口",
+      "name": "豆瓣2┃<=这或主页换接口",
       "type": 3,
       "api": "./lib/apiv43drpy2.min.js",
       "searchable": 0,
@@ -47,14 +35,13 @@
     },
      {
       "key": "豆豆",
-      "name": "豆瓣3┃<=点这或主页换源接口",
+      "name": "豆瓣3┃<=这或主页换接口",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
     },
-
        {
             "key": "csp_Nbys1",
             "name": "泥巴1┃[海外专用]",
@@ -73,6 +60,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "星星",
+            "name": "星星┃[海外专用]",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "proxy"
         },
         {
             "key": "haiwaikan",
@@ -117,49 +115,9 @@
             ]
         },
 
-
-
-        {
-            "key": "csp_XBPQ_vstv",
-            "name": "VS影院┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jars/csp_XBPQ_vstv.jar",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#短剧$5#综艺$3" }
-        },
-        {
-            "key": "VS影院2",
-            "name": "VS影院2┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/VS影院.js"
-        },
-
-
-        {
-            "key": "555电影",
-            "name": "555┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/555电影[V2].js"
-        },
-
         {
             "key": "免费看影视",
-            "name": "免费看┃<=点这或主页换源接口",
+            "name": "免费看┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -168,22 +126,9 @@
             "changeable": 1,
             "ext": "./js/免费看.js"
         },
-
-        {
-            "key": "乐鱼影视",
-            "name": "乐鱼┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/乐鱼影视.js"
-        },
-
    {
       "key": "畅梦",
-      "name": "畅梦┃<=点这或主页换源接口",
+      "name": "畅梦┃<=这或主页换接口",
       "type": 3,
       "api": "./api/drpy2.min.js",
        "searchable": 0,
@@ -192,7 +137,7 @@
     },
         {
             "key": "LIBVIO影视",
-            "name": "LIBVIO┃<=点这或主页换源接口",
+            "name": "LIBVIO┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
@@ -201,46 +146,9 @@
             "changeable": 1,
             "ext": "./js/LIBVIO.js"
         },
-
-
-        {
-            "key": "光棍影院",
-            "name": "光棍┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/光棍影院.js"
-        },
-
-        {
-            "key": "六度TV",
-            "name": "六度┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/六度TV.js"
-        },
-
-        {
-            "key": "B站影视",
-            "name": "B站┃<=点这或主页换源接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/B站影视.js"
-        },
         {
             "key": "Icio影视",
-            "name": "Icio┃<=点这或主页换源接口",
+            "name": "Icio┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -249,6 +157,262 @@
             "changeable": 1,
             "ext": "./js/Icio影视.js"
         },
+        {
+            "key": "csp_YingShi",
+            "name": "影视┃<=这或主页换接口",
+            "type": 3,
+            "api": "csp_YingShi",
+            "searchable": 0, 
+            "quickSearch": 0, 
+            "filterable": 1, 
+            "changeable": 1,
+            "ext": "proxy"
+        },
+      {
+	"key": "直播转点播",
+	"name": "第四台1┃<=这或主页换接口",
+	"type": 3,
+	"searchable": 0,
+	"api": "./lib/live2vod.js",
+	"ext": "./lib/feimaolive.json"
+      },
+      {
+      "key": "转点",
+      "name": "第四台2┃<=这或主页换接口",
+      "type": 3,
+      "api": "./lib/apiv2542直转点.js",
+            "searchable": 0,
+            "quickSearch": 0,
+      "ext": "./lives/直转点.txt"
+      },
+
+        {
+            "key": "bili_open0",
+            "name": "B站1┃短剧专区",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+                "cookie": "" }
+        },
+        {
+            "key": "bili_open1",
+            "name": "B站1┃漫画解说",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open2",
+            "name": "B站1┃沙雕专区",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "沙雕#沙雕合集#沙雕开局#沙雕重生#沙雕系统#沙雕末日#沙雕修仙#沙雕逆袭#沙雕神怪#沙雕召唤#沙雕史诗#沙雕魔法#沙雕魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open3",
+            "name": "B站1┃电影解说",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili_open4",
+            "name": "B站1┃影剧解说",
+            "type": 3,
+            "api": "./js/bili_open.js",
+            "searchable": 0,
+            "changeable": 0,
+            "ext": {
+                "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
+                "cookie": ""
+            }
+        },
+
+        {
+	"key":"bili0",
+	"name":"B站2┃短剧专区",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+	"ext":{
+	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+	"cookie":"" }
+	},
+
+        {
+	"key":"bili1",
+	"name":"B站2┃漫画解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "type":"动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
+                "cookie": ""
+            }
+        },
+
+        {
+            "key": "bili2",
+            "name": "B站2┃沙雕专区",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "type":"沙雕#沙雕合集#沙雕开局#沙雕重生#沙雕系统#沙雕末日#沙雕修仙#沙雕逆袭#沙雕神怪#沙雕召唤#沙雕史诗#沙雕魔法#沙雕魔幻",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili3",
+            "name": "B站2┃电影解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "type":"电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "bili4",
+            "name": "B站2┃影剧解说",
+	"type":3,
+	"api": "csp_Bili",
+	"searchable": 0,
+	"quickSearch": 0,
+	"changeable": 0,
+            "ext": {
+                "type":"国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
+                "cookie": ""
+            }
+        },
+
+
+    {
+      "key":"T4-douban",
+      "name":"T4-豆瓣┃<=这或主页换接口",
+      "type":4,
+      "api":"https://catbox.n13.club/douban.php"
+    },
+    {
+      "key": "T4-nongmin",
+      "name": "T4-农民┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/nongmin.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+    {
+      "key": "T4-mingri",
+      "name": "T4-明日┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/mingri.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+    {
+      "key": "T4-bpys",
+      "name": "T4-白嫖┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/bpys.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+    {
+      "key": "T4-nangua",
+      "name": "T4-南瓜┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/nangua.php",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+    {
+      "key": "T4-极光",
+      "name": "T4-极光┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/jiguang.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": true
+    },
+    {
+      "key": "T4-hanju",
+      "name": "T4-韩剧┃<=这或主页换接口",
+      "type": 4,
+      "api": "https://catbox.n13.club/hanju.php"
+    },
+   {
+      "key": "T4-yugaopian",
+      "name": "T4-观影(预告)",
+      "type": 4,
+      "api": "https://catbox.n13.club/yugaopian.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "T4-樱花",
+      "name": "T4-樱花(动漫)",
+      "type": 4,
+      "api": "https://catbox.n13.club/yinghua.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "T4-dongman",
+      "name": "T4-巴士(动漫)",
+      "type": 4,
+      "api": "https://catbox.n13.club/dm84.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
+    {
+      "key": "T4-xifan",
+      "name": "T4-稀饭(动漫)",
+      "type": 4,
+      "api": "https://catbox.n13.club/xifan.php",
+      "searchable": 0,
+      "quickSearch": 0
+    },
 
         {
             "key": "兔小贝",
@@ -262,229 +426,8 @@
             "ext": "./js/兔小贝.js"
         },
 
-        {
-            "key": "bili_open5",
-            "name": "B站1┃短剧",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-                "cookie": "" }
-        },
-        {
-	"key":"bili0",
-	"name":"B站2┃短剧",
-	"type":3,
-	"api": "csp_Bili",
-	"searchable": 0,
-	"quickSearch": 0,
-	"changeable": 0,
-	"ext":{
-	"type":"推荐短剧#短剧完结#穿越短剧#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
-	"cookie":"" }
-	},
-        {
-            "key": "bili_open",
-            "name": "哔哩综合[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "电影解说#连续剧解说#沙雕漫画#动画解说#漫画解说#短剧#穿越剧#重生#赘婿#逆袭#都市#战神",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open1",
-            "name": "漫画解说[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "动画解说合集#热门漫画解说#漫画解说#漫画解说日漫#漫画解说韩漫#漫画解说合集#漫画解说开局#漫画解说重生#漫画解说系统#漫画解说末日#漫画解说修仙#漫画解说逆袭#漫画解说神怪#漫画解说召唤#漫画解说史诗#漫画解说魔法#漫画解说魔幻",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open2",
-            "name": "沙雕[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "沙雕#沙雕合集#沙雕开局#沙雕重生#沙雕系统#沙雕末日#沙雕修仙#沙雕逆袭#沙雕神怪#沙雕召唤#沙雕史诗#沙雕魔法#沙雕魔幻",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open3",
-            "name": "电影解说[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "电影解说#国产电影解说#欧美电影解说#韩国电影解说#台湾电影解说",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "bili_open4",
-            "name": "连续剧解说[影视专用]",
-            "type": 3,
-            "api": "./js/bili_open.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": {
-                "categories": "国产剧解说#港剧解说#韩剧解说#日剧解说#台剧解说#美剧解说",
-                "cookie": ""
-            }
-        },
 
-        {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 1,
-            "ext": "./js/两个BT.js"
-        },
-        {
-      "key": "drpy_js_爱看机器人",
-      "name": "爱看┃秒播",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-      "ext": "./js/ikanbot2.js"
-    },
 
-        {
-            "key": "新视觉影院",
-            "name": "新视觉┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/新视觉影视.js"
-        },
-
-        {
-            "key": "9u电影",
-            "name": "9u┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/9U电影.js"
-        },
-
-        {
-            "key": "人人影视",
-            "name": "人人┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/人人影视.js"
-        },
-
-        {
-      "key": "益达影视",
-      "name": "益达┃影视",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
-    },
-        {
-            "key": "新6V",
-            "name": "6v┃影视",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://www.xb6v.com/"
-        },
-
-        {
-            "key": "南瓜",
-            "name": "南瓜┃影视",
-            "type": 3,
-            "api": "csp_NanGua",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-   {
-      "key": "csp_Nmys",
-      "name": "nmys┃影视",
-      "type": 3,
-      "api": "csp_Nmys",
-      "ext": "./lib/nmys.json"
-    },
-
-            {
-            "key": "黑狐",
-            "name": "黑狐官┃<=点这或主页换源接口",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "./lib/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
-            "playerType": "2",
-            "api": "csp_XBPQ",
-            "ext": {
-                "站名": "黑狐影院",
-                "主页url": "http://fagmn.com",
-                "数组": "class=\"stui-vodlist__box\"&&</a",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
-                "过滤词": "/hls/#php",
-                "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
-                "搜索模式": "1",
-                "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
-                "搜索图片": "data-original=\"&&\"",
-                "搜索标题": "title=\"&&\"",
-                "搜索链接": "href=\"&&\"",
-                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索后缀": "/view/",
-                "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
-                "线路标题": ">&&<",
-                "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
-                "状态": "地区：&&</p>",
-                "导演": "导演：&&</p>",
-                "主演": "主演：&&</p>",
-                "简介": "简介：&&</div>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
-                "免嗅": "0",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
-                "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
-            }
-        },
 
         {
             "key": "voflix",
@@ -1571,33 +1514,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Ysj",
-            "name": "异界┃动漫",
-            "type": 3,
-            "api": "csp_Ysj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_Anime1",
-            "name": "日本┃动漫",
-            "type": 3,
-            "api": "csp_Anime1",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-    {
-      "key": "drpy_js_爱弹幕",
-      "name": "🇹┃爱弹幕┃动漫",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./js/爱弹幕.js"
-    },
-        {
             "key": "NT动漫",
             "name": "NT┃动漫",
             "type": 3,
@@ -1620,17 +1536,6 @@
             "ext": "./js/58动漫.js"
         },
         {
-            "key": "AnFuns动漫",
-            "name": "AnFuns┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/AnFuns.js"
-        },
-        {
             "key": "去看吧",
             "name": "去看吧┃动漫",
             "type": 3,
@@ -1641,200 +1546,112 @@
             "changeable": 1,
             "ext": "./js/去看吧.js"
         },
-
-    {
-            "key": "Bili",
-            "name": "Bili",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597 },
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "./lib/bilibili.json"
-        },
- 
-   {
-        "key": "mybili",
-        "name": "我哔1[影视专用]",
-        "type": 3,
-        "api": "./js/mybili_open.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0
-   }, 
-
-
         {
-            "key": "我哔2",
-            "name": "我哔2┃[影视专用]",
+            "key": "两个BT",
+            "name": "两个BT┃影视",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "./js/我的哔哩.js"
+            "filterable": 1,
+            "changeable": 1,
+            "playerType": 1,
+            "ext": "./js/两个BT.js"
         },
-
-   {
-        "key": "bililive_open",
-        "name": "哔哩1[影视专用]",
-        "type": 3,
-        "api": "./js/bililive_open.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0
-   },   
-
         {
-            "key": "哔哩2",
-            "name": "哔哩2┃[影视专用]",
+      "key": "drpy_js_爱看机器人",
+      "name": "爱看┃秒播",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+      "ext": "./js/ikanbot2.js"
+    },
+        {
+            "key": "新视觉影院",
+            "name": "新视觉┃影视",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-            "ext": "./js/哔哩影视.js"
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/新视觉影视.js"
         },
-
-   {
-        "key": "bili3",
-        "name": "哔哩3[影视专用]",
-        "type": 3,
-        "api": "./js/bili_open.js",
+        {
+            "key": "9u电影",
+            "name": "9u┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "changeable": 0,
-        "ext": { 
-        "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",
-        "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"
-                   }
-   }, 
-
-   
-  {
-      "key": "直播转点播2",
-      "name": "歌曲┃MV ",
-      "type": 4,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "api": "http://120.53.102.254/dsp",
-      "playerType": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/9U电影.js"
+        },
+        {
+            "key": "人人影视",
+            "name": "人人┃影视",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/人人影视.js"
+        },
+        {
+      "key": "益达影视",
+      "name": "益达┃影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
-    },
-
-   {
-      "key": "MTV",
-      "name": "🎧明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597 },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/MTV.json"
-    },
-        {
-            "key": "A8音乐",
-            "name": "🎵A8┃MV",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/A8音乐.js"
-        },
-        {
-            "key": "DJ哟哟音乐网",
-            "name": "🎵DJ哟哟┃音乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/DJ音乐.js"
-        },
-        {
-            "key": "啦啦DJ音乐网",
-            "name": "🎵啦啦DJ┃音乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/啦啦DJ.js"
-        },
-
-     {
-         "key":"哔哩音乐",
-         "name":"🎧哔哩｜音乐",
-         "type":3,
-         "api":"csp_Bili",
-         "searchable":0,
-         "quickSearch":0,
-         "filterable":1,
-         "ext":"./lib/哔哩音乐.json"
-   },
-
-     {
-      "key": "吾爱演唱会",
-      "name": "音乐",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
       "filterable": 1,
-      "ext": "./lib/吾爱演唱会.json"
+      "ext": "https://myd666.tv/lvdou_api.php/v1.vod"
     },
         {
-            "key": "企鹅体育",
-            "name": "企鹅┃体育",
+            "key": "新6V",
+            "name": "6v┃影视",
             "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
             "changeable": 0,
-            "ext": "./json/企鹅体育.json"
+            "ext": "http://www.xb6v.com/"
         },
         {
-            "key": "310直播",
-            "name": "⚽310┃看球",
+            "key": "南瓜",
+            "name": "南瓜┃影视",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/310直播.js"
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
         },
         {
-            "key": "JRKAN直播",
-            "name": "⚽JRKAN┃看球",
+            "key": "bili_opens",
+            "name": "B站1┃采集",
             "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./js/JRKAN直播.js"
-        }
+            "api": "./js/bili_open.js",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "categories": "推荐短剧#穿越短剧#短剧完结#系统短剧#都市短剧#重生短剧#逆袭短剧#赘婿短剧#古代短剧#甜宠短剧",
+                "cookie": "" }
+        },
+        {
+            "key": "bilis",
+            "name": "B站2┃采集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "type": "演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+                "cookie": ""
+            }
+
+
  ],
   
 
@@ -2416,7 +2233,3 @@
 "logo": "https://epg.112114.xyz/logo/{name}.png"}
 ]
 }
-
-
-
-
