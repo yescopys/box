@@ -1,18 +1,10 @@
-﻿﻿{
- "spider":"./lib/spider.jar",
+﻿﻿//个人整理使用,不对外发布,仅作学习研究之用,没有收费。
+
+{
+    "spider": "./pg.jar",
   "wallpaper": "http://饭太硬.ga/深色壁纸/api.php",
 "sites": [
 
-        {
-	"key": "豆瓣0",
-	"name": "豆瓣0┃<=这或主页换接口",
-	"type": 3,
-	"api": "csp_Douban",
-	"searchable": 0,
-	"changeable": 1,
-	"indexs":1,
-	"ext": "./lib/douban.json"
-       },
         {
             "key": "豆瓣",
             "name": "豆瓣1┃<=这或主页换接口",
@@ -33,15 +25,17 @@
       "quickSearch": 0,
       "ext": "./lib/douban.js"
     },
-     {
-      "key": "豆豆",
-      "name": "豆瓣3┃<=这或主页换接口",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+        {
+	"key": "豆瓣3",
+	"name": "豆瓣3┃<=这或主页换接口",
+	"type": 3,
+	"api": "csp_Douban",
+	"searchable": 0,
+	"changeable": 1,
+	"indexs":1,
+	"ext": "./lib/douban.json"
+       },
+
        {
             "key": "csp_Nbys1",
             "name": "泥巴1┃[海外专用]",
