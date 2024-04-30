@@ -1,0 +1,258 @@
+
+        {
+            "key": "drpy_js_荐片",
+            "name": "影视 | 荐片[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/荐片.js",
+            "playerType": "1"
+        },
+        {
+            "key": "賤賤",
+            "name": "荐片 | jar",
+            "type": 3,
+            "api": "csp_Jianpian",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+        },
+
+
+
+
+        {
+            "key": "drpy_js_我的哔哩",
+            "name": "我的哔哩[js]",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/我的哔哩.js"
+        },
+        {
+            "key": "sharenice_open",
+            "name": "短视频[cat]",
+            "type": 3,
+            "searchable": 0,
+            "quickSearch": 0,
+            "api": "./cat/sharenice_open.js",
+            "playerType": "2"
+        },
+        {
+            "key": "猫南瓜",
+            "name": "南瓜[cat]",
+            "type": 3,
+            "api": "./cat/猫南瓜.js",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "nangua",
+            "name": "南瓜影视[cat]",
+            "type": 3,
+            "api": "./cat/ng_open.js",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "subaibai",
+            "name": "素白白[cat]",
+            "type": 3,
+            "api": "./cat/subaibai_open.js",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+        {
+            "key": "cntv",
+            "name": "央视[cat]",
+            "type": 3,
+            "api": "./cat/cntv_open.js",
+            "searchable": 0,
+            "quickSearch": 0
+        },
+
+
+        {
+            "key": "drpy_js_人人影视",
+            "name": "影视 | 人人影视[js]采集",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/人人影视.js"
+        },
+        {
+            "key": "drpy_js_厂长资源",
+            "name": "影视 | 厂长资源[js]采集",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/厂长资源.js"
+        },
+        {
+            "key": "drpy_js_追剧迷",
+            "name": "影视 | 追剧迷[js]采集",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/追剧迷.js"
+        },
+        {
+            "key": "drpy_js_奈飞狗[V2]",
+            "name": "影视 | 奈飞狗[V2][js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/奈飞狗[V2].js"
+        },
+        {
+            "key": "drpy_js_极狐[V2]",
+            "name": "影视 | 北极狐[V2][js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/北极狐[V2].js"
+        },
+        {
+            "key": "drpy_js_网飞.TV",
+            "name": "影视 | 网飞.TV[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/网飞.TV.js"
+        },
+        {
+            "key": "drpy_js_看看屋",
+            "name": "影视 | 看看屋[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/看看屋.js"
+        },
+
+        {
+            "key": "drpy_js_影渣渣",
+            "name": "影视 | 影渣渣[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/影渣渣.js"
+        },
+        {
+            "key": "drpy_js_Voflix",
+            "name": "影视 | Voflix[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/Voflix.js"
+        },
+        {
+            "key": "drpy_js_南瓜影视",
+            "name": "影视 | 南瓜影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/南瓜影视.js"
+        },
+        {
+            "key": "drpy_js_大米星球[V2]",
+            "name": "影视 | 大米星球[V2][js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/大米星球[V2].js"
+        },
+        {
+            "key": "drpy_js_米爱影视",
+            "name": "影视 | 米爱影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/米爱影视.js"
+        },
+        {
+            "key": "drpy_js_新视觉影视",
+            "name": "影视 | 新视觉影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/新视觉影视.js"
+        },
+        {
+            "key": "drpy_js_69美剧",
+            "name": "影视 | 69美剧[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/69美剧.js"
+        },
+        {
+            "key": "drpy_js_555电影",
+            "name": "影视 | 555电影[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/555电影.js"
+        },
+        {
+            "key": "drpy_js_9U电影",
+            "name": "影视 | 9U电影[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/9U电影.js"
+        },
+        {
+            "key": "drpy_js_NY影院",
+            "name": "影视 | NY影院[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "drpy_js_量子影视",
+            "name": "影视 | 量子影视[js]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/量子影视.js"
+        },
+
+
+
+
+
+
+
+
+
+
+
+
+
