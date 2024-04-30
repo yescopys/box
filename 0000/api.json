@@ -94,18 +94,6 @@
                 "经典片"
             ]
         },
-
-        {
-            "key": "drpy_js_大米星球[V2]",
-            "name": "大米星球┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/大米星球[V2].js"
-        },
         {
             "key": "drpy_js_网飞.TV",
             "name": "网飞.TV┃<=这或主页换接口",
@@ -116,17 +104,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/网飞.TV.js"
-        },
-        {
-            "key": "drpy_js_奈飞狗[V2]",
-            "name": "奈飞狗┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/奈飞狗[V2].js"
         },
         {
             "key": "drpy_js_Voflix",
@@ -221,6 +198,28 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "./js/免费看.js"
+        },
+        {
+            "key": "drpy_js_奈飞狗[V2]",
+            "name": "奈飞狗┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/奈飞狗[V2].js"
+        },
+        {
+            "key": "drpy_js_大米星球[V2]",
+            "name": "大米星球┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/大米星球[V2].js"
         },
 
         {
