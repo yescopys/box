@@ -22,78 +22,6 @@
 	"indexs":1,
 	"ext": "./lib/douban.json"
        },
-       {
-            "key": "csp_Nbys1",
-            "name": "泥巴1┃[海外专用]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "泥巴2┃[海外专用]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "星星",
-            "name": "星星┃[海外专用]",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "proxy"
-        },
-        {
-            "key": "haiwaikan",
-            "name": "海外看┃[海外专用]",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-        },
         {
             "key": "drpy_js_网飞.TV",
             "name": "网飞.TV┃<=这或主页换接口",
@@ -248,6 +176,107 @@
             "quickSearch": 0,
       "ext": "./lives/直转点.txt"
       },
+       {
+            "key": "csp_Nbys1",
+            "name": "🛫泥巴1┃[海外专用]",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jars/豆瓣.jar"
+        },
+        {
+            "key": "csp_Nbys",
+            "name": "🛫泥巴2┃[海外专用]",
+            "type": 3,
+            "api": "csp_NiNi",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "星星",
+            "name": "🛫星星┃[海外专用]",
+            "type": 3,
+            "api": "csp_Star",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "proxy"
+        },
+        {
+            "key": "haiwaikan",
+            "name": "🛫海外看┃[海外专用]",
+            "type": 1,
+            "api": "https://haiwaikan.com/api.php/provide/vod",
+            "searchable": 1,
+            "changeable": 1,
+            "categories": [
+                "国产剧",
+                "韩剧",
+                "日剧",
+                "台剧",
+                "泰剧",
+                "港剧",
+                "欧美剧",
+                "日本动漫",
+                "国产动漫",
+                "欧美动漫",
+                "动画电影",
+                "韩国综艺",
+                "国产综艺",
+                "日本综艺",
+                "欧美综艺",
+                "冒险片",
+                "剧情片",
+                "动作片",
+                "同性片",
+                "喜剧片",
+                "奇幻片",
+                "恐怖片",
+                "悬疑片",
+                "惊悚片",
+                "战争片",
+                "歌舞片",
+                "灾难片",
+                "爱情片",
+                "犯罪片",
+                "科幻片",
+                "纪录片",
+                "经典片"
+            ]
+        },
+       {
+               "key":"drpy_od",
+               "name":"🛫欧帝影视┃[海外专用]",
+               "type":3,
+               "playerType":2,
+               "api":"./api/drpy2.min.js",
+               "searchable": 1,
+               "changeable": 1,
+               "ext":"./js/欧帝影院.js"
+       },
+       {
+              "key":"dr_美视网",
+              "name":"🛫美视网┃[海外专用]",
+              "type":3,"playerType":2,
+              "api":"./api/drpy2.min.js",
+              "searchable": 1,
+              "changeable": 1,
+              "ext":"./js/美视网.js"
+       },
+       {
+             "key":"drpy_xb",
+             "name":"🛫小宝影视┃[海外专用]",
+             "type":3,
+             "playerType":2,
+             "api":"./api/drpy2.min.js",
+             "searchable": 1,
+             "changeable": 1,
+             "ext":"./js/小宝影院.js"
+       },
         {
             "key": "Dm84",
             "name": "[jar]巴士动漫",
@@ -509,7 +538,7 @@
 
         {
             "key": "drpy_js_人人影视",
-            "name": "影视┃人人影视[js]采集",
+            "name": "[js]人人┃采集",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -520,7 +549,7 @@
         },
         {
             "key": "drpy_js_厂长资源",
-            "name": "影视┃厂长资源[js]采集",
+            "name": "[js]厂长┃采集",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -531,7 +560,7 @@
         },
         {
             "key": "drpy_js_追剧迷",
-            "name": "影视┃追剧迷[js]采集",
+            "name": "[js]追剧迷┃采集",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -580,23 +609,6 @@
             "name": "最大┃采集",
             "type": 1,
             "api": "http://zuidazy.me/api.php/provide/vod/",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "U酷资源",
-            "name": "U酷┃采集",
-            "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1
-        },
-        {
-            "key": "奇虎资源",
-            "name": "奇虎┃采集",
-            "type": 1,
-            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
             "playUrl": "",
             "searchable": 1,
             "quickSearch": 1
@@ -885,65 +897,6 @@
                 "欧美综艺"
             ]
         },
-
-        {
-            "key": "红牛资源",
-            "name": "红牛┃采集",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playUrl": "",
-            "categories": [
-        "国产剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "港澳剧",
-        "日剧",
-        "欧美剧",
-        "台湾剧",
-        "泰剧",
-        "韩剧",
-        "纪录片",
-        "动漫电影"
-            ]
-        },
-
-     {
-      "key": "zy_新浪",
-      "name": "新浪┃采集",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "动漫",
-        "大陆剧",
-        "港澳剧",
-        "台湾剧",
-        "欧美剧",
-        "动漫电影",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "综艺",
-        "纪录片",
-        "动作片",
-        "爱情片",
-        "科幻片",
-        "战争片",
-        "剧情片",
-        "恐怖片",
-        "喜剧片",
-        "体育"
-         ]
-       },
 {
       "key": "49zy",
       "name": "49资源┃采集",
@@ -989,21 +942,6 @@
         "海外剧"
       ]
     },
-        {
-            "key": "百度资源",
-            "name": "百度┃采集",
-            "type": 1,
-            "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "大陆剧",
-                "战争片",
-                "动作片",
-                "喜剧片"
-            ]
-        },
-
         {
             "key": "索尼资源1",
             "name": "索尼1┃采集",
@@ -1624,6 +1562,67 @@
           "filterable": 1, 
           "categories": [ "短剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧"] 
       },
+        {
+            "key": "百度资源",
+            "name": "百度┃采集",
+            "type": 1,
+            "api": "https://api.apibdzy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "大陆剧",
+                "战争片",
+                "动作片",
+                "喜剧片"
+            ]
+        },
+     {
+      "key": "zy_新浪",
+      "name": "新浪┃采集",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫",
+        "大陆剧",
+        "港澳剧",
+        "台湾剧",
+        "欧美剧",
+        "动漫电影",
+        "韩剧",
+        "日剧",
+        "泰剧",
+        "综艺",
+        "纪录片",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "剧情片",
+        "恐怖片",
+        "喜剧片",
+        "体育"
+         ]
+       },
+        {
+            "key": "U酷资源",
+            "name": "U酷┃采集",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "奇虎资源",
+            "name": "奇虎┃采集",
+            "type": 1,
+            "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+            "playUrl": "",
+            "searchable": 1,
+            "quickSearch": 1
+        },
 
         {
             "key": "bili_opens",
