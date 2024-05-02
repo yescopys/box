@@ -23,28 +23,6 @@
 	"ext": "./lib/douban.json"
        },
         {
-            "key": "drpy_js_网飞.TV",
-            "name": "网飞.TV┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/网飞.TV.js"
-        },
-        {
-            "key": "drpy_js_Voflix",
-            "name": "Voflix┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/Voflix.js"
-        },
-        {
             "key": "Icio影视",
             "name": "Icio┃<=这或主页换接口",
             "type": 3,
@@ -54,33 +32,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/Icio影视.js"
-        },
-        {
-            "key": "drpy_js_看看屋",
-            "name": "看看屋┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/看看屋.js"
-        },
-
-        {
-            "key": "drpy_js_影渣渣",
-            "name": "影渣渣┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/影渣渣.js"
-        },
-        {
-            "key": "nangua",
-            "name": "[cat]南瓜┃<=这或主页换接口",
-            "type": 3,
-            "api": "./cat/ng_open.js",
-            "searchable": 0,
-            "quickSearch": 0
         },
    {
       "key": "畅梦",
@@ -109,23 +60,53 @@
             "quickSearch": 0,
             "ext": "proxy"
         },
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "秋霞┃<=这或主页换接口",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-       "searchable": 0,
-       "quickSearch": 0,
-      "ext": "./js/秋霞.js"
-    },
         {
-            "key": "drpy_js_免费看",
-            "name": "免费看┃<=这或主页换接口",
+            "key": "drpy_js_网飞.TV",
+            "name": "网飞.TV┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/网飞.TV.js"
+        },
+        {
+            "key": "drpy_js_Voflix",
+            "name": "Voflix┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/Voflix.js"
+        },
+        {
+            "key": "drpy_js_看看屋",
+            "name": "看看屋┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "./js/免费看.js"
+            "ext": "./js/看看屋.js"
+        },
+        {
+            "key": "drpy_js_影渣渣",
+            "name": "影渣渣┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/影渣渣.js"
+        },
+        {
+            "key": "nangua",
+            "name": "[cat]南瓜┃<=这或主页换接口",
+            "type": 3,
+            "api": "./cat/ng_open.js",
+            "searchable": 0,
+            "quickSearch": 0
         },
         {
             "key": "drpy_js_奈飞狗[V2]",
@@ -148,6 +129,24 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/大米星球[V2].js"
+        },
+    {
+      "key": "drpy_js_秋霞影院",
+      "name": "秋霞┃<=这或主页换接口",
+      "type": 3,
+      "api": "./api/drpy2.min.js",
+       "searchable": 0,
+       "quickSearch": 0,
+      "ext": "./js/秋霞.js"
+    },
+        {
+            "key": "drpy_js_免费看",
+            "name": "免费看┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "ext": "./js/免费看.js"
         },
 
         {
