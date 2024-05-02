@@ -1,4 +1,4 @@
-import { Crypto, jinja2, _ } from 'assets://js/lib/cat.js';
+import { Crypto, jinja2, _ } from './cat.js';
 
 let siteKey = '';
 let siteType = 0;
