@@ -300,8 +300,8 @@
                "type":3,
                "playerType":2,
                "api":"./api/drpy2.min.js",
-               "searchable": 1,
-               "changeable": 1,
+               "searchable": 0,
+               "changeable": 0,
                "ext":"./js/欧帝影院.js"
        },
        {
@@ -526,13 +526,6 @@
                                                "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
                                                "searchable": 1
                                 },
-                                {
-                                              "key": "voflix",
-                                               "name": "🟡voflix",
-                                               "type": 1,
-                                               "api": "https://www.voflix.me/api.php/provide/vod",
-                                               "searchable": 1
-                                },
 		{
 			"key": "haiwaikan0",
 			"name": "🟡海外看",
@@ -580,15 +573,15 @@
 			"searchable": 1
 		},
 		{
-			"key": "暴风0",
-			"name": "🔴暴风1┃采集",
+			"key": "暴风",
+			"name": "🔴暴风┃采集",
 			"type": 1,
 			"api": "https://bfzyapi.com/api.php/provide/vod/",
 			"searchable": 1
 		},
                                 {
-                                                "key":"暴风2",
-                                                "name":"🔴暴风2┃采集",
+                                                "key":"暴风1",
+                                                "name":"🔴暴风1┃采集",
                                                 "type":1,
                                                 "api":"https://app.bfzyapi.com/api.php/provide/vod/",
 			"searchable": 1
@@ -714,6 +707,13 @@
                                               "api": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/?ac=list",
                                               "searchable": 1
 		},
+                                {
+                                              "key": "voflix",
+                                               "name": "🔴voflix┃采集",
+                                               "type": 1,
+                                               "api": "https://www.voflix.me/api.php/provide/vod",
+                                               "searchable": 1
+                                },
 		{
 			"key": "zy_新浪",
 			"name": "🔴新浪┃采集",
@@ -749,6 +749,7 @@
 			"api": "https://suoniapi.com/api.php/provide/vod/",
 			"searchable": 1
 		},
+
         {
             "key": "drpy_js_人人影视",
             "name": "[js]人人┃采集",
