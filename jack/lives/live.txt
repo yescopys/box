@@ -39,6 +39,7 @@ HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 HBO HD,http://125.227.210.55:35210/VideoInput/play.ts
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
@@ -124,8 +125,8 @@ Tokyo Shibuya「東京涉谷」,https://raw.githubusercontent.com/ChiSheng9/iptv
 東森財經新聞,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
 非凡新聞,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡商業,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
-臺視財經臺,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
-壹電視新聞臺,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+臺視財經,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+壹電視新聞,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新聞,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 東森新聞,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 東森新聞,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
@@ -543,6 +544,7 @@ TVB經典,https://z88.ubtvfans.com/live/rx3/1083/3f1033b4dc8bef46e6a2482a701130b
 東森財經,mitv://generationnexxxt.com:19806/9193e5efd94f4991ba8bfbc98bdc3f19
 臺視財經,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
 臺視財經,https://z88.ubtvfans.com/live/rx1/300/b2a1f44e14f47427518936897549976e/index.m3u8
+寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
 
 新聞頻道,#genre#
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
