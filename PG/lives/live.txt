@@ -1,13 +1,37 @@
 寶島(免翻),#genre#
 非凡新聞台(順暢),rtmp://f13h.mine.nu/sat/tv581
+TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
+台視(順暢),rtmp://f13h.mine.nu/sat/tv071
+中視(順暢),rtmp://f13h.mine.nu/sat/tv091
+華視(順暢),rtmp://f13h.mine.nu/sat/tv111
+民視(順暢),rtmp://f13h.mine.nu/sat/tv051
+緯來育樂(順暢),rtmp://f13h.mine.nu/sat/tv701
+緯來體育台(順暢),rtmp://f13h.mine.nu/sat/tv721
+東森超視(順暢),rtmp://f13h.mine.nu/sat/tv331
+MoMo综合(順暢),rtmp://f13h.mine.nu/sat/tv761
+緯來日本台(順暢),rtmp://f13h.mine.nu/sat/tv771
+ELEVEN体育1(順暢),rtmp://f13h.mine.nu/sat/tv731
+ELEVEN体育2(順暢),rtmp://f13h.mine.nu/sat/tv741
+
+探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
+TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
+中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
+緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
+SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+LISTENONSPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
+
+中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
+中天新聞,http://livetv.skycf.eu.org/live.m3u8?c=7
 東森財經新聞台,http://livetv.skycf.eu.org/live.m3u8?c=14
 TVBS新聞台,http://livetv.skycf.eu.org/live.m3u8?c=5
-TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-中視新聞,http://livetv.skycf.eu.org/live.m3u8?c=6
-中天新聞1,http://livetv.skycf.eu.org/live.m3u8?c=7
-中天新聞2,https://45.152.67.168/cctv-17
-東森新聞1,http://livetv.skycf.eu.org/live.m3u8?c=9
-東森新聞2,https://45.152.67.168/cctv-18
+東森新聞,http://livetv.skycf.eu.org/live.m3u8?c=9
 鏡新聞,http://livetv.skycf.eu.org/live.m3u8?c=10
 民視新聞台,http://livetv.skycf.eu.org/live.m3u8?c=11
 三立NEWS+,http://livetv.skycf.eu.org/live.m3u8?c=12
@@ -15,17 +39,6 @@ TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 台視新聞,http://livetv.skycf.eu.org/live.m3u8?c=4
 中天亞洲,http://livetv.skycf.eu.org/live.m3u8?c=3
 公視,http://livetv.skycf.eu.org/live.m3u8?c=8
-民視(順暢),rtmp://f13h.mine.nu/sat/tv051
-台視(順暢),rtmp://f13h.mine.nu/sat/tv071
-中視(順暢),rtmp://f13h.mine.nu/sat/tv091
-華視(順暢),rtmp://f13h.mine.nu/sat/tv111
-東森超視(順暢),rtmp://f13h.mine.nu/sat/tv331
-MoMo综合(順暢),rtmp://f13h.mine.nu/sat/tv761
-緯來日本台(順暢),rtmp://f13h.mine.nu/sat/tv771
-緯來育樂(順暢),rtmp://f13h.mine.nu/sat/tv701
-緯來體育台(順暢),rtmp://f13h.mine.nu/sat/tv721
-ELEVEN体育1(順暢),rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2(順暢),rtmp://f13h.mine.nu/sat/tv741
 
 台視(順暢),rtmp://220.130.201.73/sat/tv071
 中視(順暢),rtmp://220.130.201.73/sat/tv091
@@ -39,19 +52,6 @@ MoMo综合(順暢),rtmp://220.130.201.73/sat/tv761
 ELEVEN体育1(順暢),rtmp://220.130.201.73/sat/tv731
 ELEVEN体育2(順暢),rtmp://220.130.201.73/sat/tv741
 
-探索頻道,http://61.221.215.25:8800/hls/1/index.m3u8
-TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
-中華一番,http://61.221.215.25:8800/hls/40/index.m3u8
-緯來精采,http://61.221.215.25:8800/hls/48/index.m3u8
-SPOTIFY MUSIC,http://61.221.215.25:8800/hls/1/index.m3u8
-八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
-八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
-八大第1,http://61.221.215.25:8800/hls/55/index.m3u8
-三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
-AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
-探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
-動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
-
 大愛1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大愛2台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大愛2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
@@ -60,7 +60,8 @@ HOY77,https://45.152.67.168/cctv-9
 HOY78,https://45.152.67.168/cctv-10
 無線財經台,https://45.152.67.168/cctv-11
 功夫台,https://45.152.67.168/cctv-20
-
+東森新聞,https://45.152.67.168/cctv-18
+中天新聞,https://45.152.67.168/cctv-17
 
 
 寶島(Youtube),#genre#
