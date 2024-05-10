@@ -1,4 +1,11 @@
 R频道(vpn),#genre#
+驚艷臺,http://125.227.210.55:57286/VideoInput/play.ts
+驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
+香蕉臺,http://125.227.210.55:22522/VideoInput/play.ts
+香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
+奧視3,http://125.227.210.55:8917/VideoInput/play.ts
+奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+SexGirl,http://125.227.210.55:62698/VideoInput/play.ts
 松視1,http://z88.ubtvfans.com/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
 松視2,http://z88.ubtvfans.com/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
 松視3,http://z88.ubtvfans.com/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
@@ -13,6 +20,16 @@ HustLer,http://z88.ubtvfans.com/live/rx3/451/0beb7b22b55cbb81f36594df14b42858/in
 Redlight,http://z88.ubtvfans.com/live/rx3/452/6b6f7f681d37860d87036d2099e3f99d/index.m3u8
 SEX ATION,http://z88.ubtvfans.com/live/rx3/459/3193839f524da42b740386d2b88754ca/index.m3u8
 Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/index.m3u8
+
+驚艷台,http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
+潘多拉,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
+香蕉台,http://18.svi-studio.com/live/176619383282/537544338952/4.m3u8
+松視1台,http://18.svi-studio.com/live/176619383282/537544338952/5.m3u8
+松視2台,http://18.svi-studio.com/live/176619383282/537544338952/6.m3u8
+松視3台,http://18.svi-studio.com/live/176619383282/537544338952/20205.m3u8
+驚艷台,http://18.svi-studio.com/live/176619383282/537544338952/01.m3u8
+潘多拉,http://18.svi-studio.com/live/176619383282/537544338952/3.m3u8
+
 白兔,http://unikhtxl.ottclub.xyz/iptv/74SQ72P5LQUZV5/6242/index.m3u8
 花花公子電視,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/527/index.m3u8
 菊花臺,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/147/index.m3u8
@@ -20,15 +37,4 @@ Passie,http://z88.ubtvfans.com/live/rx3/461/5c00cfd7ef372e5376b3ad9bb5b48f4e/ind
 YOSSO TV SEXY,http://ca.ukrainske.tv/8774/3530225EDBD6B16/video.m3u8
 白兔1,http://rhsbjv7k.tvclub.xyz/iptv/3VDSMMR8L3C7UP/6242/index.m3u8
 花花電視,http://ca.ukrainske.tv/242/3530225EDBD6B16/video.m3u80e9d59af0018/index.m3u8
-奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-🍑驚艷臺,http://125.227.210.55:57286/VideoInput/play.ts
-🌭香蕉臺,http://125.227.210.55:22522/VideoInput/play.ts
-
-🈲驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts
-🍌香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-👅奧視🔞3,http://125.227.210.55:8917/VideoInput/play.ts
-🔮奧視2,http://125.227.210.55:55643/VideoInput/play.ts
-💖Sex ❌Girl,http://125.227.210.55:62698/VideoInput/play.ts
-
-
 
