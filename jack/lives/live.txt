@@ -175,7 +175,7 @@ DiscoveRY台,http://pachongbo.site:8080/tsfile/live/1002_1.m3u8
 凤凰资讯频道,http://pachongbo.site:8080/tsfile/live/1666_1.m3u8
 凤凰中文频道,http://pachongbo.site:8080/tsfile/live/1213_1.m3u8
 
-體育頻道(免翻),#genre#
+體育(免翻),#genre#
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
 緯來體育,https://z88.ubtvfans.com/live/rx1/118/a5ddb96abf168c4e2c1385f0b632711e/index.m3u8
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
