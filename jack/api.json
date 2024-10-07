@@ -111,17 +111,7 @@
             "quickSearch": 1,
             "ext": "./js/北极狐[V2].js"
         },
-        {
-            "key": "Icio影视",
-            "name": "Icio┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/Icio影视.js"
-        },
+
    {
       "key": "畅梦",
       "name": "畅梦┃<=这或主页换接口",
@@ -131,24 +121,6 @@
        "quickSearch": 0,
       "ext": "./js/changmeng.js"
     },
-        {
-            "key": "LIBVIO影视",
-            "name": "LIBVIO┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/LIBVIO.js"
-        },
-        {
-            "key": "csp_YingShi",
-            "name": "影视┃<=这或主页换接口",
-            "type": 3,
-            "api": "csp_YingShi",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "proxy"
-        },
         {
             "key": "drpy_js_网飞.TV",
             "name": "网飞.TV┃<=这或主页换接口",
@@ -179,33 +151,6 @@
             "ext": "./js/米爱影视.js"
         },
         {
-            "key": "drpy_js_69美剧",
-            "name": "69美剧┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/69美剧.js"
-        },
-        {
-            "key": "drpy_js_555电影",
-            "name": "555电影┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/555电影.js"
-        },
-        {
-            "key": "drpy_js_9U电影",
-            "name": "9U电影┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/9U电影.js"
-        },
-        {
             "key": "drpy_js_NY影院",
             "name": "NY影院┃<=这或主页换接口",
             "type": 3,
@@ -232,43 +177,6 @@
             "quickSearch": 0,
             "ext": "./js/看看屋.js"
         },
-        {
-            "key": "drpy_js_影渣渣",
-            "name": "影渣渣┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/影渣渣.js"
-        },
-
-        {
-            "key": "drpy_js_奈飞狗[V2]",
-            "name": "奈飞狗┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/奈飞狗[V2].js"
-        },
-        {
-            "key": "drpy_js_大米星球[V2]",
-            "name": "大米星球┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/大米星球[V2].js"
-        },
-    {
-      "key": "drpy_js_秋霞影院",
-      "name": "秋霞┃<=这或主页换接口",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-       "searchable": 0,
-       "quickSearch": 0,
-      "ext": "./js/秋霞.js"
-    },
         {
             "key": "drpy_js_免费看",
             "name": "免费看┃<=这或主页换接口",
@@ -304,36 +212,6 @@
             "quickSearch": 0,
             "ext": "./lives/直转点.txt"
        },
-       {
-            "key": "csp_Nbys1",
-            "name": "🛫泥巴1┃[海外专用]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/豆瓣.jar"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴2┃[海外专用]",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "星星",
-            "name": "🛫星星┃[海外专用]",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "proxy"
-        },
         {
             "key": "haiwaikan",
             "name": "🛫海外看┃[海外专用]",
@@ -406,16 +284,6 @@
                 "经典片"
             ]
         },
-       {
-               "key":"drpy_od",
-               "name":"🛫欧帝影视┃[海外专用]",
-               "type":3,
-               "playerType":2,
-               "api":"./api/drpy2.min.js",
-               "searchable": 0,
-               "changeable": 0,
-               "ext":"./js/欧帝影院.js"
-       },
        {
               "key":"dr_美视网",
               "name":"🛫美视网┃[海外专用]",
@@ -1503,6 +1371,15 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1
+        },
+        {
+            "key": "drpy_js_555电影",
+            "name": "555电影┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/555电影.js"
         },
         {
             "key": "bili_opens",
