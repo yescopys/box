@@ -163,8 +163,8 @@
             "name": "[js]荐片",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "ext": "./js/荐片.js",
             "playerType": "1"
         },
@@ -173,8 +173,8 @@
             "name": "[jar]荐片",
             "type": 3,
             "api": "csp_Jianpian",
-            "searchable": 1,
-            "quickSearch": 1,
+            "searchable": 0,
+            "quickSearch": 0,
             "ext": "./js/jianpian.json"
         },
         {
