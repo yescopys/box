@@ -2,7 +2,7 @@
 #台湾第四台
 ./live.txt
 
-#闽南专区
+#港台专区
 http://rihou.cc:555/gggg.nzk
 
 #儿童动画
