@@ -94,33 +94,23 @@
        "纪录片"
        ]
      },
-        {
-            "key": "nangua",
-            "name": "[cat]南瓜┃<=这或主页换接口",
-            "type": 3,
-            "api": "./cat/ng_open.js",
-            "searchable": 0,
-            "quickSearch": 0
-        },
-        {
-            "key": "drpy_js_极狐[V2]",
-            "name": "[js]北极狐[V2]",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/北极狐[V2].js"
-        },
-
    {
       "key": "畅梦",
       "name": "畅梦┃<=这或主页换接口",
       "type": 3,
       "api": "./api/drpy2.min.js",
-       "searchable": 0,
-       "quickSearch": 0,
+       "searchable": 1,
+       "quickSearch": 1,
       "ext": "./js/changmeng.js"
     },
+        {
+            "key": "nangua",
+            "name": "[cat]南瓜┃<=这或主页换接口",
+            "type": 3,
+            "api": "./cat/ng_open.js",
+            "searchable": 1,
+            "quickSearch": 1
+        },
         {
             "key": "drpy_js_网飞.TV",
             "name": "网飞.TV┃<=这或主页换接口",
@@ -131,15 +121,6 @@
             "filterable": 1,
             "changeable": 1,
             "ext": "./js/网飞.TV.js"
-        },
-        {
-            "key": "drpy_js_Voflix",
-            "name": "Voflix┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/Voflix.js"
         },
         {
             "key": "drpy_js_米爱影视",
@@ -155,8 +136,8 @@
             "name": "NY影院┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "./js/NY影院.js"
         },
         {
@@ -164,8 +145,8 @@
             "name": "量子影视┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "./js/量子影视.js"
         },
         {
@@ -173,26 +154,37 @@
             "name": "看看屋┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "searchable": 1,
+            "quickSearch": 1,
             "ext": "./js/看看屋.js"
         },
         {
-            "key": "drpy_js_免费看",
-            "name": "免费看┃<=这或主页换接口",
+            "key": "drpy_js_荐片",
+            "name": "[js]荐片",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/免费看.js"
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/荐片.js",
+            "playerType": "1"
         },
         {
-            "key": "cntv",
-            "name": "[cat]央视",
+            "key": "賤賤",
+            "name": "[jar]荐片",
             "type": 3,
-            "api": "./cat/cntv_open.js",
-            "searchable": 0,
-            "quickSearch": 0
+            "api": "csp_Jianpian",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/jianpian.json"
+        },
+        {
+            "key": "drpy_js_极狐[V2]",
+            "name": "[js]北极狐[V2]",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/北极狐[V2].js"
         },
        {
             "key": "直播转点播",
@@ -242,48 +234,6 @@
        "纪录片"
        ]
      },
-        {
-            "key": "haiwaikan1",
-            "name": "🛫海外看1┃[海外专用]",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-        },
        {
               "key":"dr_美视网",
               "name":"🛫美视网┃[海外专用]",
@@ -303,24 +253,15 @@
              "changeable": 1,
              "ext":"./js/小宝影院.js"
        },
+
         {
-            "key": "drpy_js_荐片",
-            "name": "[js]荐片",
+            "key": "drpy_js_Voflix",
+            "name": "Voflix┃<=这或主页换接口",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/荐片.js",
-            "playerType": "1"
-        },
-        {
-            "key": "賤賤",
-            "name": "[jar]荐片",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/jianpian.json"
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/Voflix.js"
         },
 
         {
