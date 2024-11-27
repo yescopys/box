@@ -24,7 +24,7 @@
        },
         {
             "key": "暴风",
-            "name": "🟡暴风┃电影(台湾接口)",
+            "name": "暴风┃电影(台湾)",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
@@ -75,7 +75,7 @@
         },
        {
             "key": "暴风1",
-            "name": "🟡暴风┃连续剧(台湾接口)",
+            "name": "暴风┃连续剧(台湾)",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod",
             "searchable": 0,
@@ -116,7 +116,7 @@
         },
    {
        "key":"暴风2",
-       "name":"🟡暴风┃动漫(台湾接口)",
+       "name":"暴风┃动漫(台湾)",
        "type":1,
        "api":"https://app.bfzyapi.com/api.php/provide/vod/",
        "playUrl":"",
@@ -154,7 +154,7 @@
      },
         {
             "key": "暴风3",
-            "name": "🟡暴风┃短剧(台湾接口)",
+            "name": "暴风┃短剧(台湾)",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 0,
@@ -206,7 +206,7 @@
 
         {
             "key": "csp_xml_ikun",
-            "name": "🟡爱坤┃电影(台湾接口)",
+            "name": "爱坤┃电影(台湾)",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 1,
@@ -253,7 +253,7 @@
         },
         {
             "key": "csp_xml_ikun1",
-            "name": "🟡爱坤┃连续剧(台湾接口)",
+            "name": "爱坤┃连续剧(台湾)",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 0,
@@ -300,7 +300,7 @@
         },
         {
             "key": "csp_xml_ikun2",
-            "name": "🟡爱坤┃动漫(台湾接口)",
+            "name": "爱坤┃动漫(台湾)",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
             "searchable": 0,
