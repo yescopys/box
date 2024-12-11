@@ -1,6 +1,13 @@
 寶島(免翻1),#genre#
 非凡新聞(順暢),rtmp://f13h.mine.nu/sat/tv581
-TVBS新聞,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新聞台,http://61.221.215.25:8800/hls/9/index.m3u8
+
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+三立新闻台,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 
 台視(順暢),rtmp://f13h.mine.nu/sat/tv071
 中視(順暢),rtmp://f13h.mine.nu/sat/tv091
@@ -58,18 +65,61 @@ Dali_TV(大立),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
 寶島(免翻2),#genre#
-中天新闻AKtv,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-tvbs新闻AKtv,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-tvbs新闻AKtv,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-tvbs闽南AKtv,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-寰宇新闻AKtv,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-三立新闻AKtv,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
-中视闽南AKtv,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-华视闽南AKtv,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-中天亚洲AKtv,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-靖天电影AKtv,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-龙华电影AKtv,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-龙华日韩AKtv,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+三立新闻台,http://aktv.top/AKTV/live/aktv/null-14/AKTV.m3u8
+寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
+日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
+TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+中視,http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+華視,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
+无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+千禧經典台(HK),http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
+明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+無線新聞台,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+美亞電影台(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
+靖天電影台,http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
+龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
+龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
+AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+i-Fun 動漫台,http://aktv.top/AKTV/live/aktv2/ifun/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv2/lovenaturehd/AKTV.m3u8
+Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+Now爆谷台,http://aktv.top/AKTV/live/aktv2/now-1/AKTV.m3u8
+Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
+Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
+Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
+myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
+tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
+viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
+viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv2/zoomoo/AKTV.m3u8
+Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
+Astro AOD,http://aktv.top/AKTV/live/aktv3/astroaod/AKTV.m3u8
+DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
+France 24,http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
+KIX,http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
+Love Nature HD,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+NHK World-Japan,http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+NHK東京総合,http://aktv.top/AKTV/live/aktv3/nhk/AKTV.m3u8
+Nick Jr,http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+Nickelodeon,http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
+Thrill,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
+ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
+
+
 
 
 體育(免翻),#genre#
@@ -92,21 +142,11 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 
 
 香港AKtv,#genre#
-Plus综合AKtv,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-pₒₚc电影AKtv,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-Now星影AKtv,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-Now爆谷AKtv,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-美亚电影AKtv,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-凤凰中文AKtv,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯AKtv,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-凤凰香港AKtv,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-有线新闻AKtv,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
+黄金翡翠AKtv,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 无线新闻AKtv,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 无线翡翠AKtv,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 无线明珠AKtv,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-无线赛马AKtv,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-28ai赛马AKtv,http://aktv.top/AKTV/live/aktv/28ai/AKTV.m3u8
-黄金翡翠AKtv,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
 无线娱乐AKtv,http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
 无线星河AKtv,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 无线经典AKtv,http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
@@ -117,6 +157,15 @@ Now爆谷AKtv,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 无线新美AKtv,http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
 VIUTV-粤AKtv,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 VIUTV-英AKtv,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
+Plus综合AKtv,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影AKtv,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+Now星影AKtv,http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
+Now爆谷AKtv,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+美亚电影AKtv,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
+凤凰中文AKtv,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰资讯AKtv,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+凤凰香港AKtv,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
+有线新闻AKtv,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 神州新闻AKtv,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 东方国际AKtv,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 国家地理AKtv,http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
@@ -186,12 +235,14 @@ GBN新闻频英,http://103.193.151.158:8500/live.m3u8?c=18
 寶島(Youtube),#genre#
 HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
 東森財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
-寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新聞,https://www.youtube.com/live/6IquAgfvYmc?si=pOtAi2jJyFbMjUNk
+寰宇新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+
 寰宇財經,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV85.m3u8
+
+TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 TVBS新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV82.m3u8
-TVBS新聞,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS亞洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 三立NEWS+),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 三立iNEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
