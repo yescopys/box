@@ -132,6 +132,44 @@
             "changeable": 1,
             "ext": "https://auete.com/"
         },
+        {
+            "key": "drpy_js_网飞.TV",
+            "name": "网飞TV┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "./js/网飞.TV.js"
+        },
+        {
+            "key": "drpy_js_NY影院",
+            "name": "NY影院┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/NY影院.js"
+        },
+        {
+            "key": "drpy_js_量子影视",
+            "name": "量子影视┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/量子影视.js"
+        },
+        {
+            "key": "drpy_js_看看屋",
+            "name": "看看屋┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/看看屋.js"
+        },
 
         {
             "key": "Dm84",
@@ -989,65 +1027,6 @@
             ]
         },
 
-   {
-      "key": "畅梦",
-      "name": "畅梦┃<=这或主页换接口",
-      "type": 3,
-      "api": "./api/drpy2.min.js",
-       "searchable": 1,
-       "quickSearch": 1,
-      "ext": "./js/changmeng.js"
-    },
-        {
-            "key": "nangua",
-            "name": "[cat]南瓜1┃<=这或主页换接口",
-            "type": 3,
-            "api": "./cat/ng_open.js"
-        },
-        {
-            "key": "猫南瓜",
-            "name": "[cat]南瓜2┃<=这或主页换接口",
-            "type": 3,
-            "api": "./cat/猫南瓜.js"
-        },
-        {
-            "key": "drpy_js_网飞.TV",
-            "name": "网飞.TV┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "./js/网飞.TV.js"
-        },
-        {
-            "key": "drpy_js_NY影院",
-            "name": "NY影院┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/NY影院.js"
-        },
-        {
-            "key": "drpy_js_量子影视",
-            "name": "量子影视┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/量子影视.js"
-        },
-        {
-            "key": "drpy_js_看看屋",
-            "name": "看看屋┃<=这或主页换接口",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "ext": "./js/看看屋.js"
-        },
         {
             "key": "drpy_js_荐片",
             "name": "[js]荐片",
