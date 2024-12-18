@@ -524,7 +524,7 @@
 
         {
             "key": "U酷资源",
-            "name": "U酷┃电影",
+            "name": "U酷┃电影(台湾)",
             "type": 1,
             "api": "https://api.ukuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -556,7 +556,7 @@
 
         {
             "key": "U酷资源2",
-            "name": "U酷┃连续剧",
+            "name": "U酷┃连续剧(台湾)",
             "type": 1,
             "api": "https://api.ukuapi.com/api.php/provide/vod/",
             "searchable": 0,
