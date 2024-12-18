@@ -38,37 +38,43 @@
       ]
         },
         {
-            "key": "U酷资源1",
-            "name": "🟡U酷┃电影",
+            "key": "csp_xml_无尽",
+            "name": "无尽┃三级",
             "type": 1,
-            "api": "https://api.ukuapi.com/api.php/provide/vod/",
-            "searchable": 0,
-            "quickSearch": 0,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1,
             "playerType": 2,
             "categories": [
             "伦理片",
-            "动作片",
-            "喜剧片",
-            "爱情片",
-            "犯罪片",
-            "科幻片",
-            "奇幻片",
-            "恐怖片",
-            "剧情片",
-            "战争片",
-            "动漫",
-            "动漫电影",
-            "国产剧",
-            "港澳剧",
-            "韩剧",
-            "日剧",
-            "台湾剧",
-            "欧美剧",
-            "综艺",
-            "纪录片"
-      ]
+            "港台三级",
+            "韩国伦理",
+            "西方伦理",
+            "日本伦理",
+            "两性课堂",
+            "写真热舞",
+            "有声动漫",
+            "女频恋爱",
+            "反转爽剧",
+            "古装仙侠",
+            "年代穿越",
+            "脑洞悬疑",
+            "现代都市"
+            ]
         },
+
+     {
+      "key": "红牛资源",
+      "name": "🟡红牛┃伦理",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+      }, 
 
         {
          "key": "*AIvin",
@@ -365,26 +371,6 @@
       ]
     },
     {
-      "key": "*皇冠资源",
-      "name": "(vpn)皇冠采集",
-      "type": 1,
-      "playerType": 2,
-      "api": "https://hghhh.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
-    {
-      "key": "timizy",
-      "name": "(vpn)甜蜜资源 ",
-      "type": 1,
-      "api": "https://timizy10.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "玉兔专场",
       "name": "(vpn)玉兔采集",
       "type": 1,
@@ -476,16 +462,6 @@
     },
 
     {
-      "key": "chengren",
-      "name": "(vpn)伙伴天空",
-      "type": 1,
-      "api": "https://www.partnersky-horoskop.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
-
-    {
       "key": "性南国",
       "name": "(vpn)性南国",
       "type": 1,
@@ -496,22 +472,32 @@
     },
 
 
-{"key":"*91麻豆","name":"(vpn)91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":1,"quickSearch":1},
-        {
-            "key": "pwd_91md",
-            "name": "(vpn)91麻豆1",
-            "type": 1,
-            "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{"key":"*色猫资源","name":"(vpn)色猫资源","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
-{"key":"*环亚资源","name":"(vpn)环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
-{"key":"*鲨鱼资源","name":"(vpn)鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "afasu", "name": "(vpn)小湿妹资源", "type": 0, "api": "https://www.afasu.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{
+"key":"*91麻豆",
+"name":"(vpn)91麻豆",
+"type":1,
+"api":"https://91md.me/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1
+},
 
-{"key":"*博天堂","name":"(vpn)博天堂三级片","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
+{
+"key":"*色猫资源",
+"name":"(vpn)色猫资源",
+"type":1,
+"api":"https://api.maozyapi.com/inc/apijson_vod.php",
+"searchable":1,
+"quickSearch":1
+},
+
+{
+"key":"*鲨鱼资源",
+"name":"(vpn)鲨鱼资源",
+"type":1,
+"api":"https://shayuapi.com/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1
+},
 
     {
       "key": "易看资源-伦理",
@@ -520,15 +506,6 @@
       "api": "https://api.yikanapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "key": "kkzy.me",
-      "name": "(vpn)可可三级片",
-      "type": 1,
-      "api": "https://kkzy.me/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
     },
 
     {
@@ -540,9 +517,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-
-
-
 
         {
             "key": "*乐播",
@@ -593,6 +567,19 @@
             "categories": [
             "福利"
             ]
+        },
+        {
+            "key": "U酷资源1",
+            "name": "🟡U酷┃电影",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "playerType": 2,
+            "categories": [
+            "伦理片"
+      ]
         },
 
         {
