@@ -232,17 +232,22 @@ Astr剧集频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 澳门mac频道,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 GBN新闻频英,http://103.193.151.158:8500/live.m3u8?c=18
 
-台湾测试(vpn),#genre#
-东森新闻台,https://www.youtube.com/watch?v=V1p33hqPrUk
+台湾新闻(vpn),#genre#
+非凡新闻台,rtmp://f13h.mine.nu/sat/tv581
+非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
 东森财经台,https://www.youtube.com/watch?v=1I2iq41Akmo
 iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
 寰宇财经台,https://www.youtube.com/watch?v=WTRQiVWK1jY
 寰宇新闻台湾台,https://www.youtube.com/watch?v=w87VGpgd90U
 寰宇新闻台,https://www.youtube.com/watch?v=6IquAgfvYmc
+东森新闻台,https://www.youtube.com/watch?v=V1p33hqPrUk
 三立新闻台,https://www.youtube.com/watch?v=MV9mI0GChwo
 三立新闻台,https://www.youtube.com/watch?v=iNIy3lMuljU
+LIVE三立,https://www.youtube.com/watch?v=8DFHtQaeu1w
 TBVS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TBVS NEWS,https://www.youtube.com/watch?v=SdHKvW_m3Ec
 中天新闻台,https://www.youtube.com/watch?v=vr3XyVCR4T0
+中天新闻直播,https://www.youtube.com/watch?v=gXaRj9oKjZQ
 台视新闻台,https://www.youtube.com/watch?v=xL0ch83RAK8
 中视新闻台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 华视新闻台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
@@ -254,6 +259,12 @@ TBVS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 新唐人亚太台,https://www.youtube.com/watch?v=WIhgU_mc05A
 Japan News,https://www.youtube.com/watch?v=L6h5VKq7ZV0
 Japan ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+Japan News Digest Live,https://www.youtube.com/watch?v=yrSL6V-eg9c
+TBS NEWS DIG Powered by JNN,https://www.youtube.com/watch?v=ohI356mwBp8
+朝ニュースライブ,https://www.youtube.com/watch?v=km256XONnbo
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+東京 新宿 歌舞伎町 ライブ ２,https://www.youtube.com/watch?v=gFRtAAmiFbE
+News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
 France 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 
 台灣新聞(vpn),#genre#
