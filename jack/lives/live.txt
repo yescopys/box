@@ -2,8 +2,6 @@
 非凡新聞台,rtmp://f13h.mine.nu/sat/tv581
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 
-寰宇新聞台灣台,http://litv.zapi.us.kg/?id=litv-longturn15
-
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
@@ -74,9 +72,9 @@ Dali_TV(大立),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 寶島(免翻3),#genre#
 寰宇新聞台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 東森新聞台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 中天亞洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
 日本全天新聞,http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
@@ -136,14 +134,7 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
 博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
 博斯无限频道,http://37.27.111.214:8080/live/15/hls.m3u8
-博斯魅力4Gtv,http://litv.zapi.us.kg/?id=litv-longturn04
-博斯网球4Gtv,http://litv.zapi.us.kg/?id=litv-longturn09
-博斯高球壹台,http://litv.zapi.us.kg/?id=litv-longturn05
-博斯高球贰台,http://litv.zapi.us.kg/?id=litv-longturn06
-博斯运动壹台,http://litv.zapi.us.kg/?id=litv-longturn07
-博斯运动贰台,http://litv.zapi.us.kg/?id=litv-longturn08
-博斯无限壹台,http://litv.zapi.us.kg/?id=litv-longturn10
-博斯无限贰台,http://litv.zapi.us.kg/?id=litv-longturn13
+
 
 
 
@@ -491,88 +482,6 @@ Tokyo Shibuya「東京涉谷」,https://raw.githubusercontent.com/ChiSheng9/iptv
 兒童台5,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV68.m3u8
 韓國台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV80.m3u8
 
-四季4gtv(vpn),#genre#
-TVBS新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv072
-東森財經台,http://litv.zapi.us.kg/?id=4gtv-4gtv153
-非凡新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv010
-中天新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv009
-東森新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv152
-镜新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-寰宇新聞台,http://litv.zapi.us.kg/?id=litv-longturn14
-寰宇新聞台灣台,http://litv.zapi.us.kg/?id=litv-longturn15
-閩南戲劇台,http://litv.zapi.us.kg/?id=litv-longturn22
-民視新聞台,http://litv.zapi.us.kg/?id=litv-ftv13
-中視新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv074
-華視新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv052
-台視新聞台,http://litv.zapi.us.kg/?id=4gtv-4gtv051
-民視,http://litv.zapi.us.kg/?id=4gtv-4gtv002
-民視,http://litv.zapi.us.kg/?id=4gtv-4gtv155
-中視,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-華視,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-台視,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-TVBS,http://litv.zapi.us.kg/?id=4gtv-4gtv073
-民視臺灣台,http://litv.zapi.us.kg/?id=4gtv-4gtv001
-民視臺灣台,http://litv.zapi.us.kg/?id=4gtv-4gtv156
-民視第一台,http://litv.zapi.us.kg/?id=4gtv-4gtv003
-民視旅遊台,http://litv.zapi.us.kg/?id=litv-ftv07
-民視影劇台,http://litv.zapi.us.kg/?id=litv-ftv09
-民視綜藝台,http://litv.zapi.us.kg/?id=4gtv-4gtv004
-中視菁采台,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-中視經典台,http://litv.zapi.us.kg/?id=4gtv-4gtv080
-台視財經台,http://litv.zapi.us.kg/?id=4gtv-4gtv056
-公視戲劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-國際財經台,http://litv.zapi.us.kg/?id=4gtv-4gtv104
-tvbs精采台,http://litv.zapi.us.kg/?id=4gtv-4gtv067
-tvbs歡樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv068
-八大精彩台,http://litv.zapi.us.kg/?id=4gtv-4gtv034
-八大綜藝台,http://litv.zapi.us.kg/?id=4gtv-4gtv039
-愛爾達娛樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv070
-靖洋戲劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-靖洋卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv057
-靖天卡通台,http://litv.zapi.us.kg/?id=4gtv-4gtv044
-靖天綜合台,http://litv.zapi.us.kg/?id=4gtv-4gtv046
-靖天日本台,http://litv.zapi.us.kg/?id=4gtv-4gtv047
-靖天歡樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv054
-靖天映畫台,http://litv.zapi.us.kg/?id=4gtv-4gtv055
-靖天戲劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv058
-靖天電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv061
-靖天育樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv062
-靖天國際台,http://litv.zapi.us.kg/?id=4gtv-4gtv063
-靖天資訊台,http://litv.zapi.us.kg/?id=4gtv-4gtv065
-龍華卡通台,http://litv.zapi.us.kg/?id=litv-longturn01
-龍華日韓台,http://litv.zapi.us.kg/?id=litv-longturn11
-龍華偶像台,http://litv.zapi.us.kg/?id=litv-longturn12
-龍華電影台,http://litv.zapi.us.kg/?id=litv-longturn03
-龍華戲劇台,http://litv.zapi.us.kg/?id=litv-longturn18
-龍華經典台,http://litv.zapi.us.kg/?id=litv-longturn21
-國會台壹台,http://litv.zapi.us.kg/?id=4gtv-4gtv084
-國會台貳台,http://litv.zapi.us.kg/?id=4gtv-4gtv085
-好消息壹台,http://litv.zapi.us.kg/?id=litv-ftv16
-好消息貳台,http://litv.zapi.us.kg/?id=litv-ftv17
-阿裡郎台台,http://litv.zapi.us.kg/?id=4gtv-4gtv079
-達文西台台,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-豬哥亮歌廳台,http://litv.zapi.us.kg/?id=4gtv-4gtv006
-亞洲旅遊台,http://litv.zapi.us.kg/?id=litv-longturn17
-美國之音頻道,http://litv.zapi.us.kg/?id=litv-ftv03
-半島新聞台,http://litv.zapi.us.kg/?id=litv-ftv10
-非凡商業台,http://litv.zapi.us.kg/?id=4gtv-4gtv048
-第壹商業台,http://litv.zapi.us.kg/?id=4gtv-4gtv109
-愛放動漫台,http://litv.zapi.us.kg/?id=litv-ftv15
-古典音樂台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
-客家電視台,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-華仁紀實台,http://litv.zapi.us.kg/?id=4gtv-4gtv013
-時尚運動台,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-生活英語台,http://litv.zapi.us.kg/?id=litv-longturn20
-采昌影劇台,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-數位電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-Amc電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-CAT電影台,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-TRA體育台,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-SMArt知識台,http://litv.zapi.us.kg/?id=litv-longturn19
-GLO-Bet台,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-TRACEU台,http://litv.zapi.us.kg/?id=4gtv-4gtv082
-MEZZOl台,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-Ginx_TV台,http://litv.zapi.us.kg/?id=4gtv-4gtv053
 
 
 央卫频道,#genre#
