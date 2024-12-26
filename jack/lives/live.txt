@@ -36,6 +36,8 @@ ELEVEN体育2,rtmp://220.130.201.73/sat/tv741
 
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
