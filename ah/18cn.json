@@ -76,6 +76,15 @@
       ]
       }, 
 
+{
+"key":"1191麻豆",
+"name":"91md91麻豆",
+"type":1,
+"api":"https://91md.me/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
         {
          "key": "*AIvin",
          "name": "🔞AIvin",
