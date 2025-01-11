@@ -234,17 +234,112 @@ Astr劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 GBN新聞頻英,http://103.193.151.158:8500/live.m3u8?c=18
 
 
+台灣(Youtube),#genre#
+TV01三立iNEWS,https://www.youtube.com/@setinews/live
+TV02寰宇新聞台,https://www.youtube.com/@globalnewstw/live
+TV85寰宇新聞財經台,https://www.youtube.com/@globalmoneytv/live
+TV41寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
+TV03東森財經新聞,https://www.youtube.com/@57ETFN/live
+TV70鏡新聞,https://www.youtube.com/@mnews-tw/live
+TV82TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+TV83TVBS選新聞,https://www.youtube.com/@TVBSNEWS02/live
+TV28中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
+TV09中視新聞,https://www.youtube.com/@twctvnews/live
+TV17民視新聞,https://www.youtube.com/@FTV_News/live
+TV42MIT台灣誌,https://www.youtube.com/c/ctvmit/live
+TV31TVBS NEWS,https://www.youtube.com/@TVBSNEWS01/live
+TV32三立新聞台,https://www.youtube.com/@setnews/live
+
+TV04momo購物一台,https://www.youtube.com/@momoch4812/live
+TV05momo購物二台,https://www.youtube.com/@momoch3571/live
+TV06運通財經台,https://www.youtube.com/@EFTV01/live
+TV07信大電視台,https://www.youtube.com/@信大電視台-g6k/live
+TV08DW News,https://www.youtube.com/c/dwnews/live
+TV10Malaimurasu Tv 24X7,https://www.youtube.com/@malaimurasunewslive/live
+TV11Asianet News,https://www.youtube.com/@asianetnews/live
+TV12華視戲劇頻道,https://www.youtube.com/@cts_drama/live
+TV13中天亞洲台,https://www.youtube.com/channel/UCys6fpFsyUIHMVhn9g10trQ/live
+TV14Al Jazeera Arabic,https://www.youtube.com/@aljazeera/live
+TV15JapaNews24,https://www.youtube.com/@ANNnewsCH/live
+TV16THE K-POP,https://www.youtube.com/@thekpop/live
+TV18東森購物台CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
+TV19東森購物台CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
+TV20LIVE NOW,https://www.youtube.com/@LiveNow24H/live
+TV21Haberturk TV,https://www.youtube.com/@haberturktv/live
+TV22鳳凰衛視資訊台,https://www.youtube.com/@phoenixtvnews7060/live
+TV23新唐人LIVE,https://www.youtube.com/@NTDapTV/live
+TV24ABC News,https://www.youtube.com/@ABCNews/live
+TV25台視新聞台,https://www.youtube.com/@TTV_NEWS/live
+TV26華視綜藝頻道,https://www.youtube.com/@CTSSHOW/live
+TV27Astro AWANI,https://www.youtube.com/astroawani/live
+TV29Tokyo Walk,https://www.youtube.com/@japan_walk/live
+TV30大愛一臺HD,https://www.youtube.com/watch?v=MIqUplvSRWA
+TV33GB News,https://www.youtube.com/@GBNewsOnline/live
+TV34中視經典綜藝,https://www.youtube.com/@ctvent_classic/live
+TV35Sky News,https://www.youtube.com/@SkyNews/live
+TV36India Today,https://www.youtube.com/watch?v=sYZtOFzM78M
+TV37Euronews English,https://www.youtube.com/@euronews/live
+TV38FRANCE 24 English,https://www.youtube.com/@France24_en/live
+TV39NBC News,https://www.youtube.com/@NBCNews/live
+TV40News18 India,https://www.youtube.com/@news18India/live
+TV43鳳凰衛視資訊台,https://www.youtube.com/@phoenixtvhk/live
+TV44MediaoneTV Live,https://www.youtube.com/@MediaoneTVLive/live
+TV45TBS NEWS,https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
+TV46NewsTamil24x7,https://www.youtube.com/@NewsTamil24X7TV/live
+TV47大愛二臺HD,https://www.youtube.com/watch?v=DTNkEm6jaqQ
+TV48東森購物台,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+TV49中天2台,https://www.youtube.com/channel/UCwbtZdhuhANYFNRPa99-16Q/live
+TV50Malayalam News,https://www.youtube.com/c/24OnLive/live
+TV51Arirang TV,https://www.youtube.com/@KOREAarirangTV/live
+TV52CNA LIVE,https://www.youtube.com/@channelnewsasia/live
+TV53HTB北海道ニュース,https://www.youtube.com/@htbnews/live
+TV54美好購物1台,https://www.youtube.com/watch?v=7IyxOiGMLgw
+TV55美好購物2台,https://www.youtube.com/watch?v=lEXITHxcagI
+TV56國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
+TV57立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
+TV58123 GO! Live,https://www.youtube.com/@123golive/live
+TV59Al Jazeera English,https://www.youtube.com/watch?v=gCNeDWCI0vo
+TV60Muse木棉花-闔家歡,https://www.youtube.com/@Muse_Family/live
+TV61KBS News,https://www.youtube.com/@newskbs/live
+TV62ABCテレビニュース,https://www.youtube.com/@abc6ch/live
+TV63YOYO TV,https://www.youtube.com/c/yoyotvebc/live
+TV64小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
+TV65Talking Tom,https://www.youtube.com/TalkingTom/live
+TV66TalkingFriendsTVMini,https://www.youtube.com/TalkingTomHeroes/live
+TV67Dave and Ava,https://www.youtube.com/@DaveAndAva/live
+TV68Tayo the Little Bus,https://www.youtube.com/@Tayo/live
+TV69Disney Junio,https://www.youtube.com/@disneyjr/live
+TV71大陸尋奇,https://www.youtube.com/@ctvchinatv/live
+TV72CRUX,https://www.youtube.com/@CRUXnews/live
+TV73豬哥會社,https://www.youtube.com/@FTV_ZhuGeClub/live
+TV74TIMES NOW,https://www.youtube.com/@TimesNow/live
+TV75GTV DRAMA 八大劇樂部,https://www.youtube.com/@gtv-drama/live
+TV76民視戲劇館,https://www.youtube.com/@FTVDRAMA/live
+TV77Lofi Girl,https://www.youtube.com/@LofiGirl/live
+TV78TaiwanPlus,https://www.youtube.com/@TaiwanPlusLive/live
+TV79earthTV,https://www.youtube.com/@earthTV/live
+TV80SBS Running Man,https://www.youtube.com/@SBSRunningMan/live
+TV81飢餓遊戲,https://www.youtube.com/@HungerGames123/live
+TV84Entertainment - Mediacorp,https://www.youtube.com/@MediacorpEntertainment/live
+TV86LiveNOW from FOX,https://www.youtube.com/@livenowfox/live
+TV87東森購物台CH34,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
+TV88InquizeX,https://www.youtube.com/@Inquizex/live
+TV898world,https://www.youtube.com/8worldSG/live
+TV90倪珍24小時播新聞,https://www.youtube.com/@NOWnews-sp2di/live
+TV91TV5 News,https://www.youtube.com/tv5newschannel/live
+TV92公視新聞網,https://www.youtube.com/channel/UCexpzYDEnfmAvPSfG4xbcjA/live
+
 
 
 臺灣新聞(vpn),#genre#
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-TVBS新聞,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+
+三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
+年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
 
 非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
 東森財經台,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -276,8 +371,6 @@ TBS NEWS DIG Powered by JNN,https://www.youtube.com/watch?v=ohI356mwBp8
 News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
 France 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
@@ -288,8 +381,12 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 東森亞洲新聞,https://stream1.freetv.fun/dong-sen-mei-zhou-xin-wen-1.m3u8
 Taiwan Plus,https://stream1.freetv.fun/taiwan-plus-tv-1.m3u8
 
-三立新聞,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
-年代新聞,https://stream1.freetv.fun/nian-dai-xin-wen-1.m3u8
+寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
+TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
+TVBS新聞,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-19.m3u8
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-20.ctv
 台視新聞,https://stream1.freetv.fun/tai-shi-xin-wen-18.m3u8
@@ -479,100 +576,6 @@ TV69Disney Junio,https://www.youtube.com/@disneyjr/live
 TV77Lofi Girl,https://www.youtube.com/@LofiGirl/live
 
 
-台灣(Youtube),#genre#
-TV01三立iNEWS,https://www.youtube.com/@setinews/live
-TV02寰宇新聞台,https://www.youtube.com/@globalnewstw/live
-TV85寰宇新聞財經台,https://www.youtube.com/@globalmoneytv/live
-TV41寰宇新聞台灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-TV03東森財經新聞,https://www.youtube.com/@57ETFN/live
-TV70鏡新聞,https://www.youtube.com/@mnews-tw/live
-TV82TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-TV83TVBS選新聞,https://www.youtube.com/@TVBSNEWS02/live
-TV28中天電視,https://www.youtube.com/watch?v=vr3XyVCR4T0
-TV09中視新聞,https://www.youtube.com/@twctvnews/live
-TV17民視新聞,https://www.youtube.com/@FTV_News/live
-TV42MIT台灣誌,https://www.youtube.com/c/ctvmit/live
-TV31TVBS NEWS,https://www.youtube.com/@TVBSNEWS01/live
-TV32三立新聞台,https://www.youtube.com/@setnews/live
-
-TV04momo購物一台,https://www.youtube.com/@momoch4812/live
-TV05momo購物二台,https://www.youtube.com/@momoch3571/live
-TV06運通財經台,https://www.youtube.com/@EFTV01/live
-TV07信大電視台,https://www.youtube.com/@信大電視台-g6k/live
-TV08DW News,https://www.youtube.com/c/dwnews/live
-TV10Malaimurasu Tv 24X7,https://www.youtube.com/@malaimurasunewslive/live
-TV11Asianet News,https://www.youtube.com/@asianetnews/live
-TV12華視戲劇頻道,https://www.youtube.com/@cts_drama/live
-TV13中天亞洲台,https://www.youtube.com/channel/UCys6fpFsyUIHMVhn9g10trQ/live
-TV14Al Jazeera Arabic,https://www.youtube.com/@aljazeera/live
-TV15JapaNews24,https://www.youtube.com/@ANNnewsCH/live
-TV16THE K-POP,https://www.youtube.com/@thekpop/live
-TV18東森購物台CH60,https://www.youtube.com/watch?v=u0NYyH3ZesE
-TV19東森購物台CH46,https://www.youtube.com/watch?v=Z50JFuNgvB0
-TV20LIVE NOW,https://www.youtube.com/@LiveNow24H/live
-TV21Haberturk TV,https://www.youtube.com/@haberturktv/live
-TV22鳳凰衛視資訊台,https://www.youtube.com/@phoenixtvnews7060/live
-TV23新唐人LIVE,https://www.youtube.com/@NTDapTV/live
-TV24ABC News,https://www.youtube.com/@ABCNews/live
-TV25台視新聞台,https://www.youtube.com/@TTV_NEWS/live
-TV26華視綜藝頻道,https://www.youtube.com/@CTSSHOW/live
-TV27Astro AWANI,https://www.youtube.com/astroawani/live
-TV29Tokyo Walk,https://www.youtube.com/@japan_walk/live
-TV30大愛一臺HD,https://www.youtube.com/watch?v=MIqUplvSRWA
-TV33GB News,https://www.youtube.com/@GBNewsOnline/live
-TV34中視經典綜藝,https://www.youtube.com/@ctvent_classic/live
-TV35Sky News,https://www.youtube.com/@SkyNews/live
-TV36India Today,https://www.youtube.com/watch?v=sYZtOFzM78M
-TV37Euronews English,https://www.youtube.com/@euronews/live
-TV38FRANCE 24 English,https://www.youtube.com/@France24_en/live
-TV39NBC News,https://www.youtube.com/@NBCNews/live
-TV40News18 India,https://www.youtube.com/@news18India/live
-TV43鳳凰衛視資訊台,https://www.youtube.com/@phoenixtvhk/live
-TV44MediaoneTV Live,https://www.youtube.com/@MediaoneTVLive/live
-TV45TBS NEWS,https://www.youtube.com/channel/UC6AG81pAkf6Lbi_1VC5NmPA/live
-TV46NewsTamil24x7,https://www.youtube.com/@NewsTamil24X7TV/live
-TV47大愛二臺HD,https://www.youtube.com/watch?v=DTNkEm6jaqQ
-TV48東森購物台,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-TV49中天2台,https://www.youtube.com/channel/UCwbtZdhuhANYFNRPa99-16Q/live
-TV50Malayalam News,https://www.youtube.com/c/24OnLive/live
-TV51Arirang TV,https://www.youtube.com/@KOREAarirangTV/live
-TV52CNA LIVE,https://www.youtube.com/@channelnewsasia/live
-TV53HTB北海道ニュース,https://www.youtube.com/@htbnews/live
-TV54美好購物1台,https://www.youtube.com/watch?v=7IyxOiGMLgw
-TV55美好購物2台,https://www.youtube.com/watch?v=lEXITHxcagI
-TV56國會頻道１,https://www.youtube.com/watch?v=4HysYHJ6GkY
-TV57立法院會議,https://www.youtube.com/watch?v=tDg3bJFYLzI
-TV58123 GO! Live,https://www.youtube.com/@123golive/live
-TV59Al Jazeera English,https://www.youtube.com/watch?v=gCNeDWCI0vo
-TV60Muse木棉花-闔家歡,https://www.youtube.com/@Muse_Family/live
-TV61KBS News,https://www.youtube.com/@newskbs/live
-TV62ABCテレビニュース,https://www.youtube.com/@abc6ch/live
-TV63YOYO TV,https://www.youtube.com/c/yoyotvebc/live
-TV64小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
-TV65Talking Tom,https://www.youtube.com/TalkingTom/live
-TV66TalkingFriendsTVMini,https://www.youtube.com/TalkingTomHeroes/live
-TV67Dave and Ava,https://www.youtube.com/@DaveAndAva/live
-TV68Tayo the Little Bus,https://www.youtube.com/@Tayo/live
-TV69Disney Junio,https://www.youtube.com/@disneyjr/live
-TV71大陸尋奇,https://www.youtube.com/@ctvchinatv/live
-TV72CRUX,https://www.youtube.com/@CRUXnews/live
-TV73豬哥會社,https://www.youtube.com/@FTV_ZhuGeClub/live
-TV74TIMES NOW,https://www.youtube.com/@TimesNow/live
-TV75GTV DRAMA 八大劇樂部,https://www.youtube.com/@gtv-drama/live
-TV76民視戲劇館,https://www.youtube.com/@FTVDRAMA/live
-TV77Lofi Girl,https://www.youtube.com/@LofiGirl/live
-TV78TaiwanPlus,https://www.youtube.com/@TaiwanPlusLive/live
-TV79earthTV,https://www.youtube.com/@earthTV/live
-TV80SBS Running Man,https://www.youtube.com/@SBSRunningMan/live
-TV81飢餓遊戲,https://www.youtube.com/@HungerGames123/live
-TV84Entertainment - Mediacorp,https://www.youtube.com/@MediacorpEntertainment/live
-TV86LiveNOW from FOX,https://www.youtube.com/@livenowfox/live
-TV87東森購物台CH34,https://www.youtube.com/watch?v=ViJ3XiN6Q3M
-TV88InquizeX,https://www.youtube.com/@Inquizex/live
-TV898world,https://www.youtube.com/8worldSG/live
-TV90倪珍24小時播新聞,https://www.youtube.com/@NOWnews-sp2di/live
-TV91TV5 News,https://www.youtube.com/tv5newschannel/live
-TV92公視新聞網,https://www.youtube.com/channel/UCexpzYDEnfmAvPSfG4xbcjA/live
 
 
 公益團體,#genre#
