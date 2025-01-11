@@ -2,15 +2,14 @@
 非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
 
-寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 中天新聞,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
 TVBS新聞,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
 TVBS新聞,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
+寰宇新聞,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
-
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
 民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
@@ -20,6 +19,8 @@ TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 TVBS HD,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+
+
 
 台視,rtmp://f13h.mine.nu/sat/tv071
 中視,rtmp://f13h.mine.nu/sat/tv091
