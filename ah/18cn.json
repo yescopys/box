@@ -852,13 +852,28 @@
   ],
 
 
-"lives":[{
-"name":"live",
-"type":0,
-"url":"./lib/RTV.txt",
-"playerType":1,
-"ua": "okhttp/3.15",
-"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png"}
-]
+"lives":[
+        {
+            "name":"live",
+            "type":0,
+            "url":"./lib/RTV.txt",
+            "playerType":1,
+            "ua": "okhttp/3.15",
+            "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"},
+        {
+            "name": "live",
+            "type": 0,
+            "url": "https://pan.imotao.com/down.php/d4285bc25896028aabee0ac8f345e45b.txt",
+            "playerType": 1,
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+            "logo": "https://live.fanmingming.com/tv/{name}.png"
+        },
+        {
+            "name": "IPV6",
+            "type": 0,
+            "url": "https://pan.imotao.com/down.php/d4285bc25896028aabee0ac8f345e45b.txt",
+            "playerType": 1
+        }
+    ]
 }
