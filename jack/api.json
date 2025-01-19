@@ -966,7 +966,7 @@
             "api": "./lib/live2vod.js",
             "searchable": 0,
             "quickSearch": 0,
-            "ext": "./lib/feimaolive.json"
+            "ext": "./lives/feimaolive.txt"
         },
         {
            "key": "转点",
