@@ -1733,40 +1733,79 @@
           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+
+     {
+           "name": "佛系电视直播(m3u)",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Gather",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+
         {
-            "name": "台湾AKTV",
+            "name": "iptv365(txt)",
+            "type": 0,
+            "url": "https://live.iptv365.org/live.txt",
+            "epg": ""
+        },
+
+        {
+            "name": "iptv365(m3u)",
+            "type": 0,
+            "url": "https://live.iptv365.org/live.m3u",
+            "epg": ""
+        },
+
+     {
+           "name": "佛系体育直播(m3u)",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Sport",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+
+     {
+           "name": "佛系网路直播(m3u)",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/Live",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+
+     {
+           "name": "佛系MyTV直播(m3u)",
+      "type": 0,
+      "url": "https://tv.iill.top/m3u/MyTV",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+
+    {
+           "name": "AKTV源(m3u)",
+      "type": 0,
+      "url": "http://aktv.top/live.m3u",
+      "ua": "okhttp/3.15",
+      "playerType": 1,
+      "epg": "https://www.realfansleaked.shop/index.php?https://epg.112114.xyz/?ch={name}&date={date}"},
+
+        {
+            "name": "AKTV源(txt)",
             "type": 0,
             "url": "https://aktv.top/live.txt",
             "epg": ""
         },
+
         {
             "name": "闽南酒店",
             "type": 0,
             "url": "http://rihou.cc:555/gggg.nzk",
             "epg": ""
         },
+
         {
             "name": "世界频道(全)",
             "type": 0,
             "url": "https://freetv.fun/test_channels_new.txt",
-            "epg": ""
-        },
-        {
-            "name": "香港专用(VPN)",
-            "type": 0,
-            "url": "https://freetv.fun/test_channels_hong_kong_new.txt",
-            "epg": ""
-        },
-        {
-            "name": "台湾专用(VPN)",
-            "type": 0,
-            "url": "https://freetv.fun/test_channels_taiwan_new.txt",
-            "epg": ""
-        },
-        {
-            "name": "台湾专用HD(VPN)",
-            "type": 0,
-            "url": "https://freetv.fun/test_channels_taiwan_original_new.txt",
             "epg": ""
         }
     ]
