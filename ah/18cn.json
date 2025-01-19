@@ -463,12 +463,6 @@
       ]
     },
 
-        {
-            "key": "色猫资源",
-            "name": "(vpn)色猫资源",
-            "type": 0,
-            "api": "https://api.maozyapi.com/inc/api.php"
-        },
     {
       "key": "色猫资源2",
       "name": "(vpn)色猫资源2",
