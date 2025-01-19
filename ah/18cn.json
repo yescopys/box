@@ -39,7 +39,7 @@
         },
         {
             "key": "csp_xml_无尽",
-            "name": "无尽┃三级",
+            "name": "🟡无尽┃三级",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/?ac=list",
             "searchable": 1,
