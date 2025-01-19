@@ -2,8 +2,17 @@
 #台湾第四台
 ./live.txt
 
+#佛系电视直播(m3u)
+https://tv.iill.top/m3u/Gather
+
 #港台专区
 http://rihou.cc:555/gggg.nzk
+
+#TV直播源(每日更新txt)
+https://live.iptv365.org/live.txt
+
+#TV直播源(每日更新m3u)
+https://live.iptv365.org/live.m3u
 
 #儿童动画
 ./儿童动画.txt
@@ -16,11 +25,6 @@ https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt
 
 #挺好TV
 http://ztha.top/TVBox/tv/thtv.txt
-
-#IPV6
-https://live.fanmingming.com/tv/m3u/ipv6.m3u
-
-
 
 
 
