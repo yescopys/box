@@ -136,17 +136,18 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 
-緯來體育,rtmp://220.130.201.73/sat/tv721
-ELEVEN體育1,rtmp://220.130.201.73/sat/tv731
-ELEVEN體育2,rtmp://220.130.201.73/sat/tv741
+博斯無限 一,https://tv.iill.top/litv/litv-longturn10
+博斯無限 二,https://tv.iill.top/litv/litv-longturn13
+博斯網球,https://tv.iill.top/litv/litv-longturn09
+博斯運動 一,https://tv.iill.top/litv/litv-longturn07
+博斯運動 二,https://tv.iill.top/litv/litv-longturn08
+博斯高球一,https://tv.iill.top/litv/litv-longturn05
+博斯高球 二,https://tv.iill.top/litv/litv-longturn06
+博斯魅力,https://tv.iill.top/litv/litv-longturn04
+時尚運動X,https://tv.iill.top/4gtv/277
+智林體育,https://tv.iill.top/litv/4gtv-4gtv101
 
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-
-博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
-
-
 
 
 港澳(免翻),#genre#,#genre#
@@ -233,6 +234,149 @@ Astr劇集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 澳門資訊,http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
 澳門mac,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
 GBN新聞頻英,http://103.193.151.158:8500/live.m3u8?c=18
+
+
+台灣(4gtv),#genre#
+東森財經新聞,https://tv.iill.top/litv/4gtv-4gtv153
+非凡商業,https://tv.iill.top/litv/4gtv-4gtv048
+非凡新聞,https://tv.iill.top/litv/4gtv-4gtv010
+寰宇財經,https://tv.iill.top/litv/4gtv-4gtv158
+台視財經,https://tv.iill.top/litv/4gtv-4gtv056
+鏡電視新聞,https://tv.iill.top/litv/4gtv-4gtv075
+寰宇新聞,https://tv.iill.top/litv/litv-longturn14
+寰宇新聞台灣,https://tv.iill.top/litv/4gtv-4gtv156
+東森新聞,https://tv.iill.top/litv/4gtv-4gtv152
+中天新聞,https://tv.iill.top/litv/4gtv-4gtv009
+華視新聞台,https://tv.iill.top/litv/4gtv-4gtv052
+中視新聞,https://tv.iill.top/litv/4gtv-4gtv074
+民視新聞,https://tv.iill.top/litv/litv-ftv13
+台視新聞,https://tv.iill.top/litv/4gtv-4gtv051
+三立新聞,https://tv.iill.top/4gtv/229
+三立綜合,https://tv.iill.top/4gtv/169
+TVBS,https://tv.iill.top/litv/4gtv-4gtv073
+TVBS 新聞,https://tv.iill.top/litv/4gtv-4gtv072
+TVBS 歡樂,https://tv.iill.top/litv/4gtv-4gtv068
+TVBS 精采,https://tv.iill.top/litv/4gtv-4gtv067
+TVBS 綜藝,https://tv.iill.top/4gtv/284
+TVBS 台劇,https://tv.iill.top/4gtv/285
+中天亞洲,https://tv.iill.top/litv/4gtv-4gtv109
+中視,https://tv.iill.top/litv/4gtv-4gtv040
+中視經典,https://tv.iill.top/litv/4gtv-4gtv080
+亞洲旅遊,https://tv.iill.top/litv/4gtv-4gtv076
+靖天卡通,https://tv.iill.top/litv/4gtv-4gtv044
+靖天國際,https://tv.iill.top/litv/4gtv-4gtv063
+靖天戲劇,https://tv.iill.top/litv/4gtv-4gtv058
+靖天日本,https://tv.iill.top/litv/4gtv-4gtv047
+靖天映畫,https://tv.iill.top/litv/4gtv-4gtv055
+靖天歡樂,https://tv.iill.top/litv/4gtv-4gtv054
+靖天綜合,https://tv.iill.top/litv/4gtv-4gtv046
+靖天育樂,https://tv.iill.top/litv/4gtv-4gtv062
+靖天資訊,https://tv.iill.top/litv/4gtv-4gtv065
+靖天電影,https://tv.iill.top/litv/4gtv-4gtv061
+靖洋卡通,https://tv.iill.top/litv/4gtv-4gtv057
+靖洋戲劇,https://tv.iill.top/litv/4gtv-4gtv045
+龍華偶像,https://tv.iill.top/litv/litv-longturn12
+龍華卡通,https://tv.iill.top/litv/litv-longturn01
+龍華戲劇,https://tv.iill.top/litv/litv-longturn18
+龍華日韓,https://tv.iill.top/litv/litv-longturn11
+龍華經典,https://tv.iill.top/litv/litv-longturn21
+龍華電影,https://tv.iill.top/litv/litv-longturn03
+八大精彩,https://tv.iill.top/litv/4gtv-4gtv034
+八大綜藝,https://tv.iill.top/litv/4gtv-4gtv039
+公視戲劇,https://tv.iill.top/litv/4gtv-4gtv042
+台灣戲劇,https://tv.iill.top/litv/litv-longturn22
+客家電視,https://tv.iill.top/litv/4gtv-4gtv043
+華視,https://tv.iill.top/litv/4gtv-4gtv041
+台視,https://tv.iill.top/litv/4gtv-4gtv066
+民視,https://tv.iill.top/litv/4gtv-4gtv002
+民視台灣,https://tv.iill.top/litv/4gtv-4gtv001
+民視影劇,https://tv.iill.top/litv/litv-ftv09
+民視旅遊,https://tv.iill.top/litv/litv-ftv07
+民視第一,https://tv.iill.top/litv/4gtv-4gtv003
+民視綜藝,https://tv.iill.top/litv/4gtv-4gtv004
+AMC 最愛電影,https://tv.iill.top/litv/4gtv-4gtv017
+Arirang TV,https://tv.iill.top/litv/4gtv-4gtv079
+Bloomberg TV,https://tv.iill.top/4gtv/283
+CI 罪案偵查頻道,https://tv.iill.top/4gtv/215
+CNBC Asia 財經,https://tv.iill.top/4gtv/235
+CinemaWorld,https://tv.iill.top/4gtv/225
+Classica 古典樂,https://tv.iill.top/litv/4gtv-4gtv059
+DW德國之聲,https://tv.iill.top/4gtv/226
+DreamWorks 夢工廠動畫,https://tv.iill.top/4gtv/282
+ELTA 娛樂,https://tv.iill.top/litv/4gtv-4gtv070
+ELTA 生活旅遊,https://tv.iill.top/4gtv/237
+ELTA生活英語,https://tv.iill.top/litv/litv-longturn20
+Fun 探索娛樂,https://tv.iill.top/4gtv/274
+GINX Esports TV,https://tv.iill.top/litv/4gtv-4gtv053
+Global Trekker,https://tv.iill.top/4gtv/252
+Globetrotter 環遊旅行家,https://tv.iill.top/litv/4gtv-4gtv016
+HITS 頻道,https://tv.iill.top/4gtv/186
+History 歷史頻道,https://tv.iill.top/4gtv/214
+LUXE TV,https://tv.iill.top/4gtv/175
+Lifetime 娛樂頻道,https://tv.iill.top/4gtv/217
+LiveABC 互動英語,https://tv.iill.top/4gtv/188
+Love Nature,https://tv.iill.top/4gtv/139
+MOMO 親子,https://tv.iill.top/4gtv/231
+MTV Live HD 音樂頻道,https://tv.iill.top/4gtv/213
+Mezzo Live,https://tv.iill.top/litv/4gtv-4gtv083
+My Cinema Europe HD 我的歐洲電影,https://tv.iill.top/4gtv/176
+Nick Jr. 兒童頻道,https://tv.iill.top/4gtv/219
+Nickelodeon,https://tv.iill.top/4gtv/185
+Pet Club TV,https://tv.iill.top/4gtv/182
+Rock Action,https://tv.iill.top/4gtv/180
+Rock Entertainment,https://tv.iill.top/4gtv/275
+SBN 全球財經,https://tv.iill.top/4gtv/224
+Smart 知識,https://tv.iill.top/litv/litv-longturn19
+TV5MONDE Style,https://tv.iill.top/4gtv/178
+TechStorm,https://tv.iill.top/4gtv/181
+Trace Urban,https://tv.iill.top/litv/4gtv-4gtv082
+TraceSports,https://tv.iill.top/litv/4gtv-4gtv077
+VOA 美國之音,https://tv.iill.top/litv/litv-ftv03
+i-Fun 動漫,https://tv.iill.top/litv/litv-ftv15
+幸福空間居家,https://tv.iill.top/4gtv/168
+影迷數位紀實,https://tv.iill.top/4gtv/212
+影迷數位電影,https://tv.iill.top/litv/4gtv-4gtv011
+戲劇免費看 1,https://tv.iill.top/4gtv/270
+戲劇免費看 2,https://tv.iill.top/4gtv/244
+電影免費看 2,https://tv.iill.top/4gtv/245
+半島國際新聞,https://tv.iill.top/litv/litv-ftv10
+中視菁采,https://tv.iill.top/litv/4gtv-4gtv064
+原住民族電視,https://tv.iill.top/4gtv/273
+人間衛視,https://tv.iill.top/4gtv/210
+兒童卡通,https://tv.iill.top/4gtv/269
+滾動力 Rollor,https://tv.iill.top/4gtv/249
+第1商業,https://tv.iill.top/litv/4gtv-4gtv104
+精選動漫,https://tv.iill.top/4gtv/204
+經典卡通,https://tv.iill.top/4gtv/202
+經典電影,https://tv.iill.top/4gtv/201
+視納華仁紀實頻道,https://tv.iill.top/litv/4gtv-4gtv013
+豬哥亮歌廳秀,https://tv.iill.top/litv/4gtv-4gtv006
+車迷 TV,https://tv.iill.top/4gtv/160
+達文西頻道,https://tv.iill.top/litv/4gtv-4gtv018
+采昌影劇,https://tv.iill.top/litv/4gtv-4gtv049
+金光布袋戲,https://tv.iill.top/4gtv/236
+霹靂布袋戲,https://tv.iill.top/4gtv/301
+電影原聲 CMusic,https://tv.iill.top/4gtv/218
+國會頻道 1,https://tv.iill.top/litv/4gtv-4gtv084
+國會頻道 2,https://tv.iill.top/litv/4gtv-4gtv085
+大愛電視,https://tv.iill.top/4gtv/209
+大愛電視 2,https://tv.iill.top/4gtv/230
+好消息,https://tv.iill.top/litv/litv-ftv16
+好消息 2,https://tv.iill.top/litv/litv-ftv17
+東森購物 一,https://tv.iill.top/4gtv/173
+東森購物 二,https://tv.iill.top/4gtv/174
+東森購物 三,https://tv.iill.top/4gtv/287
+東森購物 四,https://tv.iill.top/4gtv/286
+博斯無限 一,https://tv.iill.top/litv/litv-longturn10
+博斯無限 二,https://tv.iill.top/litv/litv-longturn13
+博斯網球,https://tv.iill.top/litv/litv-longturn09
+博斯運動 一,https://tv.iill.top/litv/litv-longturn07
+博斯運動 二,https://tv.iill.top/litv/litv-longturn08
+博斯高球一,https://tv.iill.top/litv/litv-longturn05
+博斯高球 二,https://tv.iill.top/litv/litv-longturn06
+博斯魅力,https://tv.iill.top/litv/litv-longturn04
+時尚運動X,https://tv.iill.top/4gtv/277
+智林體育,https://tv.iill.top/litv/4gtv-4gtv101
 
 
 台灣(Youtube),#genre#
@@ -427,28 +571,18 @@ TVBS新聞,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 
-緯來體育,rtmp://220.130.201.73/sat/tv721
-ELEVEN體育1,rtmp://220.130.201.73/sat/tv731
-ELEVEN體育2,rtmp://220.130.201.73/sat/tv741
+博斯無限 一,https://tv.iill.top/litv/litv-longturn10
+博斯無限 二,https://tv.iill.top/litv/litv-longturn13
+博斯網球,https://tv.iill.top/litv/litv-longturn09
+博斯運動 一,https://tv.iill.top/litv/litv-longturn07
+博斯運動 二,https://tv.iill.top/litv/litv-longturn08
+博斯高球一,https://tv.iill.top/litv/litv-longturn05
+博斯高球 二,https://tv.iill.top/litv/litv-longturn06
+博斯魅力,https://tv.iill.top/litv/litv-longturn04
+時尚運動X,https://tv.iill.top/4gtv/277
+智林體育,https://tv.iill.top/litv/4gtv-4gtv101
 
-博斯高球频壹,http://37.27.111.214:8080/live/13/hls.m3u8
-博斯运动频壹,http://37.27.111.214:8080/live/14/hls.m3u8
-博斯无限,http://37.27.111.214:8080/live/15/hls.m3u8
 
-DAZN 1(TW),https://stream1.freetv.fun/dazn-portugues-1.ctv
-DAZN 2(TW),https://stream1.freetv.fun/dazn2-1.m3u8
-Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-pl-1.ctv
-Eleven Sports1,https://stream1.freetv.fun/eleven-sports-1-1.ctv
-Eleven Sports2,https://stream1.freetv.fun/eleven-sports-2-pl-1.ctv
-Eleven Sports2,https://stream1.freetv.fun/eleven-sports-2-1.ctv
-Eleven sports,https://stream1.freetv.fun/eleven-sports-3-1.ctv
-Eleven sports,https://stream1.freetv.fun/eleven-sports-2-4.ctv
-Eleven sports,https://stream1.freetv.fun/elevensport-4k-1.m3u8
-Eleven sports,https://stream1.freetv.fun/eleven-sports-1-4.ctv
-Eleven sports,https://stream1.freetv.fun/eleven-sports-2---rec-1.ctv
-Eleven sports,https://stream1.freetv.fun/eleven-sports-5---rec-1.ctv
-Eleven sports,https://stream1.freetv.fun/eleven-sports-4---rec-1.ctv
-緯來體育,https://stream1.freetv.fun/wei-lai-ti-yu-1.ctv
 
 台灣電影(vpn),#genre#
 amc電影,http://61.221.215.25:8800/hls/43/index.m3u8
