@@ -1756,6 +1756,20 @@
             "epg": ""
         },
 
+        {
+            "name": "斗鱼一起看(m3u)",
+            "type": 0,
+            "url": "https://live.freetv.top/douyuyqk.m3u",
+            "epg": ""
+        },
+
+        {
+            "name": "糖意直播(txt)",
+            "type": 0,
+            "url": "https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt",
+            "epg": ""
+        },
+
      {
            "name": "佛系体育直播(m3u)",
       "type": 0,
