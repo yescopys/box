@@ -74,23 +74,54 @@
       "categories": [
         "伦理片"
       ]
-      }, 
+        },
 
-{
-"key":"1191麻豆",
-"name":"91麻豆(vpn)",
-"type":1,
-"api":"https://91md.me/api.php/provide/vod/",
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-},
+    {
+     "key":"didizy.com",
+     "name":"💕滴滴(直连)",
+     "type":1,
+     "api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+     "searchable":1,
+     "filterable":1,
+     "jar":"https://8415.kstore.space/Tvbox/jar/papapg.jar"
+     },
+    {
+      "key": "didiz",
+      "name": "💕玫瑰(直连)",
+      "type": 1,
+      "api": "https://jipinzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },   
         {
-         "key": "*AIvin",
-         "name": "🔞AIvin",
-         "type": 0,
-         "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
-         },
+            "key": "jkunzy.com",
+            "name": "jkun(直连)",
+            "type": 1,
+            "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "filterable": 1
+        },
+    {
+      "key": "didiz12211",
+      "name": "🔞麻豆4K",
+      "type": 1,
+      "api": "http://45.152.67.99:1666/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+
+        {
+            "key": "lbapiby.com",
+            "name": "🔞吃豆人",
+            "type": 0,
+            "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            }
+        },
 
          {"key": "KpgxdyE", 
           "name": "🔞黄AV┃<=这或主页换接口", 
@@ -431,9 +462,18 @@
         "恋腿癖"
       ]
     },
+
+        {
+            "key": "色猫资源",
+            "name": "(vpn)色猫资源",
+            "type": 0,
+            "api": "https://api.maozyapi.com/inc/api.php"
+            "searchable":1,
+            "quickSearch":1
+        },
     {
-      "key": "色猫",
-      "name": "(vpn)色猫采集",
+      "key": "色猫资源2",
+      "name": "(vpn)色猫资源2",
       "type": 1,
       "api": "https://caiji.semaozy.net/inc/apijson_vod.php/",
       "playUrl": "",
@@ -490,23 +530,16 @@
 "quickSearch":1
 },
 
-{
-"key":"*色猫资源",
-"name":"(vpn)色猫资源",
-"type":1,
-"api":"https://api.maozyapi.com/inc/apijson_vod.php",
-"searchable":1,
-"quickSearch":1
-},
 
-{
-"key":"*鲨鱼资源",
-"name":"(vpn)鲨鱼资源",
-"type":1,
-"api":"https://shayuapi.com/api.php/provide/vod/",
-"searchable":1,
-"quickSearch":1
-},
+
+        {
+           "key":"*鲨鱼资源",
+           "name":"(vpn)鲨鱼资源",
+           "type":1,
+           "api":"https://shayuapi.com/api.php/provide/vod/",
+           "searchable":1,
+           "quickSearch":1
+       },
 
     {
       "key": "易看资源-伦理",
@@ -528,11 +561,94 @@
     },
 
         {
-            "key": "*乐播",
+            "key": "乐播",
             "name": "(vpn)乐播",
             "type": 0,
-            "api": "https://lbapi9.com/api.php/provide/vod/at/xml"
+            "playUrl": "https://lbjx9.com/?url=",
+            "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+            "header": {
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36(KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+                "Referer": "https://lbjx9.com/",
+                "Accept-Encoding": "identity;q=1, *;q=0",
+                "Range": "bytes=0-"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
         },
+        {
+            "key": "csp_XBPQ_AV",
+            "name": "头等舱",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./FL/fenghe.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "请求头": "手机",
+                "站名": "AV头等舱",
+                "主页url": "https://avtdc.avtdc.xyz/",
+                "数组": "<div class=\"content\">&&</a>",
+                "直接播放": "1",
+                "标题": "title=\"&&\"",
+                "图片": "src=\"&&\"",
+                "免嗅": "1",
+                "搜索url": "https://avtdc.avtdc.xyz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+                "嗅探词": ".m3u8#.mp4",
+                "分类url": "https://avtdc.avtdc.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类数组": "<li&&</li>",
+                "分类标题": ">&&/a>",
+                "分类ID": "/index.php/vod/type/id/&&.html"
+            }
+        },
+        {
+            "key": "柠檬随机小电影",
+            "name": "柠檬",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./FL/fenghe.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "stui-vodlist__box\">&&</div>",
+                "链接前缀": "https://www.easepai.com/huishou/",
+                "链接后缀": "-1-1.html",
+                "播放链接": "href=\"&&\"",
+                "倒序": "0",
+                "分类url": "https://www.easepai.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html[https://www.easepai.com/zixun/{cateId}.html]",
+                "分类": "电影&电视剧&动漫&综艺&日韩&热播MV",
+                "分类值": "1&2&4&3&30&36"
+            }
+        },
+        {
+            "key": "沙咖影院",
+            "name": "沙咖影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "./FL/fenghe.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "stui-vodlist__thumb lazyload&&</a",
+                "图片": "data-original=\"&&\"",
+                "图片代理": "1",
+                "副标题": "pic-text text-right\">&&</span>",
+                "简介": "description\" content=\"&&\"",
+                "链接": "href=\"/voddetail/&&.html\"",
+                "链接前缀": "https://sar.sarga.cc/vodplay/",
+                "链接后缀": "-1-1.html",
+                "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+                "搜索url": "https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z",
+                "分类": "中文新$20#国语$21#有精品$24#动漫$23#经伦$25#欧美$22"
+            }
+        },
+
         {
             "key": "*探探资源",
             "name": "(vpn)探探资源",
@@ -545,8 +661,33 @@
             "name": "(vpn)大地资源",
             "type": 0,
             "api": "https://dadiapi.com/api.php",
+            "playUrl": "",
             "searchable": 1,
-            "quickSearch": 1
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "日韩无码",
+                "强奸乱伦",
+                "欧美精品",
+                "国产精品",
+                "人妻系列",
+                "中文字幕",
+                "动漫精品",
+                "伦理影片",
+                "日韩精品",
+                "制服诱惑",
+                "自拍偷拍",
+                "AV明星",
+                "3P合辑",
+                "巨乳系列",
+                "颜射系列",
+                "口交视频",
+                "自慰系列",
+                "SM重味",
+                "教师学生",
+                "大秀视频",
+                "AV明星1"
+            ]
         },
         {
             "key": "*辣椒资源",
