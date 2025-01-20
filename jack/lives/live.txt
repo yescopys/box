@@ -132,10 +132,7 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 
 
 體育(免翻),#genre#
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
-
+按OK刷新,https://tv.iill.top/m3u/Gather
 博斯無限 一,https://tv.iill.top/litv/litv-longturn10
 博斯無限 二,https://tv.iill.top/litv/litv-longturn13
 博斯網球,https://tv.iill.top/litv/litv-longturn09
@@ -147,6 +144,9 @@ ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 時尚運動X,https://tv.iill.top/4gtv/277
 智林體育,https://tv.iill.top/litv/4gtv-4gtv101
 
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
 TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
 
 
