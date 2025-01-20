@@ -8,12 +8,18 @@
 #91影片
 ./91影片.txt
 
+
+#麻豆联网
+https://qu.ax/XstR.txt
+
 #麻豆映画
 ./麻豆映画.txt
 
 #传媒影片
 ./传媒.txt
 
-#麻豆联网
-https://qu.ax/XstR.txt
+#糖意直播
+https://www.netpan.cn/down.php/93ee8880761608126469a9b65f81f5df.txt
 
+#挺好TV
+http://ztha.top/TVBox/tv/thtv.txt
