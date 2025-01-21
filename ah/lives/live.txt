@@ -629,6 +629,16 @@ TV75GTV DRAMA 八大劇樂部,https://www.youtube.com/@gtv-drama/live
 TV76民視戲劇館,https://www.youtube.com/@FTVDRAMA/live
 TV42MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 
+藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
+57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
+台灣靈異事件 LIVE,https://www.youtube.com/watch?v=gRst6wFSIbY
+台灣啟示錄頻道,https://www.youtube.com/watch?v=TR7dfvmtWsg
+豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
+萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
+現代嘉慶君,https://www.youtube.com/watch?v=bzSfQ1I5-s8
+大熱門猜歌王4周年,https://www.youtube.com/watch?v=cpsP1wd-HgM
+天才衝衝衝,https://www.youtube.com/watch?v=UsZi0jxZHZ8
+
 三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
 八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一http://61.221.215.25:8800/hls/55/index.m3u8
@@ -673,7 +683,6 @@ MoMo综合,rtmp://220.130.201.73/sat/tv761
 東森超視,rtmp://220.130.201.73/sat/tv331
 緯來日本台,rtmp://220.130.201.73/sat/tv771
 
-
 TVBS Asia,https://stream1.freetv.fun/tvbs-asia-5.m3u8
 TVBS Asia,https://stream1.freetv.fun/tvbs-asia-1.m3u8
 TVBS FHD,https://stream1.freetv.fun/tvbs-9.m3u8
@@ -711,8 +720,28 @@ TV68Tayo the Little Bus,https://www.youtube.com/@Tayo/live
 TV69Disney Junio,https://www.youtube.com/@disneyjr/live
 TV77Lofi Girl,https://www.youtube.com/@LofiGirl/live
 
+我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
+蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
+新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
+中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
+SPY×FAMILY間諜家家酒,https://www.youtube.com/watch?v=JNKu2YmlD3s
+TV63YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
+TV64小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
+YOYO星球樂園親子嘉年華1,https://www.youtube.com/watch?v=H9x_tYig-c0
+YOYO星球樂園親子嘉年華2,https://www.youtube.com/watch?v=lBG-oDPGgxc
+貝樂虎醫生出動,https://www.youtube.com/watch?v=oQUtoy-bn0w
+貝樂虎警長,https://www.youtube.com/watch?v=Hd-VpIqlnwA
+貝貝彬主題曲.https://www.youtube.com/watch?v=eAcW2tZP-4U
+與多米共享新年時光,https://www.youtube.com/watch?v=2YTXx52Bg5U
+Brave Police Patrol Team,https://www.youtube.com/watch?v=TLjifvCnOfk
+Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
 
-
+音樂,#genre#
+KKBOX華語單曲,https://www.youtube.com/watch?v=WXM7k3ZcUdc
+80首必听经典老歌,https://www.youtube.com/watch?v=geXFAGgTxWI
+经典老歌500首大全,https://www.youtube.com/watch?v=1MHH2_NmzFs
+粵語流行音樂合集,https://www.youtube.com/watch?v=CFCynOQWX0Q
+2025夜店混音,https://www.youtube.com/watch?v=aQT8mUr445I
 
 公益團體,#genre#
 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
