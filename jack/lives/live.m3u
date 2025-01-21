@@ -245,169 +245,169 @@ rtmp://f13h.mine.nu/sat/tv731
 rtmp://f13h.mine.nu/sat/tv741
 #EXTINF:-1 group-title="體育(免翻)" tvg-name="TVB Plus" tvg-logo="https://epg.112114.xyz/logo/TVB Plus.png" epg-url="https://epg.112114.xyz/pp.xml",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="黃金翡翠" tvg-logo="https://epg.112114.xyz/logo/黃金翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",黃金翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="黃金翡翠" tvg-logo="https://epg.112114.xyz/logo/黃金翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",黃金翡翠
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/翡翠台4K.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台4K
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/翡翠台4K.png" epg-url="https://epg.112114.xyz/pp.xml",翡翠台4K
 http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線明珠" tvg-logo="https://epg.112114.xyz/logo/無線明珠.png" epg-url="https://epg.112114.xyz/pp.xml",無線明珠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線明珠" tvg-logo="https://epg.112114.xyz/logo/無線明珠.png" epg-url="https://epg.112114.xyz/pp.xml",無線明珠
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線娛樂" tvg-logo="https://epg.112114.xyz/logo/無線娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",無線娛樂
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線娛樂" tvg-logo="https://epg.112114.xyz/logo/無線娛樂.png" epg-url="https://epg.112114.xyz/pp.xml",無線娛樂
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
 http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線經典" tvg-logo="https://epg.112114.xyz/logo/無線經典.png" epg-url="https://epg.112114.xyz/pp.xml",無線經典
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線經典" tvg-logo="https://epg.112114.xyz/logo/無線經典.png" epg-url="https://epg.112114.xyz/pp.xml",無線經典
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線亞劇" tvg-logo="https://epg.112114.xyz/logo/無線亞劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線亞劇
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線亞劇" tvg-logo="https://epg.112114.xyz/logo/無線亞劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線亞劇
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡劇" tvg-logo="https://epg.112114.xyz/logo/無線翡劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡劇
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡劇" tvg-logo="https://epg.112114.xyz/logo/無線翡劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡劇
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線明劇" tvg-logo="https://epg.112114.xyz/logo/無線明劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線明劇
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線明劇" tvg-logo="https://epg.112114.xyz/logo/無線明劇.png" epg-url="https://epg.112114.xyz/pp.xml",無線明劇
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線J1美" tvg-logo="https://epg.112114.xyz/logo/無線J1美.png" epg-url="https://epg.112114.xyz/pp.xml",無線J1美
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線J1美" tvg-logo="https://epg.112114.xyz/logo/無線J1美.png" epg-url="https://epg.112114.xyz/pp.xml",無線J1美
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線新美" tvg-logo="https://epg.112114.xyz/logo/無線新美.png" epg-url="https://epg.112114.xyz/pp.xml",無線新美
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線新美" tvg-logo="https://epg.112114.xyz/logo/無線新美.png" epg-url="https://epg.112114.xyz/pp.xml",無線新美
 http://aktv.top/AKTV/live/aktv/null-20/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="VIUTV-粵" tvg-logo="https://epg.112114.xyz/logo/VIUTV-粵.png" epg-url="https://epg.112114.xyz/pp.xml",VIUTV-粵
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="VIUTV-粵" tvg-logo="https://epg.112114.xyz/logo/VIUTV-粵.png" epg-url="https://epg.112114.xyz/pp.xml",VIUTV-粵
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="VIUTV-英" tvg-logo="https://epg.112114.xyz/logo/VIUTV-英.png" epg-url="https://epg.112114.xyz/pp.xml",VIUTV-英
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="VIUTV-英" tvg-logo="https://epg.112114.xyz/logo/VIUTV-英.png" epg-url="https://epg.112114.xyz/pp.xml",VIUTV-英
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Plus綜合" tvg-logo="https://epg.112114.xyz/logo/Plus綜合.png" epg-url="https://epg.112114.xyz/pp.xml",Plus綜合
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Plus綜合" tvg-logo="https://epg.112114.xyz/logo/Plus綜合.png" epg-url="https://epg.112114.xyz/pp.xml",Plus綜合
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="pₒₚc電影" tvg-logo="https://epg.112114.xyz/logo/pₒₚc電影.png" epg-url="https://epg.112114.xyz/pp.xml",pₒₚc電影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="pₒₚc電影" tvg-logo="https://epg.112114.xyz/logo/pₒₚc電影.png" epg-url="https://epg.112114.xyz/pp.xml",pₒₚc電影
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Now星影" tvg-logo="https://epg.112114.xyz/logo/Now星影.png" epg-url="https://epg.112114.xyz/pp.xml",Now星影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Now星影" tvg-logo="https://epg.112114.xyz/logo/Now星影.png" epg-url="https://epg.112114.xyz/pp.xml",Now星影
 http://aktv.top/AKTV/live/aktv/now/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Now爆穀" tvg-logo="https://epg.112114.xyz/logo/Now爆穀.png" epg-url="https://epg.112114.xyz/pp.xml",Now爆穀
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Now爆穀" tvg-logo="https://epg.112114.xyz/logo/Now爆穀.png" epg-url="https://epg.112114.xyz/pp.xml",Now爆穀
 http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" epg-url="https://epg.112114.xyz/pp.xml",美亞電影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="美亞電影" tvg-logo="https://epg.112114.xyz/logo/美亞電影.png" epg-url="https://epg.112114.xyz/pp.xml",美亞電影
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰中文
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰中文" tvg-logo="https://epg.112114.xyz/logo/鳳凰中文.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="有線新聞" tvg-logo="https://epg.112114.xyz/logo/有線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",有線新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="有線新聞" tvg-logo="https://epg.112114.xyz/logo/有線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",有線新聞
 http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="神州新聞" tvg-logo="https://epg.112114.xyz/logo/神州新聞.png" epg-url="https://epg.112114.xyz/pp.xml",神州新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="神州新聞" tvg-logo="https://epg.112114.xyz/logo/神州新聞.png" epg-url="https://epg.112114.xyz/pp.xml",神州新聞
 http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="東方國際" tvg-logo="https://epg.112114.xyz/logo/東方國際.png" epg-url="https://epg.112114.xyz/pp.xml",東方國際
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="東方國際" tvg-logo="https://epg.112114.xyz/logo/東方國際.png" epg-url="https://epg.112114.xyz/pp.xml",東方國際
 http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="國家地理" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" epg-url="https://epg.112114.xyz/pp.xml",國家地理
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="國家地理" tvg-logo="https://epg.112114.xyz/logo/國家地理.png" epg-url="https://epg.112114.xyz/pp.xml",國家地理
 http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="channelu" tvg-logo="https://epg.112114.xyz/logo/channelu.png" epg-url="https://epg.112114.xyz/pp.xml",channelu
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="channelu" tvg-logo="https://epg.112114.xyz/logo/channelu.png" epg-url="https://epg.112114.xyz/pp.xml",channelu
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="channel5" tvg-logo="https://epg.112114.xyz/logo/channel5.png" epg-url="https://epg.112114.xyz/pp.xml",channel5
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="channel5" tvg-logo="https://epg.112114.xyz/logo/channel5.png" epg-url="https://epg.112114.xyz/pp.xml",channel5
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="channel8" tvg-logo="https://epg.112114.xyz/logo/channel8.png" epg-url="https://epg.112114.xyz/pp.xml",channel8
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="channel8" tvg-logo="https://epg.112114.xyz/logo/channel8.png" epg-url="https://epg.112114.xyz/pp.xml",channel8
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="C+_香港" tvg-logo="https://epg.112114.xyz/logo/C+_香港.png" epg-url="https://epg.112114.xyz/pp.xml",C+_香港
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="C+_香港" tvg-logo="https://epg.112114.xyz/logo/C+_香港.png" epg-url="https://epg.112114.xyz/pp.xml",C+_香港
 http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="ThrIll_影" tvg-logo="https://epg.112114.xyz/logo/ThrIll_影.png" epg-url="https://epg.112114.xyz/pp.xml",ThrIll_影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="ThrIll_影" tvg-logo="https://epg.112114.xyz/logo/ThrIll_影.png" epg-url="https://epg.112114.xyz/pp.xml",ThrIll_影
 http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Nhk新聞" tvg-logo="https://epg.112114.xyz/logo/Nhk新聞.png" epg-url="https://epg.112114.xyz/pp.xml",Nhk新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Nhk新聞" tvg-logo="https://epg.112114.xyz/logo/Nhk新聞.png" epg-url="https://epg.112114.xyz/pp.xml",Nhk新聞
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="CNa新聞" tvg-logo="https://epg.112114.xyz/logo/CNa新聞.png" epg-url="https://epg.112114.xyz/pp.xml",CNa新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="CNa新聞" tvg-logo="https://epg.112114.xyz/logo/CNa新聞.png" epg-url="https://epg.112114.xyz/pp.xml",CNa新聞
 http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="TVN韓綜" tvg-logo="https://epg.112114.xyz/logo/TVN韓綜.png" epg-url="https://epg.112114.xyz/pp.xml",TVN韓綜
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="TVN韓綜" tvg-logo="https://epg.112114.xyz/logo/TVN韓綜.png" epg-url="https://epg.112114.xyz/pp.xml",TVN韓綜
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="KIX_韓綜" tvg-logo="https://epg.112114.xyz/logo/KIX_韓綜.png" epg-url="https://epg.112114.xyz/pp.xml",KIX_韓綜
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="KIX_韓綜" tvg-logo="https://epg.112114.xyz/logo/KIX_韓綜.png" epg-url="https://epg.112114.xyz/pp.xml",KIX_韓綜
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="DW_綜合" tvg-logo="https://epg.112114.xyz/logo/DW_綜合.png" epg-url="https://epg.112114.xyz/pp.xml",DW_綜合
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="DW_綜合" tvg-logo="https://epg.112114.xyz/logo/DW_綜合.png" epg-url="https://epg.112114.xyz/pp.xml",DW_綜合
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="france24" tvg-logo="https://epg.112114.xyz/logo/france24.png" epg-url="https://epg.112114.xyz/pp.xml",france24
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="france24" tvg-logo="https://epg.112114.xyz/logo/france24.png" epg-url="https://epg.112114.xyz/pp.xml",france24
 http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="rock影綜" tvg-logo="https://epg.112114.xyz/logo/rock影綜.png" epg-url="https://epg.112114.xyz/pp.xml",rock影綜
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="rock影綜" tvg-logo="https://epg.112114.xyz/logo/rock影綜.png" epg-url="https://epg.112114.xyz/pp.xml",rock影綜
 http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Nick綜合" tvg-logo="https://epg.112114.xyz/logo/Nick綜合.png" epg-url="https://epg.112114.xyz/pp.xml",Nick綜合
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Nick綜合" tvg-logo="https://epg.112114.xyz/logo/Nick綜合.png" epg-url="https://epg.112114.xyz/pp.xml",Nick綜合
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Nick卡通" tvg-logo="https://epg.112114.xyz/logo/Nick卡通.png" epg-url="https://epg.112114.xyz/pp.xml",Nick卡通
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Nick卡通" tvg-logo="https://epg.112114.xyz/logo/Nick卡通.png" epg-url="https://epg.112114.xyz/pp.xml",Nick卡通
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="AniMAX_" tvg-logo="https://epg.112114.xyz/logo/AniMAX_.png" epg-url="https://epg.112114.xyz/pp.xml",AniMAX_
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="AniMAX_" tvg-logo="https://epg.112114.xyz/logo/AniMAX_.png" epg-url="https://epg.112114.xyz/pp.xml",AniMAX_
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="ZooMoo-" tvg-logo="https://epg.112114.xyz/logo/ZooMoo-.png" epg-url="https://epg.112114.xyz/pp.xml",ZooMoo-
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="ZooMoo-" tvg-logo="https://epg.112114.xyz/logo/ZooMoo-.png" epg-url="https://epg.112114.xyz/pp.xml",ZooMoo-
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="日本新聞" tvg-logo="https://epg.112114.xyz/logo/日本新聞.png" epg-url="https://epg.112114.xyz/pp.xml",日本新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="日本新聞" tvg-logo="https://epg.112114.xyz/logo/日本新聞.png" epg-url="https://epg.112114.xyz/pp.xml",日本新聞
 http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="泰語購物" tvg-logo="https://epg.112114.xyz/logo/泰語購物.png" epg-url="https://epg.112114.xyz/pp.xml",泰語購物
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="泰語購物" tvg-logo="https://epg.112114.xyz/logo/泰語購物.png" epg-url="https://epg.112114.xyz/pp.xml",泰語購物
 http://aktv.top/AKTV/live/aktv/null-16/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰衛視" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰衛視
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰衛視" tvg-logo="https://epg.112114.xyz/logo/鳳凰衛視.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰衛視
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰資訊" tvg-logo="https://epg.112114.xyz/logo/鳳凰資訊.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰資訊
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="鳳凰香港" tvg-logo="https://epg.112114.xyz/logo/鳳凰香港.png" epg-url="https://epg.112114.xyz/pp.xml",鳳凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="香港衛視" tvg-logo="https://epg.112114.xyz/logo/香港衛視.png" epg-url="https://epg.112114.xyz/pp.xml",香港衛視
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="香港衛視" tvg-logo="https://epg.112114.xyz/logo/香港衛視.png" epg-url="https://epg.112114.xyz/pp.xml",香港衛視
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
 http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線新聞" tvg-logo="https://epg.112114.xyz/logo/無線新聞.png" epg-url="https://epg.112114.xyz/pp.xml",無線新聞
 http://zsntlqj.xicp.net:8896/bysid/83.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
 http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
 http://cdn2.1689.us.kg/live/?id=gdfct
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
 http://php.jdshipin.com/smt.php?id=jade_twn
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線翡翠" tvg-logo="https://epg.112114.xyz/logo/無線翡翠.png" epg-url="https://epg.112114.xyz/pp.xml",無線翡翠
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
 http://php.jdshipin.com/smt.php?id=Tvbjade
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線華麗" tvg-logo="https://epg.112114.xyz/logo/無線華麗.png" epg-url="https://epg.112114.xyz/pp.xml",無線華麗
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線星河頻國" tvg-logo="https://epg.112114.xyz/logo/無線星河頻國.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河頻國
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線星河頻國" tvg-logo="https://epg.112114.xyz/logo/無線星河頻國.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河頻國
 https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線星河頻國" tvg-logo="https://epg.112114.xyz/logo/無線星河頻國.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河頻國
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線星河頻國" tvg-logo="https://epg.112114.xyz/logo/無線星河頻國.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河頻國
 http://205.185.123.236:8899/tvb/xinghe/stream.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
 http://php.jdshipin.com/smt.php?id=Xinhe
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="無線星河" tvg-logo="https://epg.112114.xyz/logo/無線星河.png" epg-url="https://epg.112114.xyz/pp.xml",無線星河
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
 https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="千禧經典" tvg-logo="https://epg.112114.xyz/logo/千禧經典.png" epg-url="https://epg.112114.xyz/pp.xml",千禧經典
 http://cdn9.1689.us.kg/smt1.1.php?id=Tvbclassic
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Now爆穀" tvg-logo="https://epg.112114.xyz/logo/Now爆穀.png" epg-url="https://epg.112114.xyz/pp.xml",Now爆穀
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Now爆穀" tvg-logo="https://epg.112114.xyz/logo/Now爆穀.png" epg-url="https://epg.112114.xyz/pp.xml",Now爆穀
 https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Now星影" tvg-logo="https://epg.112114.xyz/logo/Now星影.png" epg-url="https://epg.112114.xyz/pp.xml",Now星影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Now星影" tvg-logo="https://epg.112114.xyz/logo/Now星影.png" epg-url="https://epg.112114.xyz/pp.xml",Now星影
 https://www.mytvsuper.xyz/1/now/stream.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="美亞電影頻粵" tvg-logo="https://epg.112114.xyz/logo/美亞電影頻粵.png" epg-url="https://epg.112114.xyz/pp.xml",美亞電影頻粵
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="美亞電影頻粵" tvg-logo="https://epg.112114.xyz/logo/美亞電影頻粵.png" epg-url="https://epg.112114.xyz/pp.xml",美亞電影頻粵
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="重溫經典" tvg-logo="https://epg.112114.xyz/logo/重溫經典.png" epg-url="https://epg.112114.xyz/pp.xml",重溫經典
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="重溫經典" tvg-logo="https://epg.112114.xyz/logo/重溫經典.png" epg-url="https://epg.112114.xyz/pp.xml",重溫經典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="Astr劇集" tvg-logo="https://epg.112114.xyz/logo/Astr劇集.png" epg-url="https://epg.112114.xyz/pp.xml",Astr劇集
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="Astr劇集" tvg-logo="https://epg.112114.xyz/logo/Astr劇集.png" epg-url="https://epg.112114.xyz/pp.xml",Astr劇集
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="動作電影" tvg-logo="https://epg.112114.xyz/logo/動作電影.png" epg-url="https://epg.112114.xyz/pp.xml",動作電影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="動作電影" tvg-logo="https://epg.112114.xyz/logo/動作電影.png" epg-url="https://epg.112114.xyz/pp.xml",動作電影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcdzdy
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="家庭影院" tvg-logo="https://epg.112114.xyz/logo/家庭影院.png" epg-url="https://epg.112114.xyz/pp.xml",家庭影院
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="家庭影院" tvg-logo="https://epg.112114.xyz/logo/家庭影院.png" epg-url="https://epg.112114.xyz/pp.xml",家庭影院
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcjtyy
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="影迷電影" tvg-logo="https://epg.112114.xyz/logo/影迷電影.png" epg-url="https://epg.112114.xyz/pp.xml",影迷電影
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="影迷電影" tvg-logo="https://epg.112114.xyz/logo/影迷電影.png" epg-url="https://epg.112114.xyz/pp.xml",影迷電影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=chcymdy
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="香港麵包" tvg-logo="https://epg.112114.xyz/logo/香港麵包.png" epg-url="https://epg.112114.xyz/pp.xml",香港麵包
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="香港麵包" tvg-logo="https://epg.112114.xyz/logo/香港麵包.png" epg-url="https://epg.112114.xyz/pp.xml",香港麵包
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="香港_C+_" tvg-logo="https://epg.112114.xyz/logo/香港_C+_.png" epg-url="https://epg.112114.xyz/pp.xml",香港_C+_
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="香港_C+_" tvg-logo="https://epg.112114.xyz/logo/香港_C+_.png" epg-url="https://epg.112114.xyz/pp.xml",香港_C+_
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="澳門蓮花" tvg-logo="https://epg.112114.xyz/logo/澳門蓮花.png" epg-url="https://epg.112114.xyz/pp.xml",澳門蓮花
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="澳門蓮花" tvg-logo="https://epg.112114.xyz/logo/澳門蓮花.png" epg-url="https://epg.112114.xyz/pp.xml",澳門蓮花
 http://php.jdshipin.com:8880/amlh.php
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="澳視澳門" tvg-logo="https://epg.112114.xyz/logo/澳視澳門.png" epg-url="https://epg.112114.xyz/pp.xml",澳視澳門
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="澳視澳門" tvg-logo="https://epg.112114.xyz/logo/澳視澳門.png" epg-url="https://epg.112114.xyz/pp.xml",澳視澳門
 http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="澳視葡語" tvg-logo="https://epg.112114.xyz/logo/澳視葡語.png" epg-url="https://epg.112114.xyz/pp.xml",澳視葡語
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="澳視葡語" tvg-logo="https://epg.112114.xyz/logo/澳視葡語.png" epg-url="https://epg.112114.xyz/pp.xml",澳視葡語
 http://grandprix2023.asuscomm.com:8891/bysid/92.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="澳門資訊" tvg-logo="https://epg.112114.xyz/logo/澳門資訊.png" epg-url="https://epg.112114.xyz/pp.xml",澳門資訊
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="澳門資訊" tvg-logo="https://epg.112114.xyz/logo/澳門資訊.png" epg-url="https://epg.112114.xyz/pp.xml",澳門資訊
 http://grandprix2023.asuscomm.com:8891/bysid/94.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="澳門mac" tvg-logo="https://epg.112114.xyz/logo/澳門mac.png" epg-url="https://epg.112114.xyz/pp.xml",澳門mac
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="澳門mac" tvg-logo="https://epg.112114.xyz/logo/澳門mac.png" epg-url="https://epg.112114.xyz/pp.xml",澳門mac
 http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-#EXTINF:-1 group-title="港澳(免翻),#genre#" tvg-name="GBN新聞頻英" tvg-logo="https://epg.112114.xyz/logo/GBN新聞頻英.png" epg-url="https://epg.112114.xyz/pp.xml",GBN新聞頻英
+#EXTINF:-1 group-title="港澳(免翻)" tvg-name="GBN新聞頻英" tvg-logo="https://epg.112114.xyz/logo/GBN新聞頻英.png" epg-url="https://epg.112114.xyz/pp.xml",GBN新聞頻英
 http://103.193.151.158:8500/live.m3u8?c=18
 #EXTINF:-1 group-title="台灣(4gtv)" tvg-name="按OK刷新" tvg-logo="https://epg.112114.xyz/logo/按OK刷新.png" epg-url="https://epg.112114.xyz/pp.xml",按OK刷新
 https://tv.iill.top/m3u/Gather
