@@ -2,16 +2,13 @@
 #台湾第四台
 ./live.txt
 
-#4GTV直播m3u
-https://tv.iill.top/m3u/Gather
-
 #闽南频道
 http://rihou.cc:555/gggg.nzk
 
-#TV直播源txt
+#iptv365直播txt
 https://live.iptv365.org/live.txt
 
-#TV直播源m3u
+#iptv365直播m3u
 https://live.iptv365.org/live.m3u
 
 #斗鱼一起看
