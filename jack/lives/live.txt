@@ -499,8 +499,9 @@ MoMo综合,rtmp://220.130.201.73/sat/tv761
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
 中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
 SPY×FAMILY間諜家家酒,https://www.youtube.com/watch?v=JNKu2YmlD3s
-TV63YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
-TV64小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
+YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
+东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
 貝樂虎醫生出動,https://www.youtube.com/watch?v=oQUtoy-bn0w
 貝樂虎警長,https://www.youtube.com/watch?v=Hd-VpIqlnwA
 貝貝彬主題曲.https://www.youtube.com/watch?v=eAcW2tZP-4U
@@ -508,8 +509,8 @@ TV64小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
 Brave Police Patrol Team,https://www.youtube.com/watch?v=TLjifvCnOfk
 Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
 
-TV63YOYO TV,https://www.youtube.com/c/yoyotvebc/live
-TV64小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
+YOYO TV,https://www.youtube.com/c/yoyotvebc/live
+小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
 TV65Talking Tom,https://www.youtube.com/TalkingTom/live
 TV66TalkingFriendsTVMini,https://www.youtube.com/TalkingTomHeroes/live
 TV67Dave and Ava,https://www.youtube.com/@DaveAndAva/live
