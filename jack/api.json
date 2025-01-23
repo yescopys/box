@@ -3,25 +3,6 @@
     "wallpaper": "https://深色壁纸.xxooo.cf/",
     "sites": [
         {
-            "key": "豆瓣",
-            "name": "豆瓣1┃<=这或主页换接口",
-            "type": 3,
-            "api": "./lib/apiv43drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "ext": "./js/douban.js"
-        },
-        {
-	"key": "豆瓣2",
-	"name": "豆瓣2┃<=这或主页换接口",
-	"type": 3,
-	"api": "csp_DouDou",
-	"searchable": 0,
-	"changeable": 0,
-	"indexs":1,
-	"ext": "./lib/douban.json"
-       },
-        {
             "key": "豆豆",
             "name": "豆豆┃影视专用",
             "type": 3,
@@ -57,16 +38,6 @@
             "quickSearch": 0,
             "ext": "./lives/直转点.txt"
        },
-{
-"key":"文才弹幕",
-"name":"文才影院┃<=这或主页换接口",
-"type":3,"api":"csp_Jpys",
-"jar":"./jars/danmu.php",
-"searchable":1,
-"quickSearch":1,
-"filterable":1,
-"ext":{"danmu":true}
-},
 
 {
 "key":"木耳",
@@ -223,6 +194,15 @@
             "ext": "./js/网飞.TV.js"
         },
         {
+            "key": "drpy_js_看看屋",
+            "name": "看看屋┃<=这或主页换接口",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "./js/看看屋.js"
+        },
+        {
             "key": "drpy_js_NY影院",
             "name": "NY影院┃<=这或主页换接口",
             "type": 3,
@@ -295,6 +275,16 @@
       "changeable": 1,
       "ext": "https://auete.com/"
     },
+{
+"key":"文才弹幕",
+"name":"文才影院┃<=这或主页换接口",
+"type":3,"api":"csp_Jpys",
+"jar":"./jars/danmu.php",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":{"danmu":true}
+},
 
         {
             "key": "Dm84",
