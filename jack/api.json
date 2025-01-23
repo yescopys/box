@@ -1180,15 +1180,6 @@
             "ext": "https://www.czzyvideo.com/"
         }, 
 
-       {
-      "key": "天翼资源网",
-      "name": "📔天翼┃采集",
-      "type": 1,
-      "api": "https://www.911ysw.top/tianyi.php/provide/vod",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    }, 
     {
       "key": "黑壳影视",
       "name": "📔黑壳┃采集",
@@ -1230,15 +1221,6 @@
         "动漫电影"
       ]
         },
-         {
-            "key": "八戒资源",
-            "name": "📔八戒┃采集",
-            "type": 1,
-            "api": "http://cj.bajiecaiji.com/inc/apijson_vod.php",
-            "playUrl": "",
-            "searchable": 1,
-            "quickSearch": 1
-        },   
         {
             "key": "jszy",
             "name": "📔极速┃采集",
@@ -1400,7 +1382,7 @@
       "key": "非凡1",
       "name": "📔非凡┃采集T",
       "type": 0,
-      "api": "http://ffzy.tv/api.php/provide/vod",
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
       "playurl": "https://svip.ffzyplay.com/?url=",
