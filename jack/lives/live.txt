@@ -186,6 +186,7 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 SPY×FAMILY間諜家家酒,https://www.youtube.com/watch?v=JNKu2YmlD3s
 YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
 东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+东森幼幼台1,https://www.youtube.com/@yoyotvebc/live
 小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
 貝樂虎醫生出動,https://www.youtube.com/watch?v=oQUtoy-bn0w
 貝樂虎警長,https://www.youtube.com/watch?v=Hd-VpIqlnwA
