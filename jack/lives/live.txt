@@ -1,3 +1,138 @@
+===========================================================
+臺灣新聞(vpn),#genre#
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
+年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+
+非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
+東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
+寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
+寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
+寰宇新聞臺灣,https://www.youtube.com/watch?v=w87VGpgd90U
+東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
+三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
+三立LIVE新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
+台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
+中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
+華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
+公視新聞,https://www.youtube.com/watch?v=WTRQiVWK1jY
+民視正夯FTV,https://www.youtube.com/watch?v=TUkQypAk1JA
+TVBS HD,https://www.youtube.com/watch?v=5rskjxIQUUg
+NOWnews新聞AI主播倪珍Nikki,https://www.youtube.com/watch?v=wYzhmfL3Nsk
+公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
+國會現場,https://www.youtube.com/watch?v=ERVDfAQNncA
+新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A
+Japan News,https://www.youtube.com/watch?v=L6h5VKq7ZV0
+Japan ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
+Japan News Digest Live,https://www.youtube.com/watch?v=yrSL6V-eg9c
+TBS NEWS DIG Powered by JNN,https://www.youtube.com/watch?v=ohI356mwBp8
+朝ニュースライブ,https://www.youtube.com/watch?v=km256XONnbo
+メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
+東京 新宿 歌舞伎町 ライブ ２,https://www.youtube.com/watch?v=gFRtAAmiFbE
+News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
+France 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
+
+民視新聞,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民視新聞,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8?blog.ntnas.top
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+
+===========================================================
+
+台灣運動(vpn),#genre#
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+TVB Plus,http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
+IMSA Official,https://www.youtube.com/watch?v=58CZxDrMniI
+劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
+魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
+CCTV-05,http://183.255.10.76:6610/200000001898/460000089800010145/1.m3u8?
+CCTV-5+,http://183.255.10.80:6610/200000001898/460000089800010202/1.m3u8?
+CCTV-05,http://183.255.10.76:6610/200000001898/460000089800010145/1.m3u8?
+CCTV-5+,http://183.255.10.80:6610/200000001898/460000089800010202/1.m3u8?
+HOP Sports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
+
+===========================================================
+
+台灣戲劇(vpn),#genre#
+華視戲劇頻道,https://www.youtube.com/@cts_drama/live
+豬哥會社,https://www.youtube.com/@FTV_ZhuGeClub/live
+GTV八大電視,https://www.youtube.com/@gtv-drama/live
+民視戲劇館,https://www.youtube.com/@FTVDRAMA/live
+MIT台灣誌,https://www.youtube.com/c/ctvmit/live
+===========
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+八大戲劇,http://61.221.215.25:8800/hls/39/index.m3u8
+===========
+藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
+57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
+台灣靈異事件 LIVE,https://www.youtube.com/watch?v=gRst6wFSIbY
+豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
+萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
+現代嘉慶君,https://www.youtube.com/watch?v=bzSfQ1I5-s8
+精彩類戲劇,https://www.youtube.com/watch?v=qGU7fT1y8qE
+重案聊天室,https://www.youtube.com/watch?v=4Eu20-JSWqQ
+新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
+
+===========================================================
+
+台灣綜合(vpn),#genre#
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+綜藝玩很大,https://www.youtube.com/watch?v=ryClunmbUaI
+天才衝衝衝,https://www.youtube.com/watch?v=UsZi0jxZHZ8
+大熱門猜歌王4周年,https://www.youtube.com/watch?v=cpsP1wd-HgM
+綜藝大熱門,https://www.youtube.com/watch?v=yi4uWbH6-Zg
+住左邊住右邊,https://www.youtube.com/watch?v=_2IsSRh4FAA
+11點熱吵店,https://www.youtube.com/watch?v=nLi9sJV_SSU
+飢餓遊戲,https://www.youtube.com/watch?v=A98LJq71BZg
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+民視,rtmp://f13h.mine.nu/sat/tv051
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+緯來日本台,rtmp://f13h.mine.nu/sat/tv771
+公共電視13頻道,https://www.youtube.com/watch?v=C6gYqSHLRw4
+公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
+誠心電視台,https://www.youtube.com/watch?v=SwGOBkTn-SY
+
+===========================================================
+
+台灣兒童(vpn),#genre#
+我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
+蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
+新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
+中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
+YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
+东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+东森幼幼台1,https://www.youtube.com/@yoyotvebc/live
+小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
+Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
+==========
+YOYO TV,https://www.youtube.com/c/yoyotvebc/live
+小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
+Talking Tom,https://www.youtube.com/TalkingTom/live
+TalkingFriendsTVMini,https://www.youtube.com/TalkingTomHeroes/live
+Dave and Ava,https://www.youtube.com/@DaveAndAva/live
+Tayo the Little Bus,https://www.youtube.com/@Tayo/live
+Disney Junio,https://www.youtube.com/@disneyjr/live
+Lofi Girl,https://www.youtube.com/@LofiGirl/live
+
+===========================================================
 台灣(Youtube),#genre#
 三立iNEWS,https://www.youtube.com/@setinews/live
 寰宇新聞台,https://www.youtube.com/@globalnewstw/live
@@ -93,119 +228,8 @@ InquizeX,https://www.youtube.com/@Inquizex/live
 TV5 News,https://www.youtube.com/tv5newschannel/live
 
 
-臺灣新聞(vpn),#genre#
-民視正夯FTV,https://www.youtube.com/watch?v=TUkQypAk1JA
-TVBS HDhttps://www.youtube.com/watch?v=5rskjxIQUUg
-非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
-東森財經台,https://www.youtube.com/watch?v=1I2iq41Akmo
-三立iNEWS,https://www.youtube.com/watch?v=pF507BLtbqU
-寰宇財經台,https://www.youtube.com/watch?v=WTRQiVWK1jY
-寰宇新聞臺灣台,https://www.youtube.com/watch?v=w87VGpgd90U
-寰宇新聞,https://www.youtube.com/watch?v=6IquAgfvYmc
-東森新聞,https://www.youtube.com/watch?v=V1p33hqPrUk
-三立LIVE新聞,https://www.youtube.com/watch?v=MV9mI0GChwo
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-中天新聞,https://www.youtube.com/watch?v=vr3XyVCR4T0
-台視新聞,https://www.youtube.com/watch?v=xL0ch83RAK8
-中視新聞,https://www.youtube.com/watch?v=TCnaIE_SAtM
-華視新聞,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
-公視新聞,https://www.youtube.com/watch?v=WTRQiVWK1jY
-NOWnews新聞AI主播倪珍Nikki,https://www.youtube.com/watch?v=wYzhmfL3Nsk
-公視台語,https://www.youtube.com/watch?v=6KlRR_DGhmI
-國會現場,https://www.youtube.com/watch?v=ERVDfAQNncA
-新唐人亞太台,https://www.youtube.com/watch?v=WIhgU_mc05A
-Japan News,https://www.youtube.com/watch?v=L6h5VKq7ZV0
-Japan ANN News,https://www.youtube.com/watch?v=coYw-eVU0Ks
-Japan News Digest Live,https://www.youtube.com/watch?v=yrSL6V-eg9c
-TBS NEWS DIG Powered by JNN,https://www.youtube.com/watch?v=ohI356mwBp8
-朝ニュースライブ,https://www.youtube.com/watch?v=km256XONnbo
-メ～テレ NEWS LIVE 24,https://www.youtube.com/watch?v=-C6FE2m7kX8
-東京 新宿 歌舞伎町 ライブ ２,https://www.youtube.com/watch?v=gFRtAAmiFbE
-News 12 New York,https://www.youtube.com/watch?v=1GkcsMJTFiI
-France 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
-
-
-台灣運動(vpn),#genre#
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-ELEVEN體育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2,rtmp://f13h.mine.nu/sat/tv741
-HOP Sports,https://www.youtube.com/watch?v=JaGd4Yy_xjA
-
-
-台灣戲劇(vpn),#genre#
-華視戲劇頻道,https://www.youtube.com/@cts_drama/live
-豬哥會社,https://www.youtube.com/@FTV_ZhuGeClub/live
-GTV八大電視,https://www.youtube.com/@gtv-drama/live
-民視戲劇館,https://www.youtube.com/@FTVDRAMA/live
-MIT台灣誌,https://www.youtube.com/c/ctvmit/live
-
-===========
-藍色水玲瓏 ,https://www.youtube.com/watch?v=rTcTVZBZtYs
-57怪奇物語,https://www.youtube.com/watch?v=0CfImCAFIPo
-台灣靈異事件 LIVE,https://www.youtube.com/watch?v=gRst6wFSIbY
-豬哥會社,https://www.youtube.com/watch?v=0aBJU1mFpsk
-萬秀豬王,https://www.youtube.com/watch?v=ADDSmXoPDY8
-現代嘉慶君,https://www.youtube.com/watch?v=bzSfQ1I5-s8
-精彩類戲劇,https://www.youtube.com/watch?v=qGU7fT1y8qE
-重案聊天室,https://www.youtube.com/watch?v=4Eu20-JSWqQ
-新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
-
-
-
-
-
-
-台灣綜合(vpn),#genre#
-綜藝玩很大,https://www.youtube.com/watch?v=ryClunmbUaI
-天才衝衝衝,https://www.youtube.com/watch?v=UsZi0jxZHZ8
-大熱門猜歌王4周年,https://www.youtube.com/watch?v=cpsP1wd-HgM
-綜藝大熱門,https://www.youtube.com/watch?v=yi4uWbH6-Zg
-住左邊住右邊,https://www.youtube.com/watch?v=_2IsSRh4FAA
-11點熱吵店,https://www.youtube.com/watch?v=nLi9sJV_SSU
-飢餓遊戲,https://www.youtube.com/watch?v=A98LJq71BZg
-
-台視,rtmp://f13h.mine.nu/sat/tv071
-中視,rtmp://f13h.mine.nu/sat/tv091
-華視,rtmp://f13h.mine.nu/sat/tv111
-民視,rtmp://f13h.mine.nu/sat/tv051
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-緯來日本台,rtmp://f13h.mine.nu/sat/tv771
-公共電視13頻道,https://www.youtube.com/watch?v=C6gYqSHLRw4
-公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
-誠心電視台,https://www.youtube.com/watch?v=SwGOBkTn-SY
-
-
-
-台灣兒童(vpn),#genre#
-我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
-蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
-新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
-中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
-SPY×FAMILY間諜家家酒,https://www.youtube.com/watch?v=JNKu2YmlD3s
-YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
-东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-东森幼幼台1,https://www.youtube.com/@yoyotvebc/live
-小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
-貝樂虎醫生出動,https://www.youtube.com/watch?v=oQUtoy-bn0w
-貝樂虎警長,https://www.youtube.com/watch?v=Hd-VpIqlnwA
-貝貝彬主題曲.https://www.youtube.com/watch?v=eAcW2tZP-4U
-與多米共享新年時光,https://www.youtube.com/watch?v=2YTXx52Bg5U
-Brave Police Patrol Team,https://www.youtube.com/watch?v=TLjifvCnOfk
-Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
-==========
-YOYO TV,https://www.youtube.com/c/yoyotvebc/live
-小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
-Talking Tom,https://www.youtube.com/TalkingTom/live
-TalkingFriendsTVMini,https://www.youtube.com/TalkingTomHeroes/live
-Dave and Ava,https://www.youtube.com/@DaveAndAva/live
-Tayo the Little Bus,https://www.youtube.com/@Tayo/live
-Disney Junio,https://www.youtube.com/@disneyjr/live
-Lofi Girl,https://www.youtube.com/@LofiGirl/live
-
-
-
+======================
+======================
 音樂(vpn),#genre#
 KKBOX華語單曲,https://www.youtube.com/watch?v=WXM7k3ZcUdc
 80首必听经典老歌,https://www.youtube.com/watch?v=geXFAGgTxWI
@@ -363,3 +387,96 @@ Dali TV (大立電視臺),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 鬥魚搞笑HD4,http://epg.112114.xyz/douyu/9817729
 鬥魚搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
+=========================================================
+韩国歌团,#genre# 
+韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
+韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
+韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
+韩国歌团004,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239755956819.mp4
+韩国歌团005,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239987758613.mp4
+韩国歌团006,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239880949246.mp4
+韩国歌团007,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903717006.mp4
+韩国歌团008,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239903321355.mp4
+韩国歌团009,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799872402.mp4
+韩国歌团010,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239799088974.mp4
+韩国歌团011,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240024786285.mp4
+韩国歌团012,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240142715042.mp4
+韩国歌团013,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240025046562.mp4
+韩国歌团014,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240145171654.mp4
+韩国歌团015,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240147051191.mp4
+韩国歌团016,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239805200933.mp4
+韩国歌团017,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239910253332.mp4
+韩国歌团018,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239806164759.mp4
+韩国歌团019,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239807872136.mp4
+韩国歌团020,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240032526123.mp4
+歌团★021,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239808028600.mp4
+歌团★022,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4
+歌团★023,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240150331617.mp4
+歌团★024,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239809100782.mp4
+歌团★025,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167718.mp4
+歌团★026,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240033362815.mp4
+歌团★027,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151167938.mp4
+歌团★028,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240035466345.mp4
+歌团★029,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239811800375.mp4
+歌团★030,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239916285148.mp4
+歌团★031,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239927589941.mp4
+歌团★032,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239931661209.mp4
+歌团★033,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240171579858.mp4
+歌团★034,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239831144046.mp4
+歌团★035,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240056530470.mp4
+歌团★036,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239832040344.mp4
+歌团★037,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240173879894.mp4
+歌团★038,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240057078179.mp4
+歌团★039,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239936685999.mp4
+歌团★040,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059018784.mp4
+歌团★041,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834324813.mp4
+歌团★042,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239834716201.mp4
+歌团★043,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239837532125.mp4
+歌团★044,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240179867562.mp4
+歌团★045,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240063650207.mp4
+歌团★046,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181243061.mp4
+歌团★047,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181363115.mp4
+歌团★048,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239944465251.mp4
+歌团★049,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240065122134.mp4
+歌团★050,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239840536452.mp4
+
+韩国太妍02,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240167997205.mp4
+韩国太妍03,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240059400880.mp4
+韩国太妍04,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240407847242.mp4
+韩国太妍05,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240062596020.mp4
+韩国太妍06,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240170661907.mp4
+韩国太妍07,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240411259014.mp4
+韩国太妍08,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240174309994.mp4
+韩国太妍09,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175225325.mp4
+韩国太妍10,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240066736888.mp4
+韩国太妍11,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240175161903.mp4
+韩国太妍12,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295526170.mp4
+韩国太妍13,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240295818399.mp4
+韩国太妍14,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177321736.mp4
+韩国太妍15,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240177941288.mp4
+韩国太妍16,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070652257.mp4
+韩国太妍17,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298266546.mp4
+韩国太妍18,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240070884570.mp4
+韩国太妍19,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240298694512.mp4
+韩国太妍20,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240418087243.mp4
+韩国太妍21,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240299394846.mp4
+韩国太妍22,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240181409471.mp4
+韩国太妍23,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240182993056.mp4
+韩国太妍24,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240301854532.mp4
+韩国太妍25,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240075164377.mp4
+韩国太妍26,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240349762400.mp4
+韩国太妍27,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240121912724.mp4
+韩国太妍28,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240126480392.mp4
+韩国太妍29,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355262537.mp4
+韩国太妍30,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240355734488.mp4
+韩国太妍31,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240237453313.mp4
+韩国太妍32,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240130092025.mp4
+韩国太妍33,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240478207039.mp4
+韩国太妍34,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240361330093.mp4
+韩国太妍35,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139316317.mp4
+韩国太妍36,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240248465975.mp4
+韩国太妍37,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240139720035.mp4
+韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
+韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
+韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
+=========================================================
