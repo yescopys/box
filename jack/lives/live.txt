@@ -1,13 +1,5 @@
 ===========================================================
 臺灣新聞(vpn),#genre#
-TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4027/chunklist1.m3u8
-年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-壹新聞,http://211.23.114.106:8529/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
-非凡新聞,http://211.23.114.106:8506/http/61.221.81.94:8088/hls/75/817/ch57.m3u8?token=
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
-
 非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
 寰宇財經,https://www.youtube.com/watch?v=WTRQiVWK1jY
