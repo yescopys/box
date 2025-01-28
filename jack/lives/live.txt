@@ -110,8 +110,9 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
 中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
 YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
-东森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-东森幼幼台1,https://www.youtube.com/@yoyotvebc/live
+東森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+東森幼幼台1,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+東森幼幼台2,https://www.youtube.com/@yoyotvebc/live
 小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
 Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
 ==========
