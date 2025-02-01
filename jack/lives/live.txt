@@ -105,17 +105,33 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 ===========================================================
 
 台灣兒童(vpn),#genre#
+東森幼幼1,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
+東森幼幼2,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+東森幼幼3,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+東森幼幼3,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=ME8E9672303196723031&ct=19344&tsum=91c7ab24e915643c77c2b0eed8de7137
+東森幼幼3,http://50.7.234.10:8278/yoyo_twn/playlist.m3u8?tid=MEBE7340063173400631&ct=19225&tsum=e95304aa3743de8d4f23a23642d4d8a5
+東森幼幼4,https://www.youtube.com/@yoyotvebc/live
+小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
+Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
+=========
+YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
 中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
-YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
-東森幼幼台,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
-東森幼幼台1,http://211.23.114.106:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-東森幼幼台2,https://www.youtube.com/@yoyotvebc/live
-小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
-Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
 ==========
+ELTV生活英語台,http://220.132.15.209:5002/index.m3u8?pid=litv-longturn20
+龍華卡通台,http://220.132.15.209:5002/index.m3u8?pid=litv-longturn01
+哆啦Ａ夢台,http://220.132.15.209:5002/index.m3u8?pid=ofiii22
+新哆啦A夢(中文版),http://220.132.15.209:5002/index.m3u8?pid=ofiii23
+==========
+靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
+靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
+靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=ME5E1118588611185886&ct=19234&tsum=9c155f39f9a4dcbe438a21f39a33ce77
+靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286
+CN 卡通頻道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+CN 卡通頻道,http://50.7.234.10:8278/momo1_twn/playlist.m3u8?tid=MDCD8337337283373372&ct=18393&tsum=3744c35f02ab2207fb7dbbcb450f02d6
+
 YOYO TV,https://www.youtube.com/c/yoyotvebc/live
 小猪佩奇,https://www.youtube.com/@PeppaPigChineseOfficial/live
 Talking Tom,https://www.youtube.com/TalkingTom/live
