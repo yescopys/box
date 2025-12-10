@@ -1,4 +1,3 @@
-===========================================================
 臺灣新聞(vpn),#genre#
 非凡直播,https://www.youtube.com/watch?v=NHQDx8vCrC4
 東森財經,https://www.youtube.com/watch?v=1I2iq41Akmo
@@ -40,7 +39,6 @@ France 24,https://www.youtube.com/watch?v=Ap-UM1O9RBU
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台視新聞,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
 
-===========================================================
 
 台灣運動(vpn),#genre#
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
@@ -79,7 +77,6 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 重案聊天室,https://www.youtube.com/watch?v=4Eu20-JSWqQ
 新兵日記,https://www.youtube.com/watch?v=032kEdR9Lic
 
-===========================================================
 
 台灣綜合(vpn),#genre#
 八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
@@ -102,7 +99,6 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 公視台語台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 誠心電視台,https://www.youtube.com/watch?v=SwGOBkTn-SY
 
-===========================================================
 
 台灣兒童(vpn),#genre#
 東森幼幼1,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
@@ -113,18 +109,18 @@ MIT台灣誌,https://www.youtube.com/c/ctvmit/live
 東森幼幼4,https://www.youtube.com/@yoyotvebc/live
 小猪佩奇,https://www.youtube.com/watch?v=NTGigmL5CG4
 Police Find the Missing Keys,https://www.youtube.com/watch?v=4uVtpV10Rlc
-=========
+
 YOYO TV,https://www.youtube.com/watch?v=PWyQLyL6PFE
 我們這一家,https://www.youtube.com/watch?v=WHednLn-HjA
 蠟筆小新TV版,https://www.youtube.com/watch?v=T0J79UaCTAs
 新哆啦A夢,https://www.youtube.com/watch?v=dgAEF2ppKg8
 中華一番,https://www.youtube.com/watch?v=JemHjZa_VEU
-==========
+
 ELTV生活英語台,http://220.132.15.209:5002/index.m3u8?pid=litv-longturn20
 龍華卡通台,http://220.132.15.209:5002/index.m3u8?pid=litv-longturn01
 哆啦Ａ夢台,http://220.132.15.209:5002/index.m3u8?pid=ofiii22
 新哆啦A夢(中文版),http://220.132.15.209:5002/index.m3u8?pid=ofiii23
-==========
+
 靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MD1D2636832926368329&ct=19226&tsum=22c17cfa6920f0b4a9d45746ac25c547
 靖天卡通台,http://50.7.234.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=ME5E1118588611185886&ct=19234&tsum=9c155f39f9a4dcbe438a21f39a33ce77
@@ -141,7 +137,6 @@ Tayo the Little Bus,https://www.youtube.com/@Tayo/live
 Disney Junio,https://www.youtube.com/@disneyjr/live
 Lofi Girl,https://www.youtube.com/@LofiGirl/live
 
-===========================================================
 台灣(Youtube),#genre#
 三立iNEWS,https://www.youtube.com/@setinews/live
 寰宇新聞台,https://www.youtube.com/@globalnewstw/live
@@ -236,9 +231,6 @@ InquizeX,https://www.youtube.com/@Inquizex/live
 倪珍24小時播新聞,https://www.youtube.com/@NOWnews-sp2di/live
 TV5 News,https://www.youtube.com/tv5newschannel/live
 
-
-======================
-======================
 音樂(vpn),#genre#
 KKBOX華語單曲,https://www.youtube.com/watch?v=WXM7k3ZcUdc
 80首必听经典老歌,https://www.youtube.com/watch?v=geXFAGgTxWI
@@ -396,7 +388,6 @@ Dali TV (大立電視臺),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 鬥魚搞笑HD4,http://epg.112114.xyz/douyu/9817729
 鬥魚搞笑HD5,http://epg.112114.xyz/douyu/8737695
 
-=========================================================
 韩国歌团,#genre# 
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -488,4 +479,3 @@ Dali TV (大立電視臺),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 韩国太妍38,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240368550193.mp4
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
-=========================================================
