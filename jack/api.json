@@ -1384,6 +1384,12 @@
         }
     ],
     "lives": [
+		        {
+          "name":"風雲直播",
+          "type":0,
+          "url":"http://iptv.4666888.xyz/FYTV.m3u",
+            "epg": ""
+        },
         {
           "name":"小苏电视源",
           "type":0,
@@ -1398,60 +1404,6 @@
             "type": 0,
             "url": "http://rihou.cc:555/gggg.nzk",
             "epg": ""
-        },
-        {
-          "name":"ofiii(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/ofiii.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name":"4gtv(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/4gtv.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name":"MytvSuper(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/MytvSuper.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name":"beesports(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/beesports.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name":"logo-smart(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/logo-smart.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name":"smart(vpn)",
-          "type":0,
-          "url":"https://raw.githubusercontent.com/judy-gotv/iptv/main/smart.m3u",
-          "playerType":1,
-          "ua": "okhttp/3.15",
-          "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
 
     ],
