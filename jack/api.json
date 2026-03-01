@@ -662,6 +662,37 @@
                 "cookie": ""
             }
         },
+    {
+      "key": "非凡",
+      "name": "🟡非凡┃采集",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "韩国剧",
+        "大陆综艺",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "动作片",
+        "科幻片",
+        "战争片",
+        "奇幻片",
+        "喜剧片",
+        "爱情片",
+        "恐怖片",
+        "犯罪片",
+        "悬疑片",
+        "惊悚片",
+        "剧情片",
+        "冒险片",
+        "综艺",
+        "日韩动漫",
+        "国产动漫"
+      ]
+    },
         {
             "key": "最大资源",
             "name": "📔最大┃采集",
@@ -773,7 +804,7 @@
       "key": "1080zyku",
       "name": "📔1080┃采集",
       "type": 0,
-      "api": "https://api.1080zyku.com/inc/api.php",
+      "api": "https://api.1080zyku.com/inc/api_mac10.php?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "playurl": "https://vip.zykbf.com/?url=",
@@ -930,6 +961,65 @@
         "欧美综艺"
       ]
     },
+                                { 
+                                            "key": "横版影院",
+                                             "name": "🔴横版┃采集", 
+                                             "type": 1, 
+                                             "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", 
+                                             "searchable": 1, 
+                                             "quickSearch": 1, 
+                                             "filterable": 1, 
+                                             "categories": [ "短剧","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧"] 
+                                },
+		{
+			"key": "飘零",
+			"name": "🔴飘零┃采集",
+			"type": 1,
+			"api": "https://p2100.net/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "无尽",
+			"name": "🔴无尽┃采集",
+			"type": 1,
+			"api": "https://api.wujinapi.com/api.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "魔都",
+			"name": "🔴魔都┃采集",
+			"type": 1,
+			"api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+			"searchable": 1
+		},
+                               {
+                                               "key": "jszy",
+                                               "name": "🔴极速┃采集",
+                                               "type": 1,
+                                               "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+			"searchable": 1
+		},
+                                {
+                                              "key": "光速资源",
+                                              "name": "🔴光速┃采集",
+                                              "type": 1,
+                                              "api": "http://api.guangsuapi.com/api.php/provide/vod/",
+                                              "searchable": 1
+		},
+		{
+			"key": "zy_新浪",
+			"name": "🔴新浪┃采集",
+			"type": 1,
+			"api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+			"searchable": 1
+		},
+		{
+			"key": "百度资源",
+			"name": "🔴百度┃采集",
+			"type": 1,
+			"api": "https://api.apibdzy.com/api.php/provide/vod/",
+			"searchable": 1
+		},
 
        {
             "key": "直播转点播",
@@ -1384,12 +1474,7 @@
         }
     ],
     "lives": [
-		        {
-          "name":"風雲直播",
-          "type":0,
-          "url":"http://iptv.4666888.xyz/FYTV.m3u",
-            "epg": ""
-        },
+
         {
           "name":"小苏电视源",
           "type":0,
@@ -1399,13 +1484,46 @@
           "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
+    {
+      "name": "Lonely",
+      "type": 0,
+      "url": "https://xoxo.cn.mt/Lonely.m3u",
+      "timeout": 10,
+      "playerType": 2
+    },
+        {
+            "name": "風雲直播(試看)",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.m3u",
+            "epg": ""
+        },
+    {
+      "name": "裤佬直播",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "playerType": 2,
+      "timeout": 10
+    },
         {
             "name": "闽南酒店",
             "type": 0,
             "url": "http://rihou.cc:555/gggg.nzk",
             "epg": ""
-        }
-
+        },
+    {
+      "name": "电X家",
+      "type": 0,
+      "url": "https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "简单TV",
+      "type": 0,
+      "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+      "timeout": 10,
+      "playerType": 2
+    }
     ],
     "hosts": [
         "cache.ott.*.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com",
