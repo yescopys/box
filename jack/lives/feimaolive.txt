@@ -1,0 +1,8 @@
+[
+{"name":"台湾第四台","url":"./live.txt"},
+{"name":"拾光频道","url":"https://4708.kstore.space/FM.json"},
+{"name":"宇宙频道","url":"https://ghproxy.cn/https://raw.githubusercontent.com/qinvision/Film-Television/main/dujuejiami.txt"},
+{"name":"闽南频道","url":"http://rihou.cc:555/gggg.nzk"}
+]
+
+
