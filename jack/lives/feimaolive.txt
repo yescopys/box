@@ -1,9 +1,0 @@
-[
-{"name":"台湾第四台","url":"./live.txt"},
-{"name":"闽南频道","url":"http://rihou.cc:555/gggg.nzk"},
-{"name":"iptv365直播txt","url":"https://live.iptv365.org/live.txt"},
-{"name":"iptv365直播m3u","url":"https://live.iptv365.org/live.m3u"},
-{"name":"斗鱼一起看","url":"https://live.freetv.top/douyuyqk.m3u"}
-]
-
-
