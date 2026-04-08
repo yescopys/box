@@ -1,36 +1,34 @@
 台灣免翻1,#genre#
-鏡新聞,https://
-民視新聞,http://
-台視新聞,http://
-中視新聞,http://
-華視新聞,http://
-TVBS新聞,http://
-非凡新聞,http://
-非凡新聞(备),rtmp://
 
-緯來體育,rtmp://
-ELEVEN體育1台,rtmp://
-ELEVEN體育2台,rtmp://
-緯來體育,rtmp://
-緯來育樂,rtmp://
-緯來日本,rtmp://
-緯來電影,http://
 
-龍華電影,http://
-龍華經典,http://
-龍華偶像,http://
-龍華日韓,http://
-龍華戲劇,http://
-龍華洋片,http://
-龍華電影,http://
-愛奇藝,http://
-靖洋戲劇,http://
-靖天電影,http://
-東森電影,http://
-東森超視,rtmp://
+寰宇新聞,http://rihou.cc:555/tv/寰宇新闻
+寰宇新聞台灣台 http://rihou.cc:555/tv/寰宇台湾
+東森新聞,http://rihou.cc:555/tv/东森新闻
+鏡新聞,http://rihou.cc:555/tv/镜新闻
+民視新聞,http://rihou.cc:555/tv/民视新闻
+中天新聞,http://rihou.cc:555/tv/中天新闻
 
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-HBO亞洲,http://220.134.196.147:9520/http/61.221.81.94:8081/hls/71/813/ch41.m3u8
+鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
+非凡新聞(备),rtmp://f13h.mine.nu/sat/tv581
+
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
+ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+MoMoTV,rtmp://f13h.mine.nu/sat/tv761
+民視,rtmp://f13h.mine.nu/sat/tv051
+民視,rtmp://f13h.mine.nu:1935/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+台視,rtmp://f13h.mine.nu:1935/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+中視,rtmp://f13h.mine.nu:1935/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+華視,rtmp://f13h.mine.nu:1935/sat/tv111
 
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
@@ -59,27 +57,7 @@ TVBS精采,http://iptv.4666888.xyz/iptv2A.php?id=47
 娛樂百分百,http://iptv.4666888.xyz/iptv2A.php?id=64
 綜藝大贏家,http://iptv.4666888.xyz/iptv2A.php?id=65
 
-鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
-非凡新聞(备),rtmp://f13h.mine.nu/sat/tv581
 
-民視,rtmp://f13h.mine.nu/sat/tv051
-民視,rtmp://f13h.mine.nu:1935/sat/tv051
-台視,rtmp://f13h.mine.nu/sat/tv071
-台視,rtmp://f13h.mine.nu:1935/sat/tv071
-中視,rtmp://f13h.mine.nu/sat/tv091
-中視,rtmp://f13h.mine.nu:1935/sat/tv091
-華視,rtmp://f13h.mine.nu/sat/tv111
-華視,rtmp://f13h.mine.nu:1935/sat/tv111
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來體育,rtmp://f13h.mine.nu:1935/sat/tv721
-ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
-緯來體育,rtmp://f13h.mine.nu/sat/tv721
-緯來育樂,rtmp://f13h.mine.nu/sat/tv701
-緯來日本,rtmp://f13h.mine.nu/sat/tv771
-東森超視,rtmp://f13h.mine.nu/sat/tv331
-MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 
 民視新聞,http://211.72.174.95:8117/0.ts$原生解碼最佳
 中視,http://211.72.174.95:8113/0.ts$原生解碼最佳
@@ -154,8 +132,82 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 
 
+台灣免翻2(聯通不卡),#genre#
+三立新聞iNEWS,http://220.132.15.209:59788/index.m3u8?pid=iNEWS&sd=720&proxy=true&token=jack1685
+中天新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv009&sd=720&proxy=true&token=jack1685
+寰宇新聞台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn14&sd=720&proxy=true&token=jack1685
+寰宇財經台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv158&sd=720&proxy=true&token=jack1685
+寰宇全視界,http://220.132.15.209:59784/ofiii204/index.m3u8?token=jack1685
+寰宇新聞台灣台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv156&sd=720&proxy=true&token=jack1685
+華視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv052&sd=720&proxy=true&token=jack1685
+中視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv074&sd=720&proxy=true&token=jack1685
+台視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv051&sd=720&proxy=true&token=jack1685
+第1商業台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv104&sd=720&proxy=true&token=jack1685
+倪珍播新聞,http://220.132.15.209:59788/index.m3u8?pid=nnews-zh&sd=720&proxy=true&token=jack1685
+華視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv041&sd=720&proxy=true&token=jack1685
+中視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv040&sd=720&proxy=true&token=jack1685
+台視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv066&sd=720&proxy=true&token=jack1685
+亞洲旅遊台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv076&sd=720&proxy=true&token=jack1685
+台灣戲劇台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn22&sd=720&proxy=true&token=jack1685
+龍華卡通台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn01&sd=720&proxy=true&token=jack1685
+龍華戲劇台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn18&sd=720&proxy=true&token=jack1685
+龍華偶像台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn12&sd=720&proxy=true&token=jack1685
+龍華日韓台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn11&sd=720&proxy=true&token=jack1685
+龍華經典台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn21&sd=720&proxy=true&token=jack1685
+龍華電影台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn03&sd=720&proxy=true&token=jack1685
+龍華洋片台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn02&sd=720&proxy=true&token=jack1685
+東森購物1台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv102&sd=720&proxy=true&token=jack1685
+東森購物2台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv103&sd=720&proxy=true&token=jack1685
+好消息,http://220.132.15.209:59788/index.m3u8?pid=litv-ftv16&sd=720&proxy=true&token=jack1685
+好消息2台,http://220.132.15.209:59788/index.m3u8?pid=litv-ftv17&sd=720&proxy=true&token=jack1685
+國會頻道1台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv084&sd=720&proxy=true&token=jack1685
+國會頻道2台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv085&sd=720&proxy=true&token=jack1685
+ELTV生活英語台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn20&sd=720&proxy=true&token=jack1685
+Smart知識台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn19&sd=720&proxy=true&token=jack1685
 
-===================================================================================
+寰宇全視界,http://220.132.15.209:59784/ofiii204/index.m3u8?token=jack1685
+中視新聞台,http://220.132.15.209:59784/of-4gtv-4gtv074/index.m3u8?token=jack1685
+華視新聞台,http://220.132.15.209:59784/of-4gtv-4gtv052/index.m3u8?token=jack1685
+中天新聞台,http://220.132.15.209:59784/of-4gtv-4gtv009/index.m3u8?token=jack1685
+寰宇新聞台,http://220.132.15.209:59784/of-litv-longturn14/index.m3u8?token=jack1685
+寰宇新聞台灣台,http://220.132.15.209:59784/of-4gtv-4gtv156/index.m3u8?token=jack1685
+寰宇財經台,http://220.132.15.209:59784/of-4gtv-4gtv158/index.m3u8?token=jack1685
+第1商業台,http://220.132.15.209:59784/4gtv-4gtv104/index.m3u8?token=jack1685
+三立新聞iNEWS,http://220.132.15.209:59784/iNEWS/index.m3u8?token=jack1685
+倪珍播新聞,http://220.132.15.209:59784/nnews-zh/index.m3u8?token=jack1685
+
+三立新聞iNEWS,http://220.132.15.209:59788/index.m3u8?pid=iNEWS&sd=1080&proxy=true&token=jack1685
+中天新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv009&sd=1080&proxy=true&token=jack1685
+寰宇新聞台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn14&sd=1080&proxy=true&token=jack1685
+寰宇財經台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv158&sd=1080&proxy=true&token=jack1685
+寰宇新聞台灣台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv156&sd=1080&proxy=true&token=jack1685
+華視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv052&sd=1080&proxy=true&token=jack1685
+中視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv074&sd=1080&proxy=true&token=jack1685
+台視新聞台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv051&sd=1080&proxy=true&token=jack1685
+第1商業台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv104&sd=1080&proxy=true&token=jack1685
+倪珍播新聞,http://220.132.15.209:59788/index.m3u8?pid=nnews-zh&sd=1080&proxy=true&token=jack1685
+華視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv041&sd=1080&proxy=true&token=jack1685
+中視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv040&sd=1080&proxy=true&token=jack1685
+台視,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv066&sd=1080&proxy=true&token=jack1685
+亞洲旅遊台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv076&sd=1080&proxy=true&token=jack1685
+台灣戲劇台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn22&sd=1080&proxy=true&token=jack1685
+龍華卡通台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn01&sd=1080&proxy=true&token=jack1685
+龍華戲劇台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn18&sd=1080&proxy=true&token=jack1685
+龍華偶像台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn12&sd=1080&proxy=true&token=jack1685
+龍華日韓台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn11&sd=1080&proxy=true&token=jack1685
+龍華經典台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn21&sd=1080&proxy=true&token=jack1685
+龍華電影台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn03&sd=1080&proxy=true&token=jack1685
+龍華洋片台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn02&sd=1080&proxy=true&token=jack1685
+東森購物1台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv102&sd=1080&proxy=true&token=jack1685
+東森購物2台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv103&sd=1080&proxy=true&token=jack1685
+好消息,http://220.132.15.209:59788/index.m3u8?pid=litv-ftv16&sd=1080&proxy=true&token=jack1685
+好消息2台,http://220.132.15.209:59788/index.m3u8?pid=litv-ftv17&sd=1080&proxy=true&token=jack1685
+國會頻道1台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv084&sd=1080&proxy=true&token=jack1685
+國會頻道2台,http://220.132.15.209:59788/index.m3u8?pid=4gtv-4gtv085&sd=1080&proxy=true&token=jack1685
+ELTV生活英語台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn20&sd=1080&proxy=true&token=jack1685
+Smart知識台,http://220.132.15.209:59788/index.m3u8?pid=litv-longturn19&sd=1080&proxy=true&token=jack1685
+
+
 風雲試看頻道,#genre#
 TVBS新聞,http://iptv.4666888.xyz/iptv2A.php?id=43
 非凡新聞,http://iptv.4666888.xyz/iptv2A.php?id=44
@@ -202,12 +254,6 @@ TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
 中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
 
 
-================================================================
-================================================================
-
-
-===================================================================================
-===================================================================================
 台灣電台FM,#genre#
 923魅力亞太AsiaFM亞太電台,https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ
 927魅力亞洲AsiaFM亞洲電台,https://n02a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABk3-DGv0AIdOP5OI3uapVnA
@@ -264,8 +310,7 @@ WQXR-FM紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣流行網Ilikeradio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
 中廣新聞網BCCNewsRadio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網iRadioFM96.3,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
-===================================================================================
-===================================================================================
+
 
 MTV,#genre#
 10首车载,https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4
@@ -350,8 +395,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 英雄泪,https://vd3.bdstatic.com/mda-pjpquybu39vxxx2y/hd/cae_h264/1698238201770022195/mda-pjpquybu39vxxx2y.mp4
 
 
-=========================================================
-=========================================================
 韩国歌团,#genre# 
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -445,7 +488,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
-=================================================================
+
 💓专享央视,#genre#
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -766,8 +809,7 @@ CCTV电视指南,http://www.tszhgjj.cn:7000/rtp/239.253.93.249:6427
 东方卫视,http://omnix.cn:4000/udp/225.1.8.45:8032
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 
-===================================================
-===================================================
+
 🇭🇰香港,#genre#
 鳳凰中文,https://cdn6.163189.xyz/163189/fhzw
 鳳凰資訊,https://cdn6.163189.xyz/163189/fhzx
@@ -824,13 +866,8 @@ TVB星河,http://111.59.139.82:8181/tsfile/live/1201_1.m3u8?key=txiptv&playlive=
 TVB武俠,http://111.59.139.82:8181/tsfile/live/1202_1.m3u8?key=txiptv&playlive=1&authid=0
 
 鳳凰香港,http://111.59.139.85:8181/tsfile/live/1204_1.m3u8?key=txiptv&playlive=1&authid=0
-===================================================
-===================================================
-🇭🇰港澳,#genre#
-🇹🇼臺灣,#genre#
-🇺🇸美國,#genre# 
-===================================================
-===================================================
+
+
 🇯🇵日本,#genre# 
 NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
@@ -917,8 +954,7 @@ Sport Live Plus,https://nl.utako.moe/sport_live_plus/index.m3u8
 Home Drama Channel,https://nl.utako.moe/homedrama/index.m3u8
 Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
 Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
-===================================================
-===================================================
+
 🇰🇷韓國,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
@@ -1004,8 +1040,7 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韓國音樂,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
-=====================================================
-=====================================================
+
 🌏[三网]全球台直播,#genre#
 🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 🇳🇬尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
