@@ -16,7 +16,7 @@
     "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml",
     "logo": "http://cj.ffzyapi.com/template/ffzy/static/picture/logo.png",
     "nsfw": false,
-    "type": 0,
+    "type": 1,
     "extra": {
       "gfw": false
     }
