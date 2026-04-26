@@ -627,10 +627,9 @@
 
 
 
-
   {
     "id": "Xxibaoziyuan",
-    "name": "X细胞资源",
+    "name": "🔞X细胞资源",
     "api": "https://www.xxibaozyw.com/api.php/provide/vod",
     "nsfw": true,
     "type": 0,
@@ -640,12 +639,41 @@
   },
   {
     "id": "91shipin",
-    "name": "91视频",
+    "name": "🔞91视频",
     "api": "https://91av.cyou/api.php/provide/vod/",
     "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": true
+    }
+  },
+  {
+"name": "🔞红桃视频",
+"api": "https://apidanaizi.com/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+
+    {
+      "name": "🔞艾旦(三级)",
+      "api": "https://www.lovedan.net/api.php/provide/vod",
+    "nsfw": false,
+    "type": 0,
+      "categories": [
+        "福利视频",
+        "网红主播",
+        "海外抖音",
+        "港台三级",
+        "三级伦理",
+        "日本伦理",
+        "韩国伦理",
+        "西方伦理"
+      ],
+    "extra": {
+      "gfw": false
     }
   },
     {
@@ -733,7 +761,7 @@
 
   {
     "id": "vv99kk",
-    "name": "熊猫视频",
+    "name": "🔞熊猫视频",
     "api": "https://spiderscloudcn2.51111666.com",
     "type": 1,
     "nsfw": true,
