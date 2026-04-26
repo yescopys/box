@@ -1,0 +1,105 @@
+[
+  {
+    "id": "Xxibaoziyuan",
+    "name": "X细胞资源",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "91shipin",
+    "name": "91视频",
+    "api": "https://91av.cyou/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞乐播采集",
+      "api": "https://lbapi9.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞处女控采集",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞番外采集",
+      "api": "http://fhapi9.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞森林采集",
+      "api": "https://slapibf.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+     "name": "🔞甜蜜资源",
+      "api": "https://timizy10.cc/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞森林资源",
+      "api": "https://beiyong.slapibf.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞玉兔采集",
+      "api": "https://apiyutu.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+    {
+      "name": "🔞奶香香",
+      "api": "https://Naixxzy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  }
+]
+
+
