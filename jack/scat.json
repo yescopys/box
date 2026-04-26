@@ -386,94 +386,6 @@
 
 
 
-{
-  "id": "guipian360",
-  "name": "鬼片360",
-  "api": "https://www.guipian360.com",
-  "nsfw": false,
-  "type": 1,
-  "extra": {
-    "gfw": false,
-    "searchLimit": 12,
-    "js": {
-      "category": [
-        {
-          "text": "鬼片大全",
-          "id": "1"
-        },
-        {
-          "text": "大陆鬼片",
-          "id": "6"
-        },
-        {
-          "text": "港台鬼片",
-          "id": "9"
-        },
-        {
-          "text": "林正英鬼片",
-          "id": "8"
-        },
-        {
-          "text": "日韩鬼片",
-          "id": "7"
-        },
-        {
-          "text": "欧美鬼片",
-          "id": "11"
-        },
-        {
-          "text": "泰国鬼片",
-          "id": "10"
-        },
-        {
-          "text": "恐怖片",
-          "id": "3"
-        },
-        {
-          "text": "电视剧",
-          "id": "2"
-        },
-        {
-          "text": "国产剧",
-          "id": "12"
-        },
-        {
-          "text": "港台剧",
-          "id": "20"
-        },
-        {
-          "text": "美剧",
-          "id": "13"
-        },
-        {
-          "text": "韩剧",
-          "id": "14"
-        },
-        {
-          "text": "日剧",
-          "id": "15"
-        },
-        {
-          "text": "泰剧",
-          "id": "16"
-        },
-        {
-          "text": "其它剧",
-          "id": "22"
-        },
-        {
-          "text": "动漫",
-          "id": "4"
-        }
-      ],
-      "home": "const host = 'https://www.guipian360.com';const headers = {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"Referer\": host + \"/\"};const extractVideos = html => {if (!html) return [];return utils_1.kitty.list(html, '.m-movies .u-movie').map(it => {const url = it.match(/href=\"([^\"]+)\"/)?.[1] || \"\";const id = url.match(/\\/(\\d+)\\.html/)?.[1];let name = it.match(/title=\"([^\"]+)\"/)?.[1] || \"\";name = name.split('/')[0].trim().replace(/.*《([^》]+)》.*/, \"$1\");const pic = it.match(/src=\"([^\"]+)\"/)?.[1] || \"\";const remarks = it.match(/class=\"zhuangtai\"[^>]*>([^<]+)/)?.[1] || \"\";return id && name ? {id,title:name,cover:pic.startsWith('/') ? host + pic : pic,remark:remarks.trim()} : null;}).filter(Boolean);};const list = extractVideos(await(0,utils_1.req)(host,{headers}));return{type:\"complex\",data:[{type:\"markdown\",extra:{markdown:`\n> 鬼片360 影视源\n> 仅用于学习`}},{type:\"list\",title:\"首页推荐\",videos:list}]};",
-      "category": "const host = 'https://www.guipian360.com';const headers = {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"Referer\": host + \"/\"};const extractVideos = html => {if (!html) return [];return utils_1.kitty.list(html, '.m-movies .u-movie').map(it => {const url = it.match(/href=\"([^\"]+)\"/)?.[1] || \"\";const id = url.match(/\\/(\\d+)\\.html/)?.[1];let name = it.match(/title=\"([^\"]+)\"/)?.[1] || \"\";name = name.split('/')[0].trim().replace(/.*《([^》]+)》.*/, \"$1\");const pic = it.match(/src=\"([^\"]+)\"/)?.[1] || \"\";const remarks = it.match(/class=\"zhuangtai\"[^>]*>([^<]+)/)?.[1] || \"\";return id && name ? {id,title:name,cover:pic.startsWith('/') ? host + pic : pic,remark:remarks.trim()} : null;}).filter(Boolean);};const cate=env.get(\"category\");const page=env.get(\"page\");const url = page > 1 ? `${host}/list/${cate}_${page}.html` : `${host}/list/${cate}.html`;const html=await(0,utils_1.req)(url,{headers});return extractVideos(html);",
-      "detail": "const host = 'https://www.guipian360.com';const headers = {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"Referer\": host + \"/\"};const id=env.get(\"movieId\");const html=await(0,utils_1.req)(`${host}/nv/${id}.html`,{headers});const tabs=utils_1.kitty.list(html,'#tv_tab li a').map(a=>(a.match(/>([^<]+)/)?.[1]||\"线路\").trim());const urls=utils_1.kitty.list(html,'#tv_tab .list').map(list=>utils_1.kitty.list(list,'ul.abc li a').map(a=>{const name=(a.match(/>([^<]+)/)?.[1]||\"播放\").trim();const vid=(a.match(/href=\"\\/play\\/(.*?)\\.html\"/)?.[1]||\"\");return{id:vid,text:name};}));const playlist=tabs.map((title,i)=>({title,videos:urls[i]||[]}));let vod_name=(html.match(/<h1>(.*?)<\\/h1>/)?.[1]||\"\").split('/')[0].trim().replace(/.*《([^》]+)】?.*/,\"$1\");const vod_pic=(html.match(/<img[^>]+src=\"([^\"]+)\"[^>]*class=\"lazy\"/)||[\"\",\"\"])[1].trim();const vod_content=(html.match(/<p class=\"jianjie-p\"[^>]*>([\\s\\S]*?)<\\/p>/)?.[1]||\"\").replace(/<.*?>/g,\"\").trim()||\"暂无简介\";return{title:vod_name,cover:vod_pic.startsWith('/')?host+vod_pic:vod_pic,desc:vod_content,playlist};",
-      "search": "const host = 'https://www.guipian360.com';const headers = {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"Referer\": host + \"/\"};const extractVideos = html => {if (!html) return [];return utils_1.kitty.list(html, '.m-movies .u-movie').map(it => {const url = it.match(/href=\"([^\"]+)\"/)?.[1] || \"\";const id = url.match(/\\/(\\d+)\\.html/)?.[1];let name = it.match(/title=\"([^\"]+)\"/)?.[1] || \"\";name = name.split('/')[0].trim().replace(/.*《([^》]+)》.*/, \"$1\");const pic = it.match(/src=\"([^\"]+)\"/)?.[1] || \"\";const remarks = it.match(/class=\"zhuangtai\"[^>]*>([^<]+)/)?.[1] || \"\";return id && name ? {id,title:name,cover:pic.startsWith('/') ? host + pic : pic,remark:remarks.trim()} : null;}).filter(Boolean);};const wd=env.get(\"keyword\");const page=env.get(\"page\");const url=`${host}/vodsearch/${encodeURIComponent(wd)}----------${page}---.html`;const html=await(0,utils_1.req)(url,{headers});return extractVideos(html);",
-      "parseIframe": "const host = 'https://www.guipian360.com';const headers = {\"User-Agent\": \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36\",\"Referer\": host + \"/\"};const iframe=env.get(\"iframe\");const html=await(0,utils_1.req)(`${host}/play/${iframe}.html`,{headers});const m3u8=html.match(/var now=\"([^\"]+)\";/);return m3u8?m3u8[1]:`${host}/play/${iframe}.html`;"
-    }
-  }
-},
 
   {
     "id": "duonaovod",
@@ -749,16 +661,6 @@
       "api": "https://www.lovedan.net/api.php/provide/vod",
     "nsfw": true,
     "type": 0,
-      "categories": [
-        "福利视频",
-        "网红主播",
-        "海外抖音",
-        "港台三级",
-        "三级伦理",
-        "日本伦理",
-        "韩国伦理",
-        "西方伦理"
-      ],
     "extra": {
       "gfw": true
     }
