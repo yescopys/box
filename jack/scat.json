@@ -650,17 +650,17 @@
   {
 "name": "🔞红桃视频",
 "api": "https://apidanaizi.com/api.php/provide/vod",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
     "extra": {
-      "gfw": false
+      "gfw": true
     }
   },
 
     {
       "name": "🔞艾旦(三级)",
       "api": "https://www.lovedan.net/api.php/provide/vod",
-    "nsfw": false,
+    "nsfw": true,
     "type": 0,
       "categories": [
         "福利视频",
@@ -673,7 +673,7 @@
         "西方伦理"
       ],
     "extra": {
-      "gfw": false
+      "gfw": true
     }
   },
     {
@@ -779,10 +779,11 @@
   {
     "id": "yjbav",
     "name": "一级棒",
+    "api": "https://yjb.one",
     "type": 1,
     "nsfw": true,
-    "api": "https://yjb.one",
     "extra": {
+      "gfw": false,
       "js": {
         "category": "const table=[{\"id\":\"/\",\"text\":\"\\u9996\\u9875\"},{\"id\":\"21\",\"text\":\"JUU1JTlCJUJEJUU0JUJBJUE3JUU4JTg3JUFBJUU2JThCJThE\"},{\"id\":\"22\",\"text\":\"JUU3JUJEJTkxJUU3JUJBJUEyJUU0JUI4JUJCJUU2JTkyJUFE\"},{\"id\":\"24\",\"text\":\"JUU4JTg3JUFBJUU2JThCJThEJUU3JUIyJUJFJUU5JTgwJTg5\"},{\"id\":\"25\",\"text\":\"JUU1JTlCJUJEJUU0JUJBJUE3JUU0JUJDJUEwJUU1JUFBJTky\"},{\"id\":\"26\",\"text\":\"JUU2JTk3JUE1JUU2JTlDJUFDJUU2JTk3JUEwJUU3JUEwJTgx\"},{\"id\":\"27\",\"text\":\"JUU2JTk3JUE1JUU2JTlDJUFDJUU2JTlDJTg5JUU3JUEwJTgx\"},{\"id\":\"28\",\"text\":\"JUU2JTlDJTg5JUU3JUEwJTgxJUU3JUIyJUJFJUU5JTgwJTg5\"},{\"id\":\"34\",\"text\":\"JUU0JUJBJTlBJUU2JUI0JUIyJUU3JUIyJUJFJUU5JTgwJTg5\"},{\"id\":\"29\",\"text\":\"JUU1JUIwJThGJUU0JUJDJTk3JUU1JThGJUEzJUU1JTkxJUIz\"},{\"id\":\"30\",\"text\":\"JUU2JUFDJUE3JUU3JUJFJThFJUU3JUIyJUJFJUU5JTgwJTg5\"},{\"id\":\"31\",\"text\":\"JUU2JTg4JTkwJUU0JUJBJUJBJUU1JThBJUE4JUU2JUJDJUFC\"},{\"id\":\"32\",\"text\":\"JUU3JUJCJThGJUU1JTg1JUI4JUU0JUI4JTg5JUU3JUJBJUE3\"},{\"id\":\"33\",\"text\":\"QWklRTYlOTglOEUlRTYlOTglOUY=\"}];return table.map(item=>{const{id,text}=item;if(id==\"/\")return item;const a=atob(text);const b=decodeURIComponent(a);return{id,text:b}})",
         "home": "const cate=env.get(\"category\");const page=env.get(\"page\");if(cate==\"/\"){const $=kitty.load(await req(env.baseUrl));const titles=$(\".category-count\").toArray().map(item=>{return $(item).text().replace(\"\\u89C2\\u770B\\u66F4\\u591A\",\"\").trim()});const videos=$(\".post-list\").toArray().map(item=>{return $(item).find(\"div.col-md-2\").toArray().map(item=>{const id=$(item).find(\"a\").attr(\"href\")??\"\";const cover=env.baseUrl+($(item).find(\"img\").attr(\"data-original\")??\"\");const title=$(item).find(\".entry-title\").text().trim();const remark=$(item).find(\".type-text\").text().trim();return{id,title,cover,remark}})});const list=titles.map((title,index)=>{return{type:\"list\",title,videos:videos[index]}});return{type:\"complex\",data:[{type:\"markdown\",extra:{markdown:`\n> 欢迎使用小猫影视(${kitty.VERSION})\n> 该源仅做测试使用，不可用于其他用途\n> 飞机交流群: https://t.me/catmovie1145\n> 小猫其他指南: https://xmpro.netlify.app\n`}},...list]}}const url=`${env.baseUrl}/vodtype/${cate}-${page}/`;const $=kitty.load(await req(url));return $(\".post-list .col-md-3\").toArray().map(item=>{const a=$(item).find(\"a\");const img=a.find(\"img\");const id=a.attr(\"href\")??\"\";let cover=img.attr(\"data-original\")??\"\";cover=`${env.baseUrl}${cover}`;const title=img.attr(\"alt\")??\"\";return{id,cover,title}})",
