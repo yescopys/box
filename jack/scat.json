@@ -624,18 +624,16 @@
 
 
 
-
-
   {
-    "id": "Xxibaoziyuan",
-    "name": "🔞X细胞资源",
-    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+"name": "🔞红桃视频",
+"api": "https://apidanaizi.com/api.php/provide/vod",
     "nsfw": true,
     "type": 0,
     "extra": {
       "gfw": false
     }
   },
+
   {
     "id": "91shipin",
     "name": "🔞91视频",
@@ -646,15 +644,7 @@
       "gfw": true
     }
   },
-  {
-"name": "🔞红桃视频",
-"api": "https://apidanaizi.com/api.php/provide/vod",
-    "nsfw": true,
-    "type": 0,
-    "extra": {
-      "gfw": true
-    }
-  },
+
 
     {
       "name": "🔞艾旦(三级)",
@@ -728,15 +718,7 @@
       "gfw": true
     }
   },
-    {
-      "name": "🔞奥斯卡",
-      "api": "https://aosikazy.com/api.php/provide/vod/",
-    "nsfw": true,
-    "type": 0,
-    "extra": {
-      "gfw": true
-    }
-  },
+
     {
       "name": "🔞奶香香",
       "api": "https://Naixxzy.com/api.php/provide/vod/",
@@ -746,8 +728,25 @@
       "gfw": true
     }
   },
-
-
+    {
+      "name": "🔞奥斯卡",
+      "api": "https://aosikazy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw": true
+    }
+  },
+  {
+    "id": "Xxibaoziyuan",
+    "name": "🔞X细胞资源",
+    "api": "https://www.xxibaozyw.com/api.php/provide/vod",
+    "nsfw": true,
+    "type": 0,
+    "extra": {
+      "gfw":true
+    }
+  },
   {
     "id": "vv99kk",
     "name": "🔞熊猫视频",
