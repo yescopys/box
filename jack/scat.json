@@ -14,7 +14,7 @@
   "id": "牛牛视频2",
   "name": "牛牛视频2",
   "api": "https://apidanaizi.com/api.php/provide/vod", 
-  "nsfw": true,
+  "nsfw": false,
   "type": 1,
   "extra": {
     "gfw": false,
