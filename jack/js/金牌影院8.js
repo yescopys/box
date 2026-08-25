@@ -1,13 +1,6 @@
 import 'assets://js/lib/crypto-js.js';
 const { HOSTS, KEY, USER_AGENT } = {
   HOSTS: [
-  "https://www.sizhengxt.com",
-  "https://www.sdzhgt.com",
-  "https://www.jiabaide.cn",
-  "https://9zhoukj.com",
-  "https://www.cqzuoer.com",
-  "https://www.hkybqufgh.com",
-  "https://www.hellosht52bwb.com",
   "https://www.hskjjglo.com"
 ],
 

@@ -14,6 +14,12 @@
 民視新聞,https://
 三立新聞iNEWS,
 TVBS新聞,http://
+ELEVEN體育1台,rtmp://
+ELEVEN體育2台,rtmp://
+緯來體育,rtmp://
+緯來體育,rtmp://
+緯來育樂,rtmp://
+緯來日本,rtmp://
 重温经典,http://
 龍華電影,http://
 龍華洋片,http://
@@ -46,16 +52,16 @@ MoMoTV,rtmp://f13h.mine.nu/sat/tv761
 華視,rtmp://f13h.mine.nu/sat/tv111
 華視,rtmp://f13h.mine.nu:1935/sat/tv111
 
+鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
+民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+
 鏡新聞,http://rihou.cc:555/tv/镜新闻
 民視新聞,http://rihou.cc:555/tv/民视新闻
 中天新聞,http://rihou.cc:555/tv/中天新闻
 寰宇新聞,http://rihou.cc:555/tv/寰宇新闻
 寰宇新聞台灣台,http://rihou.cc:555/tv/寰宇台湾
 東森新聞,http://rihou.cc:555/tv/东森新闻
-
-鏡新聞,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
-民視新聞,https://livedata.cloudokyo.cloud/hls/094041f3-7cb6-4dd1-a2e6-de1b1e6c8d29/hls_480p/video.m3u8$官網
-非凡新聞,rtmp://f13h.mine.nu/sat/tv581
 
 重温经典,http://rihou.cc:555/tv/[Pd]重温经典
 龍華電影,http://rihou.cc:555/tv/[Pd]龙华电影
@@ -300,77 +306,8 @@ TVB星河國語,https://cdn10.163189.xyz/stream/163189/xinghe/
 天映經典,https://cdn10.163189.xyz/stream/163189/ccm/
 
 
-==================================================
-🇹🇼體育競技,#genre#
-SPOTV,http://iptv.4666888.xyz/iptv2A.php?id=2
-SPOTV2,http://iptv.4666888.xyz/iptv2A.php?id=1
-astroFootball,http://iptv.4666888.xyz/iptv2A.php?id=4
-TntSports1,http://iptv.4666888.xyz/iptv2A.php?id=3
-智林體育,http://iptv.4666888.xyz/iptv2A.php?id=5
-JSPORTS1,http://iptv.4666888.xyz/iptv2A.php?id=6
-SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
-
-
-咪1,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=m
-咪2,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=m
-咪3,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=m
-咪4,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=m
-咪5,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=m
-咪6,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=m
-咪7,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=m
-咪8,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=m
-咪9,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=m
-咪10,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=m
-咪11,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=m
-咪12,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=m
-咪13,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=m
-咪14,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=m
-咪15,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=m
-咪世界4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=m
-咪16,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=m
-咪17,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=m
-咪18,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=m
-至臻4K,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=m
-咪19,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=m
-咪20,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=m
-咪21,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=m
-咪22,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=m
-咪23,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=m
-咪24,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=m
-咪26,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=m
-咪28,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=m
-咪27,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=m
-咪25,http://221.181.100.64/gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=m
-
-🇹🇼電影戲劇,#genre#
-HBO,http://220.134.196.147:9520/http/60.251.39.91:8081/hls/71/813/ch41.m3u8
-HBO亞洲,http://220.134.196.147:9520/http/61.221.81.94:8081/hls/71/813/ch41.m3u8
-
-CHC家庭影院,https://yzrrjzxvnvgl.ap-northeast-1.clawcloudrun.com/CC.php?url=3e9edb18b972cc572fdff720e80db23fcba980941bd4df0da8f2f1f6b2844888a557d0adb4fa823b0cbc1097097d3d8e8f512393b811a67e69a015fa181471831c371d403b27653412e6890d1585c5c7bcdaf716d162fdd7ab1ad5b63935cb93281759ddf73ecf347bfbd451ea5056d5
-CHC動作電影,https://yzrrjzxvnvgl.ap-northeast-1.clawcloudrun.com/CC.php?url=4bb66112fdf07939f4b3ea31e35de5727fe4b9fe97e3c393b31995a51522d24062548b9d3e79f5fc37bea5fce8b567119e06ee9ef2ffd6dc5c11187b53111d1fca5de39311a7033dc9f149ba872618e95703f588b5c8f545b1a2b82d1e89715226c3e7257b56f99fa5a18c9242e9d50a
-CHC影迷電影,https://yzrrjzxvnvgl.ap-northeast-1.clawcloudrun.com/CC.php?url=b62a033b7bee5dc6e1895a8864531f84a1622e57e21826fa5a111824fb87f0dbcf608b07afb8150db181f645ac2ca48b3e56aacb446432918aaad70551e4010bee8259cd958f2ada577660575690369d319b2010a7d4a0ca1cdc507ae53c8ab86a8143f58ec8cb21ac83f0384fc7c1f7
-CHC家庭影院,http://61.184.46.85:85/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
-CHC動作電影,http://61.184.46.85:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$荆州电信
-
-🇹🇼兒童卡通,#genre#
-梦工场动漫,http://iptv.4666888.xyz/iptv2A.php?id=40
-Duck TV兒童卡通,http://iptv.4666888.xyz/iptv2A.php?id=39
-MOMO親子,http://iptv.4666888.xyz/iptv2A.php?id=49
-金光布袋戲,http://iptv.4666888.xyz/iptv2A.php?id=38
-
-東森YOYO台,http://211.23.114.106:8551/http/116.50.42.19:8078/hls/43/80/bloomber.m3u8
-
-金鹰卡通,http://8.138.7.223/tv/mgtv.php?id=287
-金鹰卡通,http://183.237.95.108:9901/tsfile/live/1099_1.m3u8?key=txiptv&playlive=0&authid=0
-动漫秀场,http://183.237.95.108:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=0&authid=0
-动漫秀场,http://vapi.91kds.cc/live1/jdtv2.m3u8?id=dmxchd&apiKey=73c963d13814ce7d0e4743c5e7d033cc
-浙江少儿,http://ali-vl.cztv.com/channels/lantian/channel008/360p.m3u8
-海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
-喜羊羊与灰太狼,https://isus.cc/php/huya.php?id=23865080
-开心锤锤动漫,http://222.186.39.21:35466/douyu/9018297
-茶啊二中,http://222.186.39.21:35466/douyu/2925610
-
-
+============================================================
+============================================================
 台灣電台FM,#genre#
 923魅力亞太AsiaFM亞太電台,https://n04a-eu.rcs.revma.com/kydend74hv8uv?rj-ttl=5&rj-tok=AAABk3-PFmIANQOl8U4dGJCCgQ
 927魅力亞洲AsiaFM亞洲電台,https://n02a-eu.rcs.revma.com/xpgtqc74hv8uv?rj-ttl=5&rj-tok=AAABk3-DGv0AIdOP5OI3uapVnA
@@ -427,6 +364,8 @@ WQXR-FM紐約愛樂電台,https://stream.wqxr.org/wqxr
 中廣流行網Ilikeradio,https://n03a-eu.rcs.revma.com/aw9uqyxy2tzuv?rj-ttl=5&rj-tok=AAABk398s8YAWSyQ-7IwpQVfKA
 中廣新聞網BCCNewsRadio,https://n42a-eu.rcs.revma.com/78fm9wyy2tzuv?rj-ttl=5&rj-tok=AAABk3-AuHMABLufBFCkIDaQfQ
 中廣音樂網iRadioFM96.3,https://n16a-eu.rcs.revma.com/ndk05tyy2tzuv?rj-ttl=5&rj-tok=AAABk397v-kArQGUypuI8N7owA
+===================================================================================
+===================================================================================
 
 MTV,#genre#
 10首车载,https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4
@@ -510,6 +449,9 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 英雄泪,https://vd3.bdstatic.com/mda-ncnp6tm56ngrxbis/360p/h264_delogo/1648055585617071282/mda-ncnp6tm56ngrxbis.mp4
 英雄泪,https://vd3.bdstatic.com/mda-pjpquybu39vxxx2y/hd/cae_h264/1698238201770022195/mda-pjpquybu39vxxx2y.mp4
 
+
+=========================================================
+=========================================================
 韩国歌团,#genre# 
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
@@ -603,6 +545,7 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 韩国太妍40,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240370230905.mp4
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 
+=================================================================
 💓大陸央視,#genre#
 CCTV1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
 CCTV2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
@@ -623,26 +566,8 @@ CCTV15,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 
-
-
-🇭🇰香港,#genre#
-鳳凰中文,http://iptv.4666888.xyz/iptv2A.php?id=27
-TVB黃金華劇,http://iptv.4666888.xyz/iptv2A.php?id=34
-TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
-TVB明珠,http://iptv.4666888.xyz/iptv2A.php?id=29
-TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-千禧經典,http://iptv.4666888.xyz/iptv2A.php?id=22
-HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
-TVB-獎門人,http://iptv.4666888.xyz/iptv2A.php?id=31
-TVB-金曲,http://iptv.4666888.xyz/iptv2A.php?id=57
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
-TVB娛樂新聞,http://iptv.4666888.xyz/iptv2A.php?id=36
-MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
-TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
-澳視澳門,http://iptv.4666888.xyz/iptv2A.php?id=41
-中國電影,http://iptv.4666888.xyz/iptv2A.php?id=61
-
+===================================================
+===================================================
 🇯🇵日本,#genre# 
 NHK G HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
 NHK E HD (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02
@@ -729,7 +654,8 @@ Sport Live Plus,https://nl.utako.moe/sport_live_plus/index.m3u8
 Home Drama Channel,https://nl.utako.moe/homedrama/index.m3u8
 Channel Ginga,https://nl.utako.moe/gingach/index.m3u8
 Tabi Channel,https://nl.utako.moe/tabi/index.m3u8
-
+===================================================
+===================================================
 🇰🇷韓國,#genre#
 ABN TV (720p),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 Arirang Radio (720p),http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
@@ -815,6 +741,8 @@ NewKID4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=872
 韓國音樂,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 RNA,http://5ddfc48289114.streamlock.net/CHsoom/LIVE/playist.m3u8
 
+=====================================================
+=====================================================
 🌏[三网]全球台直播,#genre#
 🇦🇹奥地利Moviesphere,https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 🇳🇬尼日利亚Pulse,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
