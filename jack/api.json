@@ -284,18 +284,6 @@
               "ext":"./js/美视网.js"
        },
 
-{
-"key":"drpyS_采王2026",
-"name":"采王2026(DS)",
-"type":4,
-"api":"http://220.132.15.209:59998/api/采集之王[合]?pwd=dzyyds",
-"searchable":1,
-"filterable":1,
-"quickSearch":0,
-"title":"采集之王[合]",
-"lang":"ds",
-"ext":"H4sIAAAAAAAAA9PT088qzs/Tf9ne/nJ2m5GBkdnLuTOfNTTqgURVDFUABREoRyAAAAA="
-},
 
 //==========網址類============================================
         {
